@@ -1,0 +1,23 @@
+{
+  "generated_utc": "2026-11-02T03:57:50.296346+00:00",
+  "source_files": 278,
+  "unique_sha256": 268,
+  "exact_duplicate_files": 10,
+  "no_matched_facts": 34,
+  "balance_imbalances": 8,
+  "accounting_metadata_rows": 278,
+  "pdf_links": {
+    "MATCHED_METADATA": 2,
+    "UNMATCHED": 5
+  },
+  "quality_status": "AUDIT_ONLY_NOT_VALUATION_READY",
+  "source_files_deleted": 0,
+  "original_databases_modified": false,
+  "next_steps": [
+    "Map legacy 2022 Indonesian taxonomy to concepts with manual review",
+    "Analyze bank-sector accounting totals and reconcile balance checks",
+    "Verify financial-statement scale per source, without multiplying twice",
+    "Validate YTD and instant reporting before TTM",
+    "Expand income and cash flow line items with provenance"
+  ]
+}

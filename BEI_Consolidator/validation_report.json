@@ -1,0 +1,80 @@
+{
+  "database": "/mnt/data/BEI_Consolidator/financial_staging.db",
+  "source_dir": "/mnt/data/BEI_Consolidator/samples",
+  "files": [
+    {
+      "file": "FinancialStatement-2022-Tahunan-AALI.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70795,
+      "mismatches": 0,
+      "sha256": "1b5f3fff5d1f7ffe62a48236b5e7a9546c20027ca4e7809729acc974d7e526d7"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AALI.xlsx",
+      "status": "PASS",
+      "sheets": 24,
+      "cells": 8273,
+      "mismatches": 0,
+      "sha256": "fd584b67c2a6a55c197b58b92432ae17b6ccdae6e05afaa5df976d0cf773ef0b"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AALI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15578,
+      "mismatches": 0,
+      "sha256": "8bd1d2eb998ae0cfaa1b5f4a919c43f472a2fc1072fe3ed6d70e2476b09cb040"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AMMN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15491,
+      "mismatches": 0,
+      "sha256": "e0c96da13fd190e3c8b2030eec74e1910b669b8d91fd75e2e4c80f99f8ce6505"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AMRT.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15351,
+      "mismatches": 0,
+      "sha256": "4b705cf2cea9250760a0a7b17bb02ccaade5306427147113dd5c7cd003d0ad10"
+    },
+    {
+      "file": "FinancialStatement-2026-II-APEX.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15064,
+      "mismatches": 0,
+      "sha256": "7b1102d09ea992e895196aa416a7bef4de2ce035c124cfae03e2a4f93bf44190"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ARCI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15331,
+      "mismatches": 0,
+      "sha256": "6b714ba129999df4a008c727d22639e19ad17bb59bae40ec926f44da6a0c0223"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BMRI.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 8117,
+      "mismatches": 0,
+      "sha256": "909b343286dbb1d9b420ff3062f360c2ef266e5e87cddd88add01c85c87dce4d"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BULL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14628,
+      "mismatches": 0,
+      "sha256": "f3bd26ab2be67def30b30b278da66d8924d23350d6c88a671ad495648034cab5"
+    }
+  ],
+  "passed": 9,
+  "failed": 0
+}

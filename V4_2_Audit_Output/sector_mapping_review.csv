@@ -1,0 +1,534 @@
+﻿source_id,ticker,metric,concept,context,raw_value
+41,AGRO,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,431212644
+41,AGRO,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,472750618
+41,AGRO,total_assets,Total assets,CurrentYearInstant,12440642239
+41,AGRO,total_assets,Total assets,PriorEndYearInstant,13898775065
+41,AGRO,total_liabilities,Total liabilities,CurrentYearInstant,9020392264
+41,AGRO,total_liabilities,Total liabilities,PriorEndYearInstant,10509687783
+41,AGRO,total_equity,Total equity,CurrentYearInstant,3420249975
+41,AGRO,total_equity,Total equity,PriorEndYearInstant,3389087282
+41,AGRO,general_administrative_expense,General and administrative expenses,CurrentYearDuration,303560933
+41,AGRO,general_administrative_expense,General and administrative expenses,PriorYearDuration,286078844
+41,AGRO,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,128391023
+41,AGRO,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,116186080
+41,AGRO,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-104039984
+41,AGRO,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-104725575
+41,AGRO,net_income_total,Total profit (loss),CurrentYearDuration,24351039
+41,AGRO,net_income_total,Total profit (loss),PriorYearDuration,11460505
+41,AGRO,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,24351039
+41,AGRO,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,11460505
+41,AGRO,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,0.98
+41,AGRO,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,0.5
+41,AGRO,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearDuration,-884956858
+41,AGRO,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,92151615
+41,AGRO,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearDuration,157622090
+41,AGRO,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-1126092855
+41,AGRO,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearDuration,-279851399
+41,AGRO,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,1024047226
+41,AGRO,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearDuration,2130373160
+41,AGRO,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2140267174
+41,AGRO,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearDuration,1123186993
+41,AGRO,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2130373160
+42,AGRS,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,119895
+42,AGRS,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,147716
+42,AGRS,total_assets,Total assets,CurrentYearInstant,19377403
+42,AGRS,total_assets,Total assets,PriorEndYearInstant,18304907
+42,AGRS,total_liabilities,Total liabilities,CurrentYearInstant,14008724
+42,AGRS,total_liabilities,Total liabilities,PriorEndYearInstant,14136642
+42,AGRS,total_equity,Total equity,CurrentYearInstant,5368679
+42,AGRS,total_equity,Total equity,PriorEndYearInstant,4168265
+42,AGRS,general_administrative_expense,General and administrative expenses,CurrentYearDuration,177276
+42,AGRS,general_administrative_expense,General and administrative expenses,PriorYearDuration,168204
+42,AGRS,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,176645
+42,AGRS,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,95152
+42,AGRS,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,6650
+42,AGRS,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,8302
+42,AGRS,net_income_total,Total profit (loss),CurrentYearDuration,183295
+42,AGRS,net_income_total,Total profit (loss),PriorYearDuration,103454
+42,AGRS,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,183295
+42,AGRS,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,103454
+42,AGRS,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,5.76
+42,AGRS,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,4.76
+42,AGRS,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearDuration,-2042812
+42,AGRS,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearInstant,-279385
+42,AGRS,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearDuration,-37919
+42,AGRS,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearInstant,-27033
+42,AGRS,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearDuration,752250
+42,AGRS,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearInstant,848293
+42,AGRS,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearDuration,4150971
+42,AGRS,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearInstant,3609096
+42,AGRS,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearDuration,2822490
+42,AGRS,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearInstant,4150971
+68,AGRO,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,4.14028037E8
+68,AGRO,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,4.1785973E8
+68,AGRO,total_assets,Total assets,CurrentYearInstant,1.3087107913E10
+68,AGRO,total_assets,Total assets,PriorEndYearInstant,1.3128920167E10
+68,AGRO,total_liabilities,Total liabilities,CurrentYearInstant,1.0075771939E10
+68,AGRO,total_liabilities,Total liabilities,PriorEndYearInstant,9.67555564E9
+68,AGRO,total_equity,Total equity,CurrentYearInstant,3.011335974E9
+68,AGRO,total_equity,Total equity,PriorEndYearInstant,3.453364527E9
+68,AGRO,general_administrative_expense,General and administrative expenses,CurrentYearDuration,3.47518611E8
+68,AGRO,general_administrative_expense,General and administrative expenses,PriorYearDuration,3.15152088E8
+68,AGRO,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,-3.21717012E8
+68,AGRO,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,5.5341958E7
+68,AGRO,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-1.76895936E8
+68,AGRO,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-4450188.0
+68,AGRO,net_income_total,Total profit (loss),CurrentYearDuration,-4.98612948E8
+68,AGRO,net_income_total,Total profit (loss),PriorYearDuration,5.089177E7
+68,AGRO,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,-4.98612948E8
+68,AGRO,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,5.089177E7
+68,AGRO,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,-20.2
+68,AGRO,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,0.00206
+68,AGRO,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearDuration,3.9104602E8
+68,AGRO,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,4.97246577E8
+68,AGRO,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearDuration,-5.59722684E8
+68,AGRO,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-1.79579487E8
+68,AGRO,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearDuration,-3.232115E8
+68,AGRO,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,2.45303231E8
+68,AGRO,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearDuration,1.686157314E9
+68,AGRO,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,1.123186993E9
+68,AGRO,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearDuration,1.19426915E9
+68,AGRO,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,1.686157314E9
+69,AGRS,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,124505.0
+69,AGRS,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,160789.0
+69,AGRS,total_assets,Total assets,CurrentYearInstant,2.3406738E7
+69,AGRS,total_assets,Total assets,PriorEndYearInstant,2.0061619E7
+69,AGRS,total_liabilities,Total liabilities,CurrentYearInstant,1.7591671E7
+69,AGRS,total_liabilities,Total liabilities,PriorEndYearInstant,1.4482107E7
+69,AGRS,total_equity,Total equity,CurrentYearInstant,5815067.0
+69,AGRS,total_equity,Total equity,PriorEndYearInstant,5579512.0
+69,AGRS,general_administrative_expense,General and administrative expenses,CurrentYearDuration,176965.0
+69,AGRS,general_administrative_expense,General and administrative expenses,PriorYearDuration,200564.0
+69,AGRS,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,254809.0
+69,AGRS,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,280009.0
+69,AGRS,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-57384.0
+69,AGRS,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-64158.0
+69,AGRS,net_income_total,Total profit (loss),CurrentYearDuration,197425.0
+69,AGRS,net_income_total,Total profit (loss),PriorYearDuration,215851.0
+69,AGRS,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,197425.0
+69,AGRS,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,215851.0
+69,AGRS,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,4.12E-6
+69,AGRS,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,5.16E-6
+69,AGRS,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,-246574.0
+69,AGRS,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,-725164.0
+69,AGRS,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,-33029.0
+69,AGRS,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-44102.0
+69,AGRS,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,194521.0
+69,AGRS,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,206047.0
+69,AGRS,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,2259271.0
+69,AGRS,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2822490.0
+69,AGRS,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,2174189.0
+69,AGRS,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2259271.0
+94,ARTO,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,99713.0
+94,ARTO,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,109185.0
+94,ARTO,total_assets,Total assets,CurrentYearInstant,4.1422771E7
+94,ARTO,total_assets,Total assets,PriorEndYearInstant,3.6507347E7
+94,ARTO,total_liabilities,Total liabilities,CurrentYearInstant,3.193821E7
+94,ARTO,total_liabilities,Total liabilities,PriorEndYearInstant,2.7380259E7
+94,ARTO,total_equity,Total equity,CurrentYearInstant,9026450.0
+94,ARTO,total_equity,Total equity,PriorEndYearInstant,8825930.0
+94,ARTO,general_administrative_expense,General and administrative expenses,CurrentYearDuration,665769.0
+94,ARTO,general_administrative_expense,General and administrative expenses,PriorYearDuration,509269.0
+94,ARTO,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,242461.0
+94,ARTO,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,163013.0
+94,ARTO,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-53391.0
+94,ARTO,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-35944.0
+94,ARTO,net_income_total,Total profit (loss),CurrentYearDuration,189070.0
+94,ARTO,net_income_total,Total profit (loss),PriorYearDuration,127069.0
+94,ARTO,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,189070.0
+94,ARTO,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,127069.0
+94,ARTO,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,13.64
+94,ARTO,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,9.17
+94,ARTO,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,2820028.0
+94,ARTO,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,394244.0
+94,ARTO,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,-3056596.0
+94,ARTO,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-698637.0
+94,ARTO,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,-7557.0
+94,ARTO,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-1939.0
+94,ARTO,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,5416023.0
+94,ARTO,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,4231256.0
+94,ARTO,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,5223914.0
+94,ARTO,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,3920163.0
+99,BBCA,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,2.824445E7
+99,BBCA,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,2.8473684E7
+99,BBCA,total_assets,Total assets,CurrentYearInstant,1.660579336E9
+99,BBCA,total_assets,Total assets,PriorEndYearInstant,1.586828536E9
+99,BBCA,total_liabilities,Total liabilities,CurrentYearInstant,1.379511881E9
+99,BBCA,total_liabilities,Total liabilities,PriorEndYearInstant,1.294508286E9
+99,BBCA,noncontrolling_interests,Non-controlling interests,CurrentYearInstant,230203.0
+99,BBCA,noncontrolling_interests,Non-controlling interests,PriorEndYearInstant,221077.0
+99,BBCA,total_equity,Total equity,CurrentYearInstant,2.70667746E8
+99,BBCA,total_equity,Total equity,PriorEndYearInstant,2.81687555E8
+99,BBCA,general_administrative_expense,General and administrative expenses,CurrentYearDuration,7724257.0
+99,BBCA,general_administrative_expense,General and administrative expenses,PriorYearDuration,7191673.0
+99,BBCA,selling_expense,Selling expenses,CurrentYearDuration,0.0
+99,BBCA,selling_expense,Selling expenses,PriorYearDuration,0.0
+99,BBCA,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,3.6451829E7
+99,BBCA,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,3.5793659E7
+99,BBCA,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-6906208.0
+99,BBCA,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-6770690.0
+99,BBCA,net_income_total,Total profit (loss),CurrentYearDuration,2.9545621E7
+99,BBCA,net_income_total,Total profit (loss),PriorYearDuration,2.9022969E7
+99,BBCA,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,2.9534446E7
+99,BBCA,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,2.9016414E7
+99,BBCA,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,240.0
+99,BBCA,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,235.0
+99,BBCA,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,3.2261974E7
+99,BBCA,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,4.0923218E7
+99,BBCA,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,-3.4324511E7
+99,BBCA,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,1.3076544E7
+99,BBCA,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,1.0516285E7
+99,BBCA,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-3.3082545E7
+99,BBCA,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,8.7549328E7
+99,BBCA,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,8.548253E7
+99,BBCA,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,9.449255E7
+99,BBCA,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,1.06785314E8
+100,BBNI,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,3.036153E7
+100,BBNI,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,3.1112635E7
+100,BBNI,total_assets,Total assets,CurrentYearInstant,1.461001157E9
+100,BBNI,total_assets,Total assets,PriorEndYearInstant,1.362054731E9
+100,BBNI,total_liabilities,Total liabilities,CurrentYearInstant,1.292770492E9
+100,BBNI,total_liabilities,Total liabilities,PriorEndYearInstant,1.185715363E9
+100,BBNI,noncontrolling_interests,Non-controlling interests,CurrentYearInstant,4367110.0
+100,BBNI,noncontrolling_interests,Non-controlling interests,PriorEndYearInstant,4609224.0
+100,BBNI,total_equity,Total equity,CurrentYearInstant,1.68230665E8
+100,BBNI,total_equity,Total equity,PriorEndYearInstant,1.76339368E8
+100,BBNI,general_administrative_expense,General and administrative expenses,CurrentYearDuration,1.2042397E7
+100,BBNI,general_administrative_expense,General and administrative expenses,PriorYearDuration,1.0906265E7
+100,BBNI,selling_expense,Selling expenses,CurrentYearDuration,389700.0
+100,BBNI,selling_expense,Selling expenses,PriorYearDuration,430199.0
+100,BBNI,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,1.3071282E7
+100,BBNI,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,1.231704E7
+100,BBNI,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-2261713.0
+100,BBNI,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-2151025.0
+100,BBNI,net_income_total,Total profit (loss),CurrentYearDuration,1.0809569E7
+100,BBNI,net_income_total,Total profit (loss),PriorYearDuration,1.0166015E7
+100,BBNI,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,1.0755836E7
+100,BBNI,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,1.0094039E7
+100,BBNI,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,2.89E-4
+100,BBNI,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,2.71E-4
+100,BBNI,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,-155795.0
+100,BBNI,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,7.6649882E7
+100,BBNI,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,6625734.0
+100,BBNI,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-1028593.0
+100,BBNI,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,1.6031382E7
+100,BBNI,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-2.7581202E7
+100,BBNI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,1.52852268E8
+100,BBNI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,1.04074764E8
+100,BBNI,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,1.75131905E8
+100,BBNI,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,1.52252099E8
+101,BBRI,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,6.239377E7
+101,BBRI,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,6.329424E7
+101,BBRI,total_assets,Total assets,CurrentYearInstant,2.352380589E9
+101,BBRI,total_assets,Total assets,PriorEndYearInstant,2.135371105E9
+101,BBRI,total_liabilities,Total liabilities,CurrentYearInstant,2.023705711E9
+101,BBRI,total_liabilities,Total liabilities,PriorEndYearInstant,1.804429671E9
+101,BBRI,noncontrolling_interests,Non-controlling interests,CurrentYearInstant,6751691.0
+101,BBRI,noncontrolling_interests,Non-controlling interests,PriorEndYearInstant,6907576.0
+101,BBRI,total_equity,Total equity,CurrentYearInstant,3.28674878E8
+101,BBRI,total_equity,Total equity,PriorEndYearInstant,3.30941434E8
+101,BBRI,general_administrative_expense,General and administrative expenses,CurrentYearDuration,1.5950586E7
+101,BBRI,general_administrative_expense,General and administrative expenses,PriorYearDuration,1.4739008E7
+101,BBRI,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,4.0001209E7
+101,BBRI,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,3.4744196E7
+101,BBRI,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-8818623.0
+101,BBRI,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-8211049.0
+101,BBRI,net_income_total,Total profit (loss),CurrentYearDuration,3.1182586E7
+101,BBRI,net_income_total,Total profit (loss),PriorYearDuration,2.6533147E7
+101,BBRI,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,3.0865402E7
+101,BBRI,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,2.6276701E7
+101,BBRI,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,2.05E-4
+101,BBRI,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,1.74E-4
+101,BBRI,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,7.5808167E7
+101,BBRI,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,7.6349601E7
+101,BBRI,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,-8451696.0
+101,BBRI,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-1.2247448E7
+101,BBRI,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,-1575647.0
+101,BBRI,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-3.8695211E7
+101,BBRI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,1.31235715E8
+101,BBRI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2.0532838E8
+101,BBRI,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,1.97014323E8
+101,BBRI,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2.30712725E8
+103,BBSI,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,1.76414144242E11
+103,BBSI,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,1.79486140338E11
+103,BBSI,total_assets,Total assets,CurrentYearInstant,1.5942960738956E13
+103,BBSI,total_assets,Total assets,PriorEndYearInstant,1.2214396484644E13
+103,BBSI,total_liabilities,Total liabilities,CurrentYearInstant,1.2377588503513E13
+103,BBSI,total_liabilities,Total liabilities,PriorEndYearInstant,8.752048122301E12
+103,BBSI,total_equity,Total equity,CurrentYearInstant,3.565372235443E12
+103,BBSI,total_equity,Total equity,PriorEndYearInstant,3.462348362343E12
+103,BBSI,general_administrative_expense,General and administrative expenses,CurrentYearDuration,1.76432010873E11
+103,BBSI,general_administrative_expense,General and administrative expenses,PriorYearDuration,9.8785435742E10
+103,BBSI,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,1.55138497166E11
+103,BBSI,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,9.3838515172E10
+103,BBSI,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-3.413046934E10
+103,BBSI,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-2.0644473338E10
+103,BBSI,net_income_total,Total profit (loss),CurrentYearDuration,1.21008027826E11
+103,BBSI,net_income_total,Total profit (loss),PriorYearDuration,7.3194041834E10
+103,BBSI,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,1.21008027826E11
+103,BBSI,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,7.3194041834E10
+103,BBSI,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,33.0
+103,BBSI,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,20.0
+103,BBSI,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearDuration,5.17673365041E11
+103,BBSI,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,-1.52381737155E11
+103,BBSI,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearDuration,-2.130412561E9
+103,BBSI,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-3.7003067606E10
+103,BBSI,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearDuration,-1.794124981E9
+103,BBSI,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-1.44585E9
+103,BBSI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearDuration,7.29234678033E11
+103,BBSI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,6.28705337385E11
+103,BBSI,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearDuration,1.242983505532E12
+103,BBSI,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,4.37874682624E11
+105,BBTN,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,1.0600639E7
+105,BBTN,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,1.0508728E7
+105,BBTN,total_assets,Total assets,CurrentYearInstant,5.45161326E8
+105,BBTN,total_assets,Total assets,PriorEndYearInstant,5.2779342E8
+105,BBTN,total_liabilities,Total liabilities,CurrentYearInstant,4.75394963E8
+105,BBTN,total_liabilities,Total liabilities,PriorEndYearInstant,4.59700649E8
+105,BBTN,noncontrolling_interests,Non-controlling interests,CurrentYearInstant,18.0
+105,BBTN,noncontrolling_interests,Non-controlling interests,PriorEndYearInstant,18.0
+105,BBTN,total_equity,Total equity,CurrentYearInstant,3.7557786E7
+105,BBTN,total_equity,Total equity,PriorEndYearInstant,3.6210293E7
+105,BBTN,general_administrative_expense,General and administrative expenses,CurrentYearDuration,4075470.0
+105,BBTN,general_administrative_expense,General and administrative expenses,PriorYearDuration,3794926.0
+105,BBTN,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,2999185.0
+105,BBTN,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,2130379.0
+105,BBTN,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-596973.0
+105,BBTN,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-423990.0
+105,BBTN,net_income_total,Total profit (loss),CurrentYearDuration,2402212.0
+105,BBTN,net_income_total,Total profit (loss),PriorYearDuration,1706389.0
+105,BBTN,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,2402212.0
+105,BBTN,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,1706389.0
+105,BBTN,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,171.0
+105,BBTN,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,122.0
+105,BBTN,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,-3.2053797E7
+105,BBTN,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,9374228.0
+105,BBTN,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,-1.1444629E7
+105,BBTN,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-3080112.0
+105,BBTN,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,1.9487134E7
+105,BBTN,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-1.1137477E7
+105,BBTN,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,5.139862E7
+105,BBTN,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,3.545839E7
+105,BBTN,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,2.7387328E7
+105,BBTN,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,3.0615029E7
+109,BMRI,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,6.0838243E7
+109,BMRI,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,7.2062331E7
+109,BMRI,total_assets,Total assets,CurrentYearInstant,2.527568193E9
+109,BMRI,total_assets,Total assets,PriorEndYearInstant,2.829948026E9
+109,BMRI,total_liabilities,Total liabilities,CurrentYearInstant,2.234544953E9
+109,BMRI,total_liabilities,Total liabilities,PriorEndYearInstant,2.212925204E9
+109,BMRI,noncontrolling_interests,Non-controlling interests,CurrentYearInstant,8429839.0
+109,BMRI,noncontrolling_interests,Non-controlling interests,PriorEndYearInstant,3.3651329E7
+109,BMRI,total_equity,Total equity,CurrentYearInstant,2.9302324E8
+109,BMRI,total_equity,Total equity,PriorEndYearInstant,3.27401998E8
+109,BMRI,general_administrative_expense,General and administrative expenses,CurrentYearDuration,2.0416907E7
+109,BMRI,general_administrative_expense,General and administrative expenses,PriorYearDuration,2.5700129E7
+109,BMRI,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,3.9041168E7
+109,BMRI,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,3.3523373E7
+109,BMRI,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-7414144.0
+109,BMRI,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-6673047.0
+109,BMRI,net_income_total,Total profit (loss),CurrentYearDuration,3.1627024E7
+109,BMRI,net_income_total,Total profit (loss),PriorYearDuration,2.6850326E7
+109,BMRI,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,3.0412319E7
+109,BMRI,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,2.4455082E7
+109,BMRI,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,326.17
+109,BMRI,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,262.02
+109,BMRI,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,-5.1810849E7
+109,BMRI,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,5.9167278E7
+109,BMRI,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,2268489.0
+109,BMRI,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-2974466.0
+109,BMRI,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,-3.9756097E7
+109,BMRI,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-2.7856466E7
+109,BMRI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,3.79877189E8
+109,BMRI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2.44038123E8
+109,BMRI,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,2.64212231E8
+109,BMRI,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2.73050048E8
+110,BNGA,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,7250859.0
+110,BNGA,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,7201311.0
+110,BNGA,total_assets,Total assets,CurrentYearInstant,3.81966885E8
+110,BNGA,total_assets,Total assets,PriorEndYearInstant,3.72698893E8
+110,BNGA,total_liabilities,Total liabilities,CurrentYearInstant,3.25659607E8
+110,BNGA,total_liabilities,Total liabilities,PriorEndYearInstant,3.1454171E8
+110,BNGA,noncontrolling_interests,Non-controlling interests,CurrentYearInstant,196263.0
+110,BNGA,noncontrolling_interests,Non-controlling interests,PriorEndYearInstant,217326.0
+110,BNGA,total_equity,Total equity,CurrentYearInstant,5.6307278E7
+110,BNGA,total_equity,Total equity,PriorEndYearInstant,5.8157183E7
+110,BNGA,general_administrative_expense,General and administrative expenses,CurrentYearDuration,1980617.0
+110,BNGA,general_administrative_expense,General and administrative expenses,PriorYearDuration,1713214.0
+110,BNGA,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,4327811.0
+110,BNGA,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,4434259.0
+110,BNGA,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-892330.0
+110,BNGA,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-921341.0
+110,BNGA,net_income_total,Total profit (loss),CurrentYearDuration,3435481.0
+110,BNGA,net_income_total,Total profit (loss),PriorYearDuration,3512918.0
+110,BNGA,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,3436108.0
+110,BNGA,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,3454867.0
+110,BNGA,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,136.67
+110,BNGA,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,137.43
+110,BNGA,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,-3885149.0
+110,BNGA,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,-75143.0
+110,BNGA,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,54698.0
+110,BNGA,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,8077613.0
+110,BNGA,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,-5224400.0
+110,BNGA,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-5895333.0
+110,BNGA,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,2.9750458E7
+110,BNGA,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2.4337359E7
+110,BNGA,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,1.9888715E7
+110,BNGA,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2.6748636E7
+111,BNLI,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,3632696.0
+111,BNLI,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,3718975.0
+111,BNLI,total_assets,Total assets,CurrentYearInstant,2.72625732E8
+111,BNLI,total_assets,Total assets,PriorEndYearInstant,2.68342325E8
+111,BNLI,total_liabilities,Total liabilities,CurrentYearInstant,2.27475814E8
+111,BNLI,total_liabilities,Total liabilities,PriorEndYearInstant,2.22494311E8
+111,BNLI,total_equity,Total equity,CurrentYearInstant,4.5149918E7
+111,BNLI,total_equity,Total equity,PriorEndYearInstant,4.5848014E7
+111,BNLI,general_administrative_expense,General and administrative expenses,CurrentYearDuration,751222.0
+111,BNLI,general_administrative_expense,General and administrative expenses,PriorYearDuration,847361.0
+111,BNLI,selling_expense,Selling expenses,CurrentYearDuration,27959.0
+111,BNLI,selling_expense,Selling expenses,PriorYearDuration,47417.0
+111,BNLI,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,2219729.0
+111,BNLI,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,2124456.0
+111,BNLI,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-500682.0
+111,BNLI,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-479173.0
+111,BNLI,net_income_total,Total profit (loss),CurrentYearDuration,1719047.0
+111,BNLI,net_income_total,Total profit (loss),PriorYearDuration,1645283.0
+111,BNLI,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,1719047.0
+111,BNLI,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,1645283.0
+111,BNLI,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,47.51
+111,BNLI,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,4.547E-5
+111,BNLI,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,-9951090.0
+111,BNLI,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,2294052.0
+111,BNLI,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,4587820.0
+111,BNLI,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-1218629.0
+111,BNLI,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,7347681.0
+111,BNLI,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-2314732.0
+111,BNLI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,2.0240426E7
+111,BNLI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2.3343797E7
+111,BNLI,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,2.2812487E7
+111,BNLI,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2.2088052E7
+120,AGRO,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,3.85477027E8
+120,AGRO,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,4.14028037E8
+120,AGRO,total_assets,Total assets,CurrentYearInstant,1.2567550608E10
+120,AGRO,total_assets,Total assets,PriorEndYearInstant,1.3087107913E10
+120,AGRO,total_liabilities,Total liabilities,CurrentYearInstant,9.63027944E9
+120,AGRO,total_liabilities,Total liabilities,PriorEndYearInstant,1.0075771939E10
+120,AGRO,total_equity,Total equity,CurrentYearInstant,2.937271168E9
+120,AGRO,total_equity,Total equity,PriorEndYearInstant,3.011335974E9
+120,AGRO,general_administrative_expense,General and administrative expenses,CurrentYearDuration,2.98303552E8
+120,AGRO,general_administrative_expense,General and administrative expenses,PriorYearDuration,2.19744091E8
+120,AGRO,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,2.1011177E7
+120,AGRO,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,4.1827309E7
+120,AGRO,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,151349.0
+120,AGRO,net_income_total,Total profit (loss),CurrentYearDuration,2.1011177E7
+120,AGRO,net_income_total,Total profit (loss),PriorYearDuration,4.1978658E7
+120,AGRO,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,2.1011177E7
+120,AGRO,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,4.1978658E7
+120,AGRO,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,0.85
+120,AGRO,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,1.7
+120,AGRO,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearDuration,-1.155554309E9
+120,AGRO,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,3.39896849E8
+120,AGRO,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearDuration,1.66280314E8
+120,AGRO,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-6.26195673E8
+120,AGRO,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearDuration,8.25521897E8
+120,AGRO,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-3.11934113E8
+120,AGRO,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearDuration,1.19426915E9
+120,AGRO,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,1.686157314E9
+120,AGRO,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearDuration,1.030517052E9
+120,AGRO,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,1.087924377E9
+129,BMRI,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,6.1554856E7
+129,BMRI,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,7.2062331E7
+129,BMRI,total_assets,Total assets,CurrentYearInstant,2.588298318E9
+129,BMRI,total_assets,Total assets,PriorEndYearInstant,2.829948026E9
+129,BMRI,total_liabilities,Total liabilities,CurrentYearInstant,2.285500952E9
+129,BMRI,total_liabilities,Total liabilities,PriorEndYearInstant,2.212925204E9
+129,BMRI,noncontrolling_interests,Non-controlling interests,CurrentYearInstant,8755884.0
+129,BMRI,noncontrolling_interests,Non-controlling interests,PriorEndYearInstant,3.3651329E7
+129,BMRI,total_equity,Total equity,CurrentYearInstant,3.02797366E8
+129,BMRI,total_equity,Total equity,PriorEndYearInstant,3.27401998E8
+129,BMRI,general_administrative_expense,General and administrative expenses,CurrentYearDuration,3.0401987E7
+129,BMRI,general_administrative_expense,General and administrative expenses,PriorYearDuration,3.9344605E7
+129,BMRI,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,5.7832621E7
+129,BMRI,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,5.1547203E7
+129,BMRI,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-1.0723098E7
+129,BMRI,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-1.0174262E7
+129,BMRI,net_income_total,Total profit (loss),CurrentYearDuration,4.7109523E7
+129,BMRI,net_income_total,Total profit (loss),PriorYearDuration,4.1372941E7
+129,BMRI,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,4.5534001E7
+129,BMRI,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,3.7730142E7
+129,BMRI,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,488.13
+129,BMRI,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,404.25
+129,BMRI,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,-6.2331326E7
+129,BMRI,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,5.7993161E7
+129,BMRI,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,-3858466.0
+129,BMRI,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-2.0932013E7
+129,BMRI,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,-3.3852754E7
+129,BMRI,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-4.4343866E7
+129,BMRI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,3.79877189E8
+129,BMRI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2.44038123E8
+129,BMRI,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,2.53531508E8
+129,BMRI,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2.39878795E8
+130,BNGA,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,7239865.0
+130,BNGA,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,7201311.0
+130,BNGA,total_assets,Total assets,CurrentYearInstant,3.84790192E8
+130,BNGA,total_assets,Total assets,PriorEndYearInstant,3.72698893E8
+130,BNGA,total_liabilities,Total liabilities,CurrentYearInstant,3.27207403E8
+130,BNGA,total_liabilities,Total liabilities,PriorEndYearInstant,3.1454171E8
+130,BNGA,noncontrolling_interests,Non-controlling interests,CurrentYearInstant,211733.0
+130,BNGA,noncontrolling_interests,Non-controlling interests,PriorEndYearInstant,217326.0
+130,BNGA,total_equity,Total equity,CurrentYearInstant,5.7582789E7
+130,BNGA,total_equity,Total equity,PriorEndYearInstant,5.8157183E7
+130,BNGA,general_administrative_expense,General and administrative expenses,CurrentYearDuration,2814325.0
+130,BNGA,general_administrative_expense,General and administrative expenses,PriorYearDuration,2800403.0
+130,BNGA,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,5784378.0
+130,BNGA,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,6743846.0
+130,BNGA,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-1277896.0
+130,BNGA,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-1409864.0
+130,BNGA,net_income_total,Total profit (loss),CurrentYearDuration,4506482.0
+130,BNGA,net_income_total,Total profit (loss),PriorYearDuration,5333982.0
+130,BNGA,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,4491646.0
+130,BNGA,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,5268586.0
+130,BNGA,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,178.65
+130,BNGA,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,209.57
+130,BNGA,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,2028268.0
+130,BNGA,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,3195958.0
+130,BNGA,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,4334184.0
+130,BNGA,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,4762373.0
+130,BNGA,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,-5178032.0
+130,BNGA,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-5784094.0
+130,BNGA,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,2.9750458E7
+130,BNGA,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2.4337359E7
+130,BNGA,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,2.9983746E7
+130,BNGA,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2.7040653E7
+131,BNLI,property_plant_equipment,"Property, plant, and equipment",CurrentYearInstant,3613223.0
+131,BNLI,property_plant_equipment,"Property, plant, and equipment",PriorEndYearInstant,3718975.0
+131,BNLI,total_assets,Total assets,CurrentYearInstant,2.77223064E8
+131,BNLI,total_assets,Total assets,PriorEndYearInstant,2.68342325E8
+131,BNLI,total_liabilities,Total liabilities,CurrentYearInstant,2.30809575E8
+131,BNLI,total_liabilities,Total liabilities,PriorEndYearInstant,2.22494311E8
+131,BNLI,total_equity,Total equity,CurrentYearInstant,4.6413489E7
+131,BNLI,total_equity,Total equity,PriorEndYearInstant,4.5848014E7
+131,BNLI,general_administrative_expense,General and administrative expenses,CurrentYearDuration,886981.0
+131,BNLI,general_administrative_expense,General and administrative expenses,PriorYearDuration,1206120.0
+131,BNLI,selling_expense,Selling expenses,CurrentYearDuration,38658.0
+131,BNLI,selling_expense,Selling expenses,PriorYearDuration,53407.0
+131,BNLI,profit_before_tax,Total profit (loss) before tax,CurrentYearDuration,3315695.0
+131,BNLI,profit_before_tax,Total profit (loss) before tax,PriorYearDuration,3718813.0
+131,BNLI,tax_benefit_expense,Tax benefit (expenses),CurrentYearDuration,-746912.0
+131,BNLI,tax_benefit_expense,Tax benefit (expenses),PriorYearDuration,-835852.0
+131,BNLI,net_income_total,Total profit (loss),CurrentYearDuration,2568783.0
+131,BNLI,net_income_total,Total profit (loss),PriorYearDuration,2882961.0
+131,BNLI,net_income_parent,Profit (loss) attributable to parent entity,CurrentYearDuration,2568783.0
+131,BNLI,net_income_parent,Profit (loss) attributable to parent entity,PriorYearDuration,2882961.0
+131,BNLI,eps_basic,Basic earnings (loss) per share from continuing operations,CurrentYearDuration,71.0
+131,BNLI,eps_basic,Basic earnings (loss) per share from continuing operations,PriorYearDuration,80.0
+131,BNLI,cashflow_operating,Total net cash flows received from (used in) operating activities,CurrentYearInstant,-1.4550927E7
+131,BNLI,cashflow_operating,Total net cash flows received from (used in) operating activities,PriorYearDuration,1.0869274E7
+131,BNLI,cashflow_investing,Total net cash flows received from (used in) investing activities,CurrentYearInstant,8178713.0
+131,BNLI,cashflow_investing,Total net cash flows received from (used in) investing activities,PriorYearDuration,-8088152.0
+131,BNLI,cashflow_financing,Total net cash flows received from (used in) financing activities,CurrentYearInstant,6874118.0
+131,BNLI,cashflow_financing,Total net cash flows received from (used in) financing activities,PriorYearDuration,-3027956.0
+131,BNLI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",CurrentYearInstant,2.0240426E7
+131,BNLI,cash_begin,"Cash and cash equivalents cash flows, beginning of the period",PriorYearDuration,2.3343797E7
+131,BNLI,cash_end,"Cash and cash equivalents cash flows, end of the period",CurrentYearInstant,2.1225106E7
+131,BNLI,cash_end,"Cash and cash equivalents cash flows, end of the period",PriorYearDuration,2.3264754E7

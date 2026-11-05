@@ -1,0 +1,2232 @@
+{
+  "database": "C:\\Analisis_Saham_BEI\\financial_production.db",
+  "source_dir": "C:\\Analisis_Saham_BEI\\Laporan_Keuangan",
+  "files": [
+    {
+      "file": "FinancialStatement-2022-Tahunan-AALI.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70795,
+      "mismatches": 0,
+      "sha256": "1b5f3fff5d1f7ffe62a48236b5e7a9546c20027ca4e7809729acc974d7e526d7"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ABBA.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 69901,
+      "mismatches": 0,
+      "sha256": "0ea35004239830a0422fc036de323005e000105052dc2b807175f6cefb24285f"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ABDA.xlsx",
+      "status": "PASS",
+      "sheets": 24,
+      "cells": 9085,
+      "mismatches": 0,
+      "sha256": "af7ed919a193fa2fbe86d5f2753606d27c0e2781ce4714b2be37b81cf43d22a4"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ABMM.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 71841,
+      "mismatches": 0,
+      "sha256": "a196e73b6920d42db8abf124e6785c50361d9cd8a55fd7967889dac74cd24152"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ACES.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70056,
+      "mismatches": 0,
+      "sha256": "daff87041b6b7d455b777930dc5884e756005654c6057778ba070b61067453b2"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ACST.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70475,
+      "mismatches": 0,
+      "sha256": "d13fc205a8066f9c2235a36bf98bc81b495a473c646009f818cd3db66c1097ed"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ADCP.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 67650,
+      "mismatches": 0,
+      "sha256": "740512facae3f2aeec496056bf833925d07407ba2a469b3fe4be766fda8e7e0f"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ADES.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70673,
+      "mismatches": 0,
+      "sha256": "4591568524dc2874db88a403bf5b19495489cdaa7c969a5805c8493f6202c42b"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ADHI.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 68425,
+      "mismatches": 0,
+      "sha256": "e918638869567a3777f4b00e43675437945e51146e3041d5ca43241c75c8aded"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ADMF.xlsx",
+      "status": "PASS",
+      "sheets": 29,
+      "cells": 45545,
+      "mismatches": 0,
+      "sha256": "e21198d0caebd297b69dbf0898fc4b22e9b5b26aad09318607db78d082f2868d"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ADMG.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70059,
+      "mismatches": 0,
+      "sha256": "085d47bc7b4895d72a47ce4ce8df98f8a55cf6ab920d479fa1d54d37d41d148f"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ADMR.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70423,
+      "mismatches": 0,
+      "sha256": "92a7d3bb7b79619cec5725f888091fef2edda934163c5829dcfd5768890d9fe4"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-ADRO.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70331,
+      "mismatches": 0,
+      "sha256": "595bead457d47d8c799431eb2f7ef31eafa0c1b0e709bc125265f49ddd80ba9e"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AGAR.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 79790,
+      "mismatches": 0,
+      "sha256": "586e23a78d0fcb0e68275de6482654afd7560c27526fbeb7605a56b01ca5fedc"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AGII.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 81651,
+      "mismatches": 0,
+      "sha256": "0bc9bd873287eda72090b02052b159bf76b8d39398f4e623cf62b52d5916b26d"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AGRO.xlsx",
+      "status": "PASS",
+      "sheets": 45,
+      "cells": 32957,
+      "mismatches": 0,
+      "sha256": "6aa3ae2887f69175a1764f8ef9a33c05eb17ee1cb4480d98fe70c861641550a1"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AGRS.xlsx",
+      "status": "PASS",
+      "sheets": 45,
+      "cells": 32391,
+      "mismatches": 0,
+      "sha256": "54d2edeb03aaaae451d479d3a55d8d80fe67e96f9ec9f62c1fed267e5468e212"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AHAP.xlsx",
+      "status": "PASS",
+      "sheets": 24,
+      "cells": 9511,
+      "mismatches": 0,
+      "sha256": "1a2ff85e0ee55e64ca894eb39d6c8374eb6cdf7ba4e96580168bacfc476d9394"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AIMS.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70431,
+      "mismatches": 0,
+      "sha256": "889d9f9ede437cad3f01fd32cd2174d6ab845585db3ae457d5908c58fa465f31"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AISA.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70336,
+      "mismatches": 0,
+      "sha256": "b1ac974d53a250bbcb255cc5ab09511d1eca4ffc0ae64f302ef662846bf80662"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AKKU.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 72593,
+      "mismatches": 0,
+      "sha256": "77471cf18eebfc5fe7663f3f060943719dd428a0c39b4ddc1416666be9f2f40d"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AKPI.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 74356,
+      "mismatches": 0,
+      "sha256": "b9a788c351a811eb22483ecdcf2c06ab2a326406eccbea695e034d9d44d460d7"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AKRA.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 70388,
+      "mismatches": 0,
+      "sha256": "445e8ce2a6771faff9886f01a0a8f69e665c40e9d5f360508c167fcbe71ef84e"
+    },
+    {
+      "file": "FinancialStatement-2022-Tahunan-AKSI.xlsx",
+      "status": "PASS",
+      "sheets": 52,
+      "cells": 72148,
+      "mismatches": 0,
+      "sha256": "889336e5d98dd55f126f22550b158c459d0fb8faf706941781d6d3bba5c74ea7"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AALI.xlsx",
+      "status": "PASS",
+      "sheets": 24,
+      "cells": 8273,
+      "mismatches": 0,
+      "sha256": "fd584b67c2a6a55c197b58b92432ae17b6ccdae6e05afaa5df976d0cf773ef0b"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ABBA.xlsx",
+      "status": "PASS",
+      "sheets": 24,
+      "cells": 8165,
+      "mismatches": 0,
+      "sha256": "e27bf9cb39a097bcad63b7f84b0071ccd7938be6a0844d0128ea3bf4ec34ed9a"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ABDA.xlsx",
+      "status": "PASS",
+      "sheets": 14,
+      "cells": 2178,
+      "mismatches": 0,
+      "sha256": "86200bffb1b43d31fad770f6d92a558654415f67842a6f01b445d34d9c6238a7"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ABMM.xlsx",
+      "status": "PASS",
+      "sheets": 38,
+      "cells": 10586,
+      "mismatches": 0,
+      "sha256": "dc93ab78ba99a8bc83ad22122702d8c2cd2a1e37396b91eb8511ec066c0cade2"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ACES.xlsx",
+      "status": "PASS",
+      "sheets": 32,
+      "cells": 9184,
+      "mismatches": 0,
+      "sha256": "d9067fe96a6c9fec2159e1eea589fb17e329104c9d888ad33cc51ed989dd2de6"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ACRO.xlsx",
+      "status": "PASS",
+      "sheets": 27,
+      "cells": 8631,
+      "mismatches": 0,
+      "sha256": "de9305b48d51e48b88dbe993fc4a3f747043033d64f9f977a15b6550687e9d5b"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ACST.xlsx",
+      "status": "PASS",
+      "sheets": 37,
+      "cells": 8709,
+      "mismatches": 0,
+      "sha256": "dbc024200685014443e3967f46b3726323dff51e36629cebf6c0d375f37e746c"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ADCP.xlsx",
+      "status": "PASS",
+      "sheets": 31,
+      "cells": 9771,
+      "mismatches": 0,
+      "sha256": "7cbc9091395db77da84d6182804b76b6db33cc6233d756d5fe195527503168d5"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ADES.xlsx",
+      "status": "PASS",
+      "sheets": 30,
+      "cells": 9018,
+      "mismatches": 0,
+      "sha256": "1dc9f525c957ea740b1ff08696174e7d2959d4eaa24235e327289888e55321fa"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ADHI.xlsx",
+      "status": "PASS",
+      "sheets": 38,
+      "cells": 11102,
+      "mismatches": 0,
+      "sha256": "06980dab2ee9ca7b8b6f1fed973be33f318338cd3597ff5ce35de54f5359f829"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ADMF.xlsx",
+      "status": "PASS",
+      "sheets": 20,
+      "cells": 5942,
+      "mismatches": 0,
+      "sha256": "32625135daab8f2d49734f6af20035134fc7338ed99f5891b285984527d56bcb"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ADMG.xlsx",
+      "status": "PASS",
+      "sheets": 36,
+      "cells": 9788,
+      "mismatches": 0,
+      "sha256": "501900db7546517f0834818f852a4ac6729a36c497fd28f018319c5bdbe3b3de"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ADMR.xlsx",
+      "status": "PASS",
+      "sheets": 28,
+      "cells": 8780,
+      "mismatches": 0,
+      "sha256": "1299a0eacc65fa4c7403c7da8cd118a8844bd337737f3f6aa39aa646d0b65120"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-ADRO.xlsx",
+      "status": "PASS",
+      "sheets": 30,
+      "cells": 9180,
+      "mismatches": 0,
+      "sha256": "ef761be3be563f442c94cc40639c17955a7609e19c30daf51559fa2e4b1cfa8f"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AEGS.xlsx",
+      "status": "PASS",
+      "sheets": 35,
+      "cells": 9471,
+      "mismatches": 0,
+      "sha256": "d8ced3c7d28ab18716d610b1d5f1ab5a72c185a243f656fbb15cfd46ef58d88b"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AGAR.xlsx",
+      "status": "PASS",
+      "sheets": 37,
+      "cells": 9683,
+      "mismatches": 0,
+      "sha256": "ec171640e2d1ce5d8e98f2f59d05a0f326afc1e5e29b2ed2574404aa7832ba69"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AGRO.xlsx",
+      "status": "PASS",
+      "sheets": 14,
+      "cells": 2710,
+      "mismatches": 0,
+      "sha256": "a28886afbe529b63e766fd63d80625c3a2b87993636451f0243fafef3a6fff34"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AGRS.xlsx",
+      "status": "PASS",
+      "sheets": 23,
+      "cells": 5556,
+      "mismatches": 0,
+      "sha256": "73decad215d7a7e630680c553e6829d8c5adfb317b60a1836ef4a9750d629e46"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AHAP.xlsx",
+      "status": "PASS",
+      "sheets": 14,
+      "cells": 2056,
+      "mismatches": 0,
+      "sha256": "1c1fb3af1d71284b9b3ef564f724a7ce3ed56b06820fb18927183da38b914b7d"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AIMS.xlsx",
+      "status": "PASS",
+      "sheets": 33,
+      "cells": 9072,
+      "mismatches": 0,
+      "sha256": "f449a78c93bb76c675bc27b077d56d76408839cda974edb5ab630f7334caaa54"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AISA.xlsx",
+      "status": "PASS",
+      "sheets": 24,
+      "cells": 4429,
+      "mismatches": 0,
+      "sha256": "7fc731c25f0d41903084a4c0021c20e696c4a239bf9e89cc839f7c121d4dc3a6"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AKKU.xlsx",
+      "status": "PASS",
+      "sheets": 27,
+      "cells": 8524,
+      "mismatches": 0,
+      "sha256": "7b02babc9782723db9f886f6159b79c7e32788bc7c346f46040f76b77dc9d3bc"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AKPI.xlsx",
+      "status": "PASS",
+      "sheets": 24,
+      "cells": 4253,
+      "mismatches": 0,
+      "sha256": "82d851cc2238f94209af2185c8e2e182f8dc1feae325141c47cf9d641b119669"
+    },
+    {
+      "file": "FinancialStatement-2023-Tahunan-AKRA.xlsx",
+      "status": "PASS",
+      "sheets": 42,
+      "cells": 11722,
+      "mismatches": 0,
+      "sha256": "137036f8cf3a978162de1c3d8328a349200304f8cf4a0ffc565800cc22a367fc"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AADI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15610,
+      "mismatches": 0,
+      "sha256": "7f9b986622218dbd6565ed9bd3cd20c700890f48a58719f1db89163612570304"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AALI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15578,
+      "mismatches": 0,
+      "sha256": "8bd1d2eb998ae0cfaa1b5f4a919c43f472a2fc1072fe3ed6d70e2476b09cb040"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ABBA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15330,
+      "mismatches": 0,
+      "sha256": "65ef04d065ba366cad08f58b2d4c65b4950427f57762d0913765a87cc2f6e0db"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ABDA.xlsx",
+      "status": "PASS",
+      "sheets": 27,
+      "cells": 2782,
+      "mismatches": 0,
+      "sha256": "fa2d40279a7d4a6043c9f2f14d5f3c09976f143920aac5992f72613eaad1488d"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ABMM.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15823,
+      "mismatches": 0,
+      "sha256": "34d0ae60cb09344305eac11c502df45653b71bb60e75d469f02621d52561e482"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ACES.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15347,
+      "mismatches": 0,
+      "sha256": "efe8184185b62da558da781bb7ebf017c1d302c73d1b1f96aba4aa61f20c55ae"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ACRO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15226,
+      "mismatches": 0,
+      "sha256": "d565a7cb901d423799542c29038f0ba44f033b7b1af2101498ea780f18ec1d74"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ACST.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15627,
+      "mismatches": 0,
+      "sha256": "5eadbf17734f9c504a3468e8d892bdba6af59840836732fb3a2707cd0a2e10f1"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ADCP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14569,
+      "mismatches": 0,
+      "sha256": "380a7603291eac275046d7dab66069b1045da1a143ade179662d030aed693ba4"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ADHI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14999,
+      "mismatches": 0,
+      "sha256": "acd3b6e5adc45c2ef1c89560cfff29ed3f5f1b6550b60a91e4999ac9b4d54263"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ADMF.xlsx",
+      "status": "PASS",
+      "sheets": 34,
+      "cells": 9106,
+      "mismatches": 0,
+      "sha256": "d779e8795146bf3256c913e544a958a72d1abdb887688e787fa61b28930c478c"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ADMG.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15293,
+      "mismatches": 0,
+      "sha256": "9d2b80c5f978366267ec7f7fd9985697257dd76326240104eedd4f71fcee3ce1"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ADMR (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15335,
+      "mismatches": 0,
+      "sha256": "c4f209e7abf77b370fc9e71fb019cd1808b165ae1819a91e7a6c05323c2caee9"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ADMR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15335,
+      "mismatches": 0,
+      "sha256": "c4f209e7abf77b370fc9e71fb019cd1808b165ae1819a91e7a6c05323c2caee9"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ADRO (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15643,
+      "mismatches": 0,
+      "sha256": "3a1077a41ced3874e1109d0bf1564a04da5847e023ad68b16909899b0ed71553"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-ADRO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15643,
+      "mismatches": 0,
+      "sha256": "3a1077a41ced3874e1109d0bf1564a04da5847e023ad68b16909899b0ed71553"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AEGS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15226,
+      "mismatches": 0,
+      "sha256": "c9803c100ae67d53a23ed0b604e41ed248f6dcec3012a6b8007158e3b5ea45c1"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AGAR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15171,
+      "mismatches": 0,
+      "sha256": "cb27ff39b04d4aa6b21fb72a6dd5103c64a3952e5200343b25af561672cba95a"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AGII.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15614,
+      "mismatches": 0,
+      "sha256": "dc2d08d73f68aca8a52d9554e1ebcb3192d1ec92d5dd6f28e5207f76b632c5f4"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AGRO.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 6892,
+      "mismatches": 0,
+      "sha256": "d5f9d403a73ab0f60983b514fe9f04044720e64681cc5d5cdf1b92e8ab95b9ad"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AGRS.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7135,
+      "mismatches": 0,
+      "sha256": "c84f9167174ec8de4bf97cb04b3e6e7264dbed9a3fddf93744758ebcdf84ada0"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AHAP.xlsx",
+      "status": "PASS",
+      "sheets": 27,
+      "cells": 2649,
+      "mismatches": 0,
+      "sha256": "3465cf1cccf05cb4e788dadd765790e0656933fc9c1e5fdfabaa15f548ab03c1"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AIMS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14903,
+      "mismatches": 0,
+      "sha256": "da1a9a8d1b995df9d8fd7d8016173537f0dbbf4be403c9b62e087313f54c76af"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AISA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15594,
+      "mismatches": 0,
+      "sha256": "0f9789b8a104aabd711376485d2c48e3f7afa4c907f96020bdb7fe06394aaec8"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AKKU.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15113,
+      "mismatches": 0,
+      "sha256": "d42d368be4168bede9cab8e9553807b2172e6e4503a07ab4d55315523d15862e"
+    },
+    {
+      "file": "FinancialStatement-2025-Tahunan-AKPI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15525,
+      "mismatches": 0,
+      "sha256": "236986cfc298286ab01ecf4f44a3e91a73f221216128a4999515f1a49e6ccf6e"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AADI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15586,
+      "mismatches": 0,
+      "sha256": "10825030ab29eb8cfdef24559ee61eee3473717c0845f9e885e24f1490599e18"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AALI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15325,
+      "mismatches": 0,
+      "sha256": "4d62f6bd97f75378162ea764e34c3f4c8b78f0ab2c0e916a97c6694eb970837a"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ACES.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15403,
+      "mismatches": 0,
+      "sha256": "481f40d86cc75d3e3bc5bcc501ccd8a7a7bfbcdc6297d26d8335774ba7c873af"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ACST.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15457,
+      "mismatches": 0,
+      "sha256": "90201cb272051d80aa65c51a371ee675bfb3aeaafaa16cb5018ffb3fb31a609b"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ADES.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15152,
+      "mismatches": 0,
+      "sha256": "9a5cdc784e4be8e61798140f7f23fa5d7a94f227270010968c3bb0e588f3f720"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ADMF.xlsx",
+      "status": "PASS",
+      "sheets": 34,
+      "cells": 9097,
+      "mismatches": 0,
+      "sha256": "160e50c7b134260053485b44ef6590dc956023c0002d9d0b5dbb8a99fa3058ad"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ADMR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15317,
+      "mismatches": 0,
+      "sha256": "eeaed0893cf7062e2861d3f48f5df2bb9f3fc44c2944be9fce7f1c157887c654"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ADRO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15576,
+      "mismatches": 0,
+      "sha256": "3eb62dce4e7deef530184a64920a79154a36e2e7286fe06dd3e72e9934f9789d"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AGII.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15584,
+      "mismatches": 0,
+      "sha256": "43a8026b38c13aada86e12a434b46e9b8ad2d68718ca191e6cf65d11ea2b5c17"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AKRA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15624,
+      "mismatches": 0,
+      "sha256": "ce3b9fc91e35153e4f7c77f48d0c8db24371cff2169f8153ae62878e906015d3"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AMMN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15491,
+      "mismatches": 0,
+      "sha256": "e0c96da13fd190e3c8b2030eec74e1910b669b8d91fd75e2e4c80f99f8ce6505"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AMRT.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15351,
+      "mismatches": 0,
+      "sha256": "4b705cf2cea9250760a0a7b17bb02ccaade5306427147113dd5c7cd003d0ad10"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ANJT.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15318,
+      "mismatches": 0,
+      "sha256": "a9a2f2409828c55fd12214b323b178c7cd832deb0e4e507792606c197a099cf1"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ANTM.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15643,
+      "mismatches": 0,
+      "sha256": "657d4699c63c1a44680b7063715c8da592032580c0b907ccdde353dc94a49d3f"
+    },
+    {
+      "file": "FinancialStatement-2026-II-APEX.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15064,
+      "mismatches": 0,
+      "sha256": "7b1102d09ea992e895196aa416a7bef4de2ce035c124cfae03e2a4f93bf44190"
+    },
+    {
+      "file": "FinancialStatement-2026-II-APLN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14742,
+      "mismatches": 0,
+      "sha256": "c9ae0964fbe61d8827ae91f67654aba56ece744a4e8e5a5fe7b30f7e0698c771"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ARCI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15331,
+      "mismatches": 0,
+      "sha256": "6b714ba129999df4a008c727d22639e19ad17bb59bae40ec926f44da6a0c0223"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ARKO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14578,
+      "mismatches": 0,
+      "sha256": "7336ad81f8f23d89ebdc0b6606b2f25911b838ff1cf64911bc051bce5155d4c3"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ARNA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15433,
+      "mismatches": 0,
+      "sha256": "87ee190b14e24ac8e4fbb3496735048ed3461ff17762f3ade1b940f8309ef9ea"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ARTO.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7512,
+      "mismatches": 0,
+      "sha256": "cc70eff40164e973a4a10983ef52b7b4a0ccdca942e326319e33036474d6b317"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ASGR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15150,
+      "mismatches": 0,
+      "sha256": "3f51b5ccc996afd04bcbe1d71823aefe81a7672c8ca6fd53ed979eadaf497de5"
+    },
+    {
+      "file": "FinancialStatement-2026-II-ASII.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 19119,
+      "mismatches": 0,
+      "sha256": "e86419bc8e3a385b531971a49aa5fcb208f6fbb3326b22126c32cbb6a8814590"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AUTO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15625,
+      "mismatches": 0,
+      "sha256": "87c464b638746e5da42691997f56cfbe658ecbe35f103811d6d610e0c4b06a1a"
+    },
+    {
+      "file": "FinancialStatement-2026-II-AVIA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15387,
+      "mismatches": 0,
+      "sha256": "af95a493fb0d1aa9d6126827c290fe758f12d82275ecd2863d2568ea34856afe"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BBCA.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 9469,
+      "mismatches": 0,
+      "sha256": "d40a0f9bfa1f949372bf9eab3cad1fbecb22062453a7c45103703e6c036817e0"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BBNI.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 6978,
+      "mismatches": 0,
+      "sha256": "e1c01931fe9500afc150b0c27a142a3c5c6b4f411ad3862e16d69168eb3ce4c7"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BBRI.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 6995,
+      "mismatches": 0,
+      "sha256": "bebee67c52ced83f37c761bec0c01f025486fa98c3ec794776e97fabe300f166"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BBRM.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14694,
+      "mismatches": 0,
+      "sha256": "f312192d3d851cfc303818662885326fc51d7add669b5534bd0d47637917f78f"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BBSI.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7127,
+      "mismatches": 0,
+      "sha256": "aa41dbf834449b523fa9febc1ac466b1083b1c7a7a0ef72001d6954c01c6ebff"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BBSS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14448,
+      "mismatches": 0,
+      "sha256": "a1c24c9c43dd11bdb42f64a24a729cee3f3177a10f6917fb2799b1459592197d"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BBTN.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7323,
+      "mismatches": 0,
+      "sha256": "811bd7de42ed44868966a6888cc9a720e63b09b1d59305cdca6f60f089e0884e"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BLUE.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15102,
+      "mismatches": 0,
+      "sha256": "79da3c1976b3398163bda4f17b2f8de05b1c0d0f2de6b9ee96c45763e699fcce"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BMBL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15446,
+      "mismatches": 0,
+      "sha256": "932d2f262b6a5bc36b93d4a72dd5e05da09b435c0ff8e7b9327ca7c98d1e8d18"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BMHS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15474,
+      "mismatches": 0,
+      "sha256": "b02988ed5041705c18495b7770a127f88c1536e5c676794c139149a4c487ed22"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BMRI.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 8117,
+      "mismatches": 0,
+      "sha256": "909b343286dbb1d9b420ff3062f360c2ef266e5e87cddd88add01c85c87dce4d"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BNGA.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7787,
+      "mismatches": 0,
+      "sha256": "871c95dbde7fb5be585e1713759c02843ca8b0811e79ee29e6630eb28d8adbac"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BNLI.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7684,
+      "mismatches": 0,
+      "sha256": "c10289dfd265b567c294964851905f8c056ba4a258cf37f0dcd6004e8d82e324"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BUAH.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15243,
+      "mismatches": 0,
+      "sha256": "31cc3c74a2b0ced03c5666e8b37d780cf852c86c4ed2e55ac46509f57d3da8f6"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BULL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14628,
+      "mismatches": 0,
+      "sha256": "f3bd26ab2be67def30b30b278da66d8924d23350d6c88a671ad495648034cab5"
+    },
+    {
+      "file": "FinancialStatement-2026-II-BWPT.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15721,
+      "mismatches": 0,
+      "sha256": "b9ae6242251e5bea58c6f56cc0f83e622c93d2a4ae4178477729e1bf848328ce"
+    },
+    {
+      "file": "FinancialStatement-2026-III-AALI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15697,
+      "mismatches": 0,
+      "sha256": "f5ae18fd57203ba7d0ec7960e87113805ad0b3c424a595d19dcc56a685a7d3c2"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ACES.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15311,
+      "mismatches": 0,
+      "sha256": "d66c15b329f9dd24430ef95a9b3bd7ee0c49c8f0f168ea5791ba7622d5700b79"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ADES.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15186,
+      "mismatches": 0,
+      "sha256": "5a6e037a4a5fa0414801b32250f79eb617a47bf013f950922edee3d2b9c22022"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ADMF.xlsx",
+      "status": "PASS",
+      "sheets": 34,
+      "cells": 9068,
+      "mismatches": 0,
+      "sha256": "f6e136bb5bf8cfb3886c05f825964e4841a0c0c9f9cde941cc358a78ab2ecfd3"
+    },
+    {
+      "file": "FinancialStatement-2026-III-AGII.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15584,
+      "mismatches": 0,
+      "sha256": "bd91e285f53ffa770b17814ca16f3f16a6eebacb3265fbc0e4887d6ecc4d0529"
+    },
+    {
+      "file": "FinancialStatement-2026-III-AGRO.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 6865,
+      "mismatches": 0,
+      "sha256": "c97a41ecf2d7d439ec2f30a8ad7ce7e7a9f0646d77fce5cc2018735d69bd0291"
+    },
+    {
+      "file": "FinancialStatement-2026-III-AKRA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15627,
+      "mismatches": 0,
+      "sha256": "70765c6d86766119cc5777fef79b823e5464c6c919c227fa6df791cd5d62004c"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ANTM.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15790,
+      "mismatches": 0,
+      "sha256": "84c46f9eea1e5993c00ed2de0a90783d538272a5bc73c9ec9b3a288b97cf547d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ARNA.xlsx",
+      "status": "PASS",
+      "sheets": 59,
+      "cells": 15637,
+      "mismatches": 0,
+      "sha256": "91f7e70149cc914522283ba26379b29647e083d729655d4e4409d459b4b32569"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ASGR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15152,
+      "mismatches": 0,
+      "sha256": "bb5323e34ad86751e70265d445b6330d681b818fa26b81f052b32dc5ebd59143"
+    },
+    {
+      "file": "FinancialStatement-2026-III-AUTO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15630,
+      "mismatches": 0,
+      "sha256": "159b528290ee0b3795766b7bc994f502554745b43b5c0683067f4f5b1a5e583a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BELI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15510,
+      "mismatches": 0,
+      "sha256": "3f9dfa76b0b99caf74bc68af76a598138f73f80f3e7382d3504806f345be5e85"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BIPI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15361,
+      "mismatches": 0,
+      "sha256": "4761460fa9ec6927cb366e04914b271c652a584f386104430da33239ef51929e"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BLOG.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15246,
+      "mismatches": 0,
+      "sha256": "ec4458debf73934d9efccb824b4cf79b0ee59ed12c46313274cddc3085cd7b55"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BMRI.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 8126,
+      "mismatches": 0,
+      "sha256": "6d69f1560e91927196fa8c03198ddc230c2d8d04da21e9ab28810e5a94e700b2"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BNGA.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7807,
+      "mismatches": 0,
+      "sha256": "df21b3948d05b7316592af82a5a1c5b1b35abe7a773811b0fe2c547db6e79a52"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BNLI.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7700,
+      "mismatches": 0,
+      "sha256": "3fb8ced067772a4a65f5ba10e9dc79763cc0e3909f188bb0d984fd02f7fe2d9d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BOBA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15292,
+      "mismatches": 0,
+      "sha256": "ee0b2539d31510d319b27226f05d572715e36aef66cb7b3152d9f67ada187d45"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BSDE.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15164,
+      "mismatches": 0,
+      "sha256": "454c1313b50e15eeaabeb5762396fbd89d6fc8d7573058458380b21664419fcf"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BUAH.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15252,
+      "mismatches": 0,
+      "sha256": "6d3ca3beadd85a971cb760b70d394faf620b2a9e659b2fe14a7fcde84253edb9"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BUKA (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15854,
+      "mismatches": 0,
+      "sha256": "f163621dade9c89f013841a13264592b93b93a1034faececd7bada62bd1d060c"
+    },
+    {
+      "file": "FinancialStatement-2026-III-BUKA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15854,
+      "mismatches": 0,
+      "sha256": "f163621dade9c89f013841a13264592b93b93a1034faececd7bada62bd1d060c"
+    },
+    {
+      "file": "FinancialStatement-2026-III-CAMP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15143,
+      "mismatches": 0,
+      "sha256": "e2eafb78ec17c735a1b47e29c4883e0985c67e68345896252c80feac36857bd9"
+    },
+    {
+      "file": "FinancialStatement-2026-III-CBDK.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14587,
+      "mismatches": 0,
+      "sha256": "a934f3d343902ee32c6afa3a16ab25b766276ce62e8abc8a62b16c97476e5c69"
+    },
+    {
+      "file": "FinancialStatement-2026-III-CBPE.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14581,
+      "mismatches": 0,
+      "sha256": "ffc37c8d70063635b664f18ec3e6946167c3f4e561c485a2f277f7d6808b613b"
+    },
+    {
+      "file": "FinancialStatement-2026-III-CDIA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15440,
+      "mismatches": 0,
+      "sha256": "97024a7a5931b8d26dbd0555cbaf0d53c2a109cafce2402ea1155a5340de753f"
+    },
+    {
+      "file": "FinancialStatement-2026-III-CLEO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15373,
+      "mismatches": 0,
+      "sha256": "278f80f63e8166dd0cce0eb0bc87b477752de96514c8eab4c3a82b31106ab7c8"
+    },
+    {
+      "file": "FinancialStatement-2026-III-COIN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15205,
+      "mismatches": 0,
+      "sha256": "1825b29a007c8a71079f3b0b756c948c4a7f9bb0c789ad757bc8f17208cd02e0"
+    },
+    {
+      "file": "FinancialStatement-2026-III-CSRA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15201,
+      "mismatches": 0,
+      "sha256": "7de432512b1f84f5f3b20f231d5e43b4343c9cd3f04051b167ef36f15035b735"
+    },
+    {
+      "file": "FinancialStatement-2026-III-CTRA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14870,
+      "mismatches": 0,
+      "sha256": "0538846c0b491211db9334679856201ee3e5252003c841642ac7927878e7ef48"
+    },
+    {
+      "file": "FinancialStatement-2026-III-CUAN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 16512,
+      "mismatches": 0,
+      "sha256": "3b35930be8d7b00000b7017daf807b4be93d45a98ed8864ad5a6b8900c8a5578"
+    },
+    {
+      "file": "FinancialStatement-2026-III-DCII.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15216,
+      "mismatches": 0,
+      "sha256": "81d7f256a4a00bff34048ac95f7f6965efa4b4011f2348b5744c5c2ad33fcadd"
+    },
+    {
+      "file": "FinancialStatement-2026-III-DEPO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15377,
+      "mismatches": 0,
+      "sha256": "b605c3cd84d209ea8c6004f6f65e62357f383611de4f2e61fa205187fa80a8a6"
+    },
+    {
+      "file": "FinancialStatement-2026-III-DEWA.xlsx",
+      "status": "PASS",
+      "sheets": 59,
+      "cells": 15436,
+      "mismatches": 0,
+      "sha256": "80ecb5f7e401b352a19eee4e1e571009b014a144ffb2dd9a140071c041a648d5"
+    },
+    {
+      "file": "FinancialStatement-2026-III-DMAS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14557,
+      "mismatches": 0,
+      "sha256": "7018f61107345e748c4fa740549c880fd46ba3c5ae308fbc2b2c9b54765e686d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-DRMA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15285,
+      "mismatches": 0,
+      "sha256": "718531442e8867cd76b479b04ff89b308451b3b73f12489368087a731e404aa6"
+    },
+    {
+      "file": "FinancialStatement-2026-III-DSFI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15129,
+      "mismatches": 0,
+      "sha256": "98455f4a4096e090e342cea997bb14104006ea375eff7da4d31c8fa5ec0a4fbd"
+    },
+    {
+      "file": "FinancialStatement-2026-III-DYAN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15298,
+      "mismatches": 0,
+      "sha256": "2776bd6895bd8678a303d0facc171db8a09d286e2a1d5c3a1d69cb0c70254693"
+    },
+    {
+      "file": "FinancialStatement-2026-III-EAST.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14591,
+      "mismatches": 0,
+      "sha256": "b11fd562f21007e7ba8917034b9fa959206cecee0c86dc9f5e7c992ea6d793fb"
+    },
+    {
+      "file": "FinancialStatement-2026-III-EKAD.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15508,
+      "mismatches": 0,
+      "sha256": "cd6603cb6f25fb19dcc905f2b40ac1199d815c9723a62a0aa9520f40a3f68fdc"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ELIT.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15204,
+      "mismatches": 0,
+      "sha256": "3b4570c9be6d3ac5ee2107e1a8fd3e621aeef5457e494f3e23257bdae5f4a3e5"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ELSA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15622,
+      "mismatches": 0,
+      "sha256": "96c9856ee8947af563100f8e9eb3f2a483c9d1287770843b52329a4350d850ce"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ERAA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15841,
+      "mismatches": 0,
+      "sha256": "695eacdff194f0ed254c69e10a6eb24ab1465daba930d7c3dee78ecd89830132"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ERAL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15464,
+      "mismatches": 0,
+      "sha256": "a46404bcf2d9a4b267755a0076646424dfc9ff426c5ff441ac80990e2d7d20b5"
+    },
+    {
+      "file": "FinancialStatement-2026-III-FASW.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15413,
+      "mismatches": 0,
+      "sha256": "b7c87613c193fd3fab4d65f620c0562856450c2bbfc806b72d19b16f2fa913ac"
+    },
+    {
+      "file": "FinancialStatement-2026-III-FILM.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15157,
+      "mismatches": 0,
+      "sha256": "4ca98656a0136415ce56244b0af2dbc7528b919439d2aa479797e3a0f420181a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-FORE.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15291,
+      "mismatches": 0,
+      "sha256": "eb6ff5a010863b8bfd473a05df6f2e6c901879a09fa0361ac88eb56e9392c0d3"
+    },
+    {
+      "file": "FinancialStatement-2026-III-FUJI.xlsx",
+      "status": "PASS",
+      "sheets": 34,
+      "cells": 8015,
+      "mismatches": 0,
+      "sha256": "e181f64af37d876072f57cd3ba0483dbfada666f5eb5c57b418e2584b6836453"
+    },
+    {
+      "file": "FinancialStatement-2026-III-GDYR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15169,
+      "mismatches": 0,
+      "sha256": "6c88be8c604640309c552a6035d2d629e30e9e68bbe6788e07b6f2e3df81184e"
+    },
+    {
+      "file": "FinancialStatement-2026-III-GJTL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15334,
+      "mismatches": 0,
+      "sha256": "b15a87c4454b649338470eee6ab16e2465b5b5c7f7286a4d95f1f1cffbc55351"
+    },
+    {
+      "file": "FinancialStatement-2026-III-GMTD.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14494,
+      "mismatches": 0,
+      "sha256": "5e379ae030e22c370dae4a18b82f4357b1b7a631f26fa2ce0bedbb997e87880d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-GOLD.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14656,
+      "mismatches": 0,
+      "sha256": "112be749950b1801e72f93e9ff4502d7a1f1c2090d145fc8f0ee8921d365f715"
+    },
+    {
+      "file": "FinancialStatement-2026-III-GOOD.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15539,
+      "mismatches": 0,
+      "sha256": "3b2db1c77e48cee9372cc8ba23f75f7ee78ce51702b5f8c06e07e7db3bb96617"
+    },
+    {
+      "file": "FinancialStatement-2026-III-GOTO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15461,
+      "mismatches": 0,
+      "sha256": "c3089e81760ada4965df8c04311e64b94385c19d20ea92da30b1c6a6fb0aeca9"
+    },
+    {
+      "file": "FinancialStatement-2026-III-GUNA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15432,
+      "mismatches": 0,
+      "sha256": "0232c4718a747cea002bd1534996bfc6eeb88cfde78eab7b6a8d29469d7dc26f"
+    },
+    {
+      "file": "FinancialStatement-2026-III-HADE.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14928,
+      "mismatches": 0,
+      "sha256": "69e3198e4ff1908d335f886522ee37ed4dc7c928f1cf15516978f751def642ed"
+    },
+    {
+      "file": "FinancialStatement-2026-III-HALO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15112,
+      "mismatches": 0,
+      "sha256": "f723037b5b7a879a2272203d23c8ce183e9dff5e63454d00121001e5fb6a03bd"
+    },
+    {
+      "file": "FinancialStatement-2026-III-HGII.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14616,
+      "mismatches": 0,
+      "sha256": "e565db0d6e93661690d6c55f44a17abfb10ff4f6ed916bb79b2380d2540e78a6"
+    },
+    {
+      "file": "FinancialStatement-2026-III-HRTA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15267,
+      "mismatches": 0,
+      "sha256": "da4cab52b6a8b16ab3839df080532afb91b24a3c86311002bb408b0e05f60b7d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-HRUM.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15443,
+      "mismatches": 0,
+      "sha256": "1902021d1ef475fa5a89e159f95933f00d879595ecaa2da08e940891728f41ae"
+    },
+    {
+      "file": "FinancialStatement-2026-III-HYGN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15161,
+      "mismatches": 0,
+      "sha256": "471126ca78bf7999b13a2603e48b249392260c4e6b036c101c9c0463a56a4e73"
+    },
+    {
+      "file": "FinancialStatement-2026-III-IMPC.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15644,
+      "mismatches": 0,
+      "sha256": "4d0a5d0cd1e09c266ce4c2387a3d5b0fe1cc17766eb5e36f6aa0ac73180315d6"
+    },
+    {
+      "file": "FinancialStatement-2026-III-INAF.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15146,
+      "mismatches": 0,
+      "sha256": "6b908bdbf4c0bfd5ab6a867ebaa561d157b5fb107959bcca7e081ac5daed80f9"
+    },
+    {
+      "file": "FinancialStatement-2026-III-INCO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15351,
+      "mismatches": 0,
+      "sha256": "5cdbf40ea54e9ef8ad242072fe4148419cf51c8395ea13e6e0cc89f54cc7f165"
+    },
+    {
+      "file": "FinancialStatement-2026-III-INDF.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15773,
+      "mismatches": 0,
+      "sha256": "4b365aa0a5ffa48819c75bdbab1d3adce7289bbd28e505dbaa3636d135cbed85"
+    },
+    {
+      "file": "FinancialStatement-2026-III-INDY.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15964,
+      "mismatches": 0,
+      "sha256": "4188c510ccd7854d906f92f470c6722db59f3c50541476dfa7ef394b9169ff76"
+    },
+    {
+      "file": "FinancialStatement-2026-III-INKP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15480,
+      "mismatches": 0,
+      "sha256": "41a4cdfd2c9e5387b3043220d6e8420c059c9aa4410bd804d46ddec872b9c67b"
+    },
+    {
+      "file": "FinancialStatement-2026-III-INOV.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15592,
+      "mismatches": 0,
+      "sha256": "8720ca3b727af5655c672c530dc8b9c93584166815f8a44cca29343fe4a89e95"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ISSP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15611,
+      "mismatches": 0,
+      "sha256": "c42d7eaaae1238e1128ddb3606e80d7cf79afe90a34895f325a8f31cf3e9996a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-JARR (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15333,
+      "mismatches": 0,
+      "sha256": "0da2e8f562b2667f15f8498c162fa9ab6dcc472d269c15630662aa470ac4e5d8"
+    },
+    {
+      "file": "FinancialStatement-2026-III-JARR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15333,
+      "mismatches": 0,
+      "sha256": "0da2e8f562b2667f15f8498c162fa9ab6dcc472d269c15630662aa470ac4e5d8"
+    },
+    {
+      "file": "FinancialStatement-2026-III-JECC.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15403,
+      "mismatches": 0,
+      "sha256": "1762e2d408d64fb9aee56c0fc4b5c012cf24069472d5ec37667ea0d71398e58d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-JECX (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15559,
+      "mismatches": 0,
+      "sha256": "ee59dbad49b8b41c4cdfd553fa136e1cac746b0997830b0916e48454f1f1bfa1"
+    },
+    {
+      "file": "FinancialStatement-2026-III-JECX.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15559,
+      "mismatches": 0,
+      "sha256": "ee59dbad49b8b41c4cdfd553fa136e1cac746b0997830b0916e48454f1f1bfa1"
+    },
+    {
+      "file": "FinancialStatement-2026-III-JELI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15362,
+      "mismatches": 0,
+      "sha256": "d77eaacc9470f36400e9a217651a38ed5df0769187b6793d06ef1df1c9317bdd"
+    },
+    {
+      "file": "FinancialStatement-2026-III-JPFA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15819,
+      "mismatches": 0,
+      "sha256": "11c7a46c3a89eec220c63b06baaa852b550107f4edb0fb54d1d4750282e83401"
+    },
+    {
+      "file": "FinancialStatement-2026-III-JSMR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14940,
+      "mismatches": 0,
+      "sha256": "c6ba6682e11cedf58426f8e7550789ca57d2d864bd0b52bc26c50b0226848012"
+    },
+    {
+      "file": "FinancialStatement-2026-III-KAEF.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15799,
+      "mismatches": 0,
+      "sha256": "d21af5f0b6e0deddadd1c8b5dd9b23468b8c63113871b5e1e190021b9fc07038"
+    },
+    {
+      "file": "FinancialStatement-2026-III-KDTN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15192,
+      "mismatches": 0,
+      "sha256": "f3e46bcc45208177d74b21cb0a9e1ca5e6f2a2ac619144f696911d0b3f42e5ed"
+    },
+    {
+      "file": "FinancialStatement-2026-III-KEEN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14637,
+      "mismatches": 0,
+      "sha256": "9190590e958986edef9a00e791a6378845c4b90a89c4edbb2a9e6a38c518e272"
+    },
+    {
+      "file": "FinancialStatement-2026-III-KIJA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14843,
+      "mismatches": 0,
+      "sha256": "b2a7b5f463e98958fbc29aee3756d2d3899f4414b59bb71209fb45da0d5b42a0"
+    },
+    {
+      "file": "FinancialStatement-2026-III-KINO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15479,
+      "mismatches": 0,
+      "sha256": "843ffdb5defeb74620cca629b19b75122451febfc1b2fcc08e12aec6deaa17ce"
+    },
+    {
+      "file": "FinancialStatement-2026-III-KLBF.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15472,
+      "mismatches": 0,
+      "sha256": "090485bc252332f7efc28c210e0d3a62e66975fb312b94ccf194d6da3bd36cc4"
+    },
+    {
+      "file": "FinancialStatement-2026-III-KMDS (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15336,
+      "mismatches": 0,
+      "sha256": "35b95079360ec1318ea30246d4f864903fc33eb0048d7cd2eb5a5ae14a163e2e"
+    },
+    {
+      "file": "FinancialStatement-2026-III-KMDS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15336,
+      "mismatches": 0,
+      "sha256": "35b95079360ec1318ea30246d4f864903fc33eb0048d7cd2eb5a5ae14a163e2e"
+    },
+    {
+      "file": "FinancialStatement-2026-III-LABA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15024,
+      "mismatches": 0,
+      "sha256": "501092eb4c16e90c28e7d6ef4eb080cb12683b12a1549243d3d5ac9fd505f1c0"
+    },
+    {
+      "file": "FinancialStatement-2026-III-LSIP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15470,
+      "mismatches": 0,
+      "sha256": "de35e82555d682700f629939e432db67ed7f09954b8fda6a4676c0a0362b6641"
+    },
+    {
+      "file": "FinancialStatement-2026-III-LTLS (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15556,
+      "mismatches": 0,
+      "sha256": "0f566d1f8dae0de8799261ce2cb2a7c5ed96f8937fa6b0cdae644fbbd8cfc1e6"
+    },
+    {
+      "file": "FinancialStatement-2026-III-LTLS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15556,
+      "mismatches": 0,
+      "sha256": "0f566d1f8dae0de8799261ce2cb2a7c5ed96f8937fa6b0cdae644fbbd8cfc1e6"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MAIN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15271,
+      "mismatches": 0,
+      "sha256": "113475642adf6c8e9f34fb5432342565ca892436598ed0bf5c8807d7640d6408"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MAPA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15418,
+      "mismatches": 0,
+      "sha256": "d0b245243e8628303a17fab7e2de47f09af4e7a245234df76f892b474af92907"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MAPI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15492,
+      "mismatches": 0,
+      "sha256": "a1d79897b432c22329b54deda3c839e2504c5549da4d2ee4f55f45d0df2fac8f"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MARK.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15159,
+      "mismatches": 0,
+      "sha256": "901de0202a49e9781d07d19f4b8fe2ae9ba9eeb6d37bc5a0b2534b3b27af236c"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MDIY.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15152,
+      "mismatches": 0,
+      "sha256": "4c21d56f783e004a210b8db131919f1ca86b6c10b6925376e78057c98c607c21"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MERI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15444,
+      "mismatches": 0,
+      "sha256": "6440368f87b20c65ecf6d4696fbd73192584c2e1f23f5c7ef3e5724e04d4dad5"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MERK.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15423,
+      "mismatches": 0,
+      "sha256": "2b72abf5a735efaee14b8a9f3c080587a8fca12241c66c6151d6c62bc3668d22"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MIKA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15566,
+      "mismatches": 0,
+      "sha256": "d8cd134c011011117ae5583dc4c7e806818b0f3bfea2ce02c9bf060059773c6d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MSIE.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14491,
+      "mismatches": 0,
+      "sha256": "5321aacf7c00bf1b23108d5ed1f8181e121245b686e4cd2f3dc0b47b0228f862"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MSTI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15295,
+      "mismatches": 0,
+      "sha256": "6b587efabf7c7b641a4b145f905dbed0adbdad8e9c4b700e9f7bd01a50b7e22b"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MTDL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15310,
+      "mismatches": 0,
+      "sha256": "1547eeb339529158ee07543fc6e071e0db23c8ce05819945379f7dcf6900fc02"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MTEL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14947,
+      "mismatches": 0,
+      "sha256": "68e72f62e9436e391f1350b2bdae360850b3f1fc659963b4f4bd24c35dba32f9"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MYOH.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15398,
+      "mismatches": 0,
+      "sha256": "e8b086e5a2d3631762c56ef12603fea52684c71715da137eabfdde7fa36961c5"
+    },
+    {
+      "file": "FinancialStatement-2026-III-MYOR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15612,
+      "mismatches": 0,
+      "sha256": "91cbef678a6bdaffcc7473ce88b0145924501fa7ee463566780c84ce6a9ff162"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NCKL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15411,
+      "mismatches": 0,
+      "sha256": "73ef0e5258246fd7cbbb863f9416cbe14e87fbb8aa3cffaa76f1b6a61250df4f"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NICE.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15316,
+      "mismatches": 0,
+      "sha256": "6882fca2a14a33ea771f6e3b675fe70dc682d1967e63efe36e024be167457e2a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NICK (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14491,
+      "mismatches": 0,
+      "sha256": "78c8d035d2772f5f9885b20a6971384c57e760f2071ef40516133163d35853df"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NICK.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14491,
+      "mismatches": 0,
+      "sha256": "78c8d035d2772f5f9885b20a6971384c57e760f2071ef40516133163d35853df"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NICL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15145,
+      "mismatches": 0,
+      "sha256": "1fb52706ed5b97de190b8b9b7e6dc41408626bb73a793ed5565e355a285f4dcb"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NIKL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15212,
+      "mismatches": 0,
+      "sha256": "a36704b4e85a7a9a0105f4a55ff88f7815e6815b25952be9ae7c7217509ab6e3"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NISP.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 7161,
+      "mismatches": 0,
+      "sha256": "282a66a05674ccd69c746e5bdbb5d2bc0917588184984009dde609f89d5f1b1d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NRCA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15446,
+      "mismatches": 0,
+      "sha256": "298b4123e5e4b0c3e1422d6dedb5d07dac612c2dde9062160f77b94772bf7a50"
+    },
+    {
+      "file": "FinancialStatement-2026-III-NSSS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15430,
+      "mismatches": 0,
+      "sha256": "cf7c9f2dfbae474c08cb65335ca262a9e682150ce8420c21031983fe2395848a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-OASA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14578,
+      "mismatches": 0,
+      "sha256": "07b27165030afee748eece6121339694b6c24e936f7b14ce94f8ce09fa61be85"
+    },
+    {
+      "file": "FinancialStatement-2026-III-OMED.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15464,
+      "mismatches": 0,
+      "sha256": "1a6d2b981d3aee70806c24a8cf66687f8811506d1ee82bd0f0bef20e1713cd2a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PAMG.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14641,
+      "mismatches": 0,
+      "sha256": "8257dc8a36929f81b0b7fa8b6ba7f12b8f86fb18f3c15fac231a3e1023f219ee"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PANI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15136,
+      "mismatches": 0,
+      "sha256": "6afdd216bb5d5c0716bac977bca5fad15fc32148cde9cd0011f0ce7ffcb2c8ef"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PEHA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15523,
+      "mismatches": 0,
+      "sha256": "025aab2352982723c4d8ca2b31a9295d274cc18410a6ea990ea97f3805171f0a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PGAS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15286,
+      "mismatches": 0,
+      "sha256": "923dccf42315a52ffd23a92ca6110ef4503a5c4f51ec57cdd787942f0ba05574"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PGEO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14734,
+      "mismatches": 0,
+      "sha256": "be86b0be46a7caed3a3025a27aefa8d1d7be294a2c7bcfa0a9df2e9a0c6fb0b3"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PGUN.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15275,
+      "mismatches": 0,
+      "sha256": "d71e905e2f5d5f061dfaa3eb4672b99c476b0668d6ea7438ad76f30b8fc31fe3"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PJAA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14758,
+      "mismatches": 0,
+      "sha256": "502f8a12185ca7bcc2a91c7abd6142009f76854a969b6e27340f346a5a17c95a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PKPK.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15357,
+      "mismatches": 0,
+      "sha256": "c3e5b3cdf7eb1bc814696b23ba9a49b6951a744349724d8d5523b7e803a53b37"
+    },
+    {
+      "file": "FinancialStatement-2026-III-POWR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14768,
+      "mismatches": 0,
+      "sha256": "2a6372d2c3d91ccd5e57c98ec7b73fd3c673881772436d4e36087265ec92b76e"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PRDA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15305,
+      "mismatches": 0,
+      "sha256": "da78dcbcba2e34379fb9330739ddc06b3fcbbf361d9aeba1583b1623272cb8f9"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PRDL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15247,
+      "mismatches": 0,
+      "sha256": "dbaf1916846fa93c43f0b26ca77d10781db7eeb51b43952b818159582a65ecc1"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PTBA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15591,
+      "mismatches": 0,
+      "sha256": "1653536e803d787aefa7c141f4f3ac8b8be2d5bcaebffd744764b0f07fb353ed"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PTMP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15138,
+      "mismatches": 0,
+      "sha256": "0163d61104b5f34718c110dd0f22757acfd058a2fe406c87fcb82737a03169b0"
+    },
+    {
+      "file": "FinancialStatement-2026-III-PZZA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15139,
+      "mismatches": 0,
+      "sha256": "34d12de238ea50eff0eeea133c0292c4dfb7b44fa88f950e6277ed1927552b82"
+    },
+    {
+      "file": "FinancialStatement-2026-III-RALS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15216,
+      "mismatches": 0,
+      "sha256": "82af4411918ebfcce07ba3c417770c7d03489e80eb7306150b3168915aa75a28"
+    },
+    {
+      "file": "FinancialStatement-2026-III-RANC.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15227,
+      "mismatches": 0,
+      "sha256": "8cd72a1cab810b7ef88dac6e1cf6f0618730799b4c4d919d76d4022fc0e36d89"
+    },
+    {
+      "file": "FinancialStatement-2026-III-RATU.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15138,
+      "mismatches": 0,
+      "sha256": "2d6395cd85ae63065d31d66c5e38e5506d020b38883995aeb21bb5cfd9fedc89"
+    },
+    {
+      "file": "FinancialStatement-2026-III-REAL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14690,
+      "mismatches": 0,
+      "sha256": "d99257215ca47fa3c9451615da776b2dd56a789de88958a5e4ff1712467ba184"
+    },
+    {
+      "file": "FinancialStatement-2026-III-RISE (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14832,
+      "mismatches": 0,
+      "sha256": "8f0cf05ea70beb03800f98dab365c563d4c104007800ae4f978b3d2ccee0331d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-RISE.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14832,
+      "mismatches": 0,
+      "sha256": "8f0cf05ea70beb03800f98dab365c563d4c104007800ae4f978b3d2ccee0331d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-RLCO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15087,
+      "mismatches": 0,
+      "sha256": "b5af7fa3bb73f7cb38a5f2dd38a0bce0a071f593a630a65821af1b98463328ba"
+    },
+    {
+      "file": "FinancialStatement-2026-III-ROTI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15500,
+      "mismatches": 0,
+      "sha256": "51c467f95abfeea6d36d59a5cc888d4376bcbfde474c988b063c55d263d40743"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SAME.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15259,
+      "mismatches": 0,
+      "sha256": "271d19173af1f0368e9c334f425bcdc7a9748163904a447e9905af9201a14c1f"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SAMF.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15062,
+      "mismatches": 0,
+      "sha256": "919be4f01eef87150dab1951d8deb8f14c197934210e79c17f41e4b49a75f6b6"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SAPX.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15063,
+      "mismatches": 0,
+      "sha256": "59dac2a4e7719f47bc6691e1d03e4c131434dc2a0805c25e3b62d9eeaa54aa94"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SCPI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15114,
+      "mismatches": 0,
+      "sha256": "d7e779a709ce4a6c7c4e28d1a34c033f1796cdeca7d99fabeb636f1039c66776"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SIDO (1).xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15253,
+      "mismatches": 0,
+      "sha256": "06eefd6128c613444c2cbd20afad0d15e5547d2c06576ca3ab08880649d1524c"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SIDO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15253,
+      "mismatches": 0,
+      "sha256": "06eefd6128c613444c2cbd20afad0d15e5547d2c06576ca3ab08880649d1524c"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SIMP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 16570,
+      "mismatches": 0,
+      "sha256": "cb8ad34a4b2c3f2f0ae557cd59cea16ba495df2061845e535ac32478005b7e8b"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SMAR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15905,
+      "mismatches": 0,
+      "sha256": "9cad303eadfc661d2fd02b40bdf2b5d9268d72c73bb8ac11d2c093a4abc1278a"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SMDR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14772,
+      "mismatches": 0,
+      "sha256": "2fe1a4750dde73854768f49862246ac0e38d09817b328e720ce2749015d708e0"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SMGR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15726,
+      "mismatches": 0,
+      "sha256": "3a4007b92d81de1aeb496be35e625e08f75d1bf09d78a95bd87182ddeb7abd63"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SMMT.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15406,
+      "mismatches": 0,
+      "sha256": "a41b8651a621cfc965a5e7affc1071f17e4d84a38ab9d4a7884823f414bc4646"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SMRA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15020,
+      "mismatches": 0,
+      "sha256": "1b3d72f2e9317a70dcc431551124fef3716e6a31cdf94d025d5a32e75a185c8d"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SMSM.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15847,
+      "mismatches": 0,
+      "sha256": "84847ae03686e8838d0cdaed519b76cd227f58998ff6f796a6679235e7b2ee89"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SOCI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15492,
+      "mismatches": 0,
+      "sha256": "199369444b8da0e9b95f913fb1fcf431ee45ee7905578f3d63e14cca952c84b8"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SOHO.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15241,
+      "mismatches": 0,
+      "sha256": "1035a56622725b7383f4e2128af75009c4366d10ac27fbc73126dcbd3f5d5c31"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SOLA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15252,
+      "mismatches": 0,
+      "sha256": "01fa174352ec9c3cee63b38b81593378d1ff126f1dd404c2d93d3bc0cc0ecb37"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SOSS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15246,
+      "mismatches": 0,
+      "sha256": "27cb1a7f234e22e1c6a191b8854afba1d786ef894e9a05b71b0ec42cc8b7f290"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SPMA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15327,
+      "mismatches": 0,
+      "sha256": "eea0ab933ac20d1a97f51b9d13a441b5726b30a5b93dc947f2de0596f7ef4005"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SRTG.xlsx",
+      "status": "PASS",
+      "sheets": 47,
+      "cells": 6715,
+      "mismatches": 0,
+      "sha256": "931181c38e8ed71384ba71d654cee5272e7c13229ed8b6a9b4d8401fe1aef39c"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SSIA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15573,
+      "mismatches": 0,
+      "sha256": "85a0064d37d39a79901ebd81055443d39674db69d19601a0f516f014f2076da1"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SSMS.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15666,
+      "mismatches": 0,
+      "sha256": "c90a56137a7513e87666328a5b48ddc3c4db5da04b8b482d8db8dfd5faeb78e7"
+    },
+    {
+      "file": "FinancialStatement-2026-III-STAA.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15527,
+      "mismatches": 0,
+      "sha256": "c3d5ff0fb9f99df8d5ae83beec3d628028a64ba32b4b02535ed93b87a477045c"
+    },
+    {
+      "file": "FinancialStatement-2026-III-STTP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15235,
+      "mismatches": 0,
+      "sha256": "af096f29a22620fc8e383e470ca15fdd4a513b4f980cf2733e9eab9bf1423ae6"
+    },
+    {
+      "file": "FinancialStatement-2026-III-SUNI.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15243,
+      "mismatches": 0,
+      "sha256": "47457d565c998b41d778ad3a6dcee4305a422f6f1256bc6848d21e3df4463b5b"
+    },
+    {
+      "file": "FinancialStatement-2026-III-TOTL.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 14703,
+      "mismatches": 0,
+      "sha256": "14f83a380cb37f36a5c81212efd85570d83aac1e31ff8cb3af069bf96eef2846"
+    },
+    {
+      "file": "FinancialStatement-2026-III-UNSP.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15274,
+      "mismatches": 0,
+      "sha256": "9cd938cfd8a1a566bbb56026ca3a458cd89eec86a2cdb0a52ed9a7a015a686a4"
+    },
+    {
+      "file": "FinancialStatement-2026-III-UNTR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 16273,
+      "mismatches": 0,
+      "sha256": "a930f9bb845bf70c027fa01e249a9d95ac052d52f134ee2619bc784fea9fe904"
+    },
+    {
+      "file": "FinancialStatement-2026-III-UNVR.xlsx",
+      "status": "PASS",
+      "sheets": 57,
+      "cells": 15190,
+      "mismatches": 0,
+      "sha256": "35ae53108a9fd5d5fd55512036f7376d81e1c5fedc994de85e589ff584468cc7"
+    }
+  ],
+  "passed": 278,
+  "failed": 0
+}

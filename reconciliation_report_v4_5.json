@@ -1,0 +1,28 @@
+{
+  "version": "4.5-pilot",
+  "mode": "NON_DESTRUCTIVE_REFERENCE_RECONCILIATION",
+  "source_file": "FinancialStatement-2022-Tahunan-AALI.xlsx",
+  "reference_pdf": "AALI LK Tahunan 2022.pdf",
+  "pdf_reference_hardcoded_from_supplied_document": true,
+  "verified_reference_matches": 13,
+  "unresolved_reference_items": 0,
+  "reconciliation_checks": {
+    "assets_equals_liabilities_plus_equity": "PASS",
+    "gross_profit_equals_revenue_less_cost": "PASS"
+  },
+  "integrity_check": "ok",
+  "valuation_eligible": 0,
+  "quality_gates": {
+    "aali_2022_pdf_xbrl": "PASS",
+    "all_emiten_coverage": "BLOCK",
+    "cash_flow_2022": "BLOCK",
+    "unit_currency_general": "BLOCK",
+    "period_quarter_ttm": "BLOCK",
+    "bank_mapping": "BLOCK",
+    "valuation_ready": "BLOCK",
+    "source_deletion": "DISABLED"
+  },
+  "sources_deleted": 0,
+  "output_db": "C:\\Analisis_Saham_BEI\\financial_verified_v4_5.db",
+  "created_utc": "2026-11-02T08:59:26.135290+00:00"
+}

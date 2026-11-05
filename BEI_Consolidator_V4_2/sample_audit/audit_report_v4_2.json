@@ -1,0 +1,30 @@
+{
+  "version": "4.2-audit",
+  "mode": "READ_ONLY_NOT_VALUATION_READY",
+  "input_db": "/mnt/data/financial_modeling_v4_1.db",
+  "integrity_check": "ok",
+  "source_files": 278,
+  "unique_source_hashes": 268,
+  "mapped_fact_rows": 13306,
+  "context_mismatch_rows": 1801,
+  "unverified_unit_currency_rows": 13306,
+  "duration_context_rows": 6225,
+  "sector_review_rows": 533,
+  "sources_without_facts": 34,
+  "sources_2022_without_facts": 24,
+  "duplicate_source_files": 10,
+  "conflicting_raw_metric_groups": 0,
+  "balance_comparisons": 488,
+  "balance_nonzero_raw_differences": 8,
+  "pdf_references": 7,
+  "valuation_eligible": 0,
+  "quality_gates": {
+    "unit_currency": "BLOCK",
+    "calendar_periods": "BLOCK",
+    "sector_specific": "REVIEW",
+    "legacy_2022": "BLOCK",
+    "valuation": "BLOCK",
+    "source_deletion": "DISABLED"
+  },
+  "created_utc": "2026-11-02T06:46:41.276540+00:00"
+}

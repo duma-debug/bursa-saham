@@ -1,0 +1,18 @@
+{
+  "version": "4.7-evidence-consolidation",
+  "input_integrity": "ok",
+  "output_integrity": "ok",
+  "foreign_key_violations": 0,
+  "source_documents": 278,
+  "historical_candidates": 212,
+  "legacy_source_files": 19,
+  "context_review_rows": 13306,
+  "arithmetic_preview_pass": 38,
+  "invalid_numeric_candidate_rows": 0,
+  "verified_for_modeling": 0,
+  "valuation_ready": false,
+  "data_limitation": "Legacy V4.6 contains only 212 raw candidate values; 13306 context rows have no values. Model-ready historical data cannot be built from V4.6 alone.",
+  "input_files_modified": false,
+  "originals_deleted": 0,
+  "created_utc": "2026-11-02T13:00:22.537254+00:00"
+}

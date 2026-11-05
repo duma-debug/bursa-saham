@@ -1,0 +1,13 @@
+﻿ticker,sector,roe_reported_pct,valuation_metric,valuation_multiple_x,roe_fiscal_period,valuation_fiscal_period,latest_close_reference_only
+ANTM,Basic materials,33.16,PBV,1.62,2026Q2,2026Q2,3050.0
+ANTM,Basic materials,33.16,PER,6.99,2026Q2,2026Q2,3050.0
+ANTM,Basic materials,33.16,EV/EBITDA,7.67,2026Q2,2026Q2,3050.0
+BBCA,Financial,21.82,PBV,2.53,2026Q2,2026Q2,5950.0
+BBCA,Financial,21.82,PER,11.78,2026Q2,2026Q2,5950.0
+BBCA,Financial,21.82,EV/EBITDA,53.85,2026Q2,2026Q2,5950.0
+INCO,Basic materials,7.37,PBV,0.86,2026Q2,2026Q2,4110.0
+INCO,Basic materials,7.37,PER,15.9,2026Q2,2026Q2,4110.0
+INCO,Basic materials,7.37,EV/EBITDA,13.67,2026Q2,2026Q2,4110.0
+SAMF,Basic materials,12.78,PBV,1.45,2026Q2,2026Q2,324.0
+SAMF,Basic materials,12.78,PER,10.09,2026Q2,2026Q2,324.0
+SAMF,Basic materials,12.78,EV/EBITDA,22.49,2026Q2,2026Q2,324.0

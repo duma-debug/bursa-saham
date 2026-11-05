@@ -1,0 +1,45 @@
+{
+  "input_db": "C:\\Analisis_Saham_BEI\\financial_production.db",
+  "output_db": "C:\\Analisis_Saham_BEI\\financial_foundation_v3.db",
+  "source_files": 278,
+  "exact_duplicate_files": 10,
+  "unique_hashes": 268,
+  "sources_missing_metadata": 10,
+  "normalized_fact_rows": 3193,
+  "metric_counts": {
+    "cash_and_equivalents": 451,
+    "current_assets": 426,
+    "current_liabilities": 426,
+    "revenue": 426,
+    "total_assets": 488,
+    "total_equity": 488,
+    "total_liabilities": 488
+  },
+  "sources_without_matched_facts": 34,
+  "conflicting_metric_groups": 0,
+  "balance_sheet_checks": 468,
+  "balance_sheet_imbalances": 8,
+  "normalization_status": "PROVISIONAL; unit/currency and YTD-versus-quarter must be confirmed from source notes",
+  "excel_deletion_enabled": false,
+  "created_utc": "2026-11-02T03:06:24.387340+00:00",
+  "version": "3.0-foundation",
+  "pdf_documents_indexed": 7,
+  "pdf_link_status": {
+    "MATCHED_METADATA": 2,
+    "UNMATCHED": 5
+  },
+  "valuation_eligible_fact_rows": 0,
+  "quality_gates": {
+    "staging_import": "PASS",
+    "metric_mapping": "REVIEW",
+    "unit_currency": "BLOCK",
+    "quarterly_ttm": "BLOCK",
+    "bank_sector": "BLOCK",
+    "pdf_detail_extract": "NOT_STARTED",
+    "valuation_ready": "BLOCK",
+    "source_deletion": "DISABLED"
+  },
+  "source_excel_deleted": 0,
+  "source_pdf_deleted": 0,
+  "notes": "MATCHED_METADATA is filename association only, NOT a PDF-vs-XBRL numerical reconciliation. Monetary units, accounting scopes and period semantics remain unverified."
+}

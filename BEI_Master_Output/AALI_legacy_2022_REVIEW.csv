@@ -1,0 +1,7 @@
+﻿ticker,report_year,metric,value_in_source_presentation_units,currency,presentation_scale,period_role,source_sheet,source_row,source_label,status
+AALI,2022,cash_equivalents,1619616.0,IDR,Jutaan / In Million,current,1210000,7,Kas dan setara kas,REVIEW_LEGACY_2022
+AALI,2022,current_assets,7390608.0,IDR,Jutaan / In Million,current,1210000,57,Jumlah aset lancar,REVIEW_LEGACY_2022
+AALI,2022,current_liabilities,2052939.0,IDR,Jutaan / In Million,current,1210000,197,Jumlah liabilitas jangka pendek,REVIEW_LEGACY_2022
+AALI,2022,total_assets,2.924934E+7,IDR,Jutaan / In Million,current,1210000,127,Jumlah aset,REVIEW_LEGACY_2022
+AALI,2022,total_equity,22243221,IDR,Jutaan / In Million,current,1210000,271,Jumlah ekuitas,REVIEW_LEGACY_2022
+AALI,2022,total_liabilities,7006119.0,IDR,Jutaan / In Million,current,1210000,246,Jumlah liabilitas,REVIEW_LEGACY_2022

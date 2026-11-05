@@ -1,0 +1,13 @@
+BEI ANALYTICS — QUALITY & METHODOLOGY
+
+1. market_cap_proxy_index_base100 BUKAN IHSG resmi. Base 100 pada sesi paling awal dalam DB.
+2. Return menggunakan emiten yang muncul baik pada dua sesi tersedia berturutan; bukan divisor IHSG.
+3. Jumlah saham master adalah snapshot; histori tidak disesuaikan corporate action/free float.
+4. FOREIGN BUY/SELL/NET adalah VOLUME LEMBAR SAHAM, BUKAN NILAI RUPIAH.
+5. Scatter memakai fundamental terbaru per metrik (campuran periode mungkin terjadi), bukan data point-in-time; tidak cocok untuk backtest.
+6. PER/PBV/EV EBITDA adalah multiple tersimpan dari file fundamental dan BUKAN valuasi recalculated pada harga harian terakhir.
+7. Data yang tersedia mungkin melompati sesi BEI; cek previous_available_date.
+8. Multiple negatif/nol disembunyikan dari scatter; emiten tanpa ROE atau valuation tidak tampil.
+
+MASTER tickers: 962 | DB dates: 25 | fundamental points: 12
+Missing master by date (date,count): [('2026-08-13', 1), ('2026-08-18', 1), ('2026-08-19', 1), ('2026-08-20', 1), ('2026-08-21', 1), ('2026-08-24', 1), ('2026-08-26', 1), ('2026-08-27', 1), ('2026-08-28', 1), ('2026-08-31', 1), ('2026-09-21', 1), ('2026-09-22', 1), ('2026-09-23', 1), ('2026-09-24', 1), ('2026-09-25', 1), ('2026-09-28', 1), ('2026-09-29', 1), ('2026-09-30', 1), ('2026-10-01', 1), ('2026-10-02', 1), ('2026-10-06', 1), ('2026-10-07', 1), ('2026-10-08', 1), ('2026-10-09', 1), ('2026-10-12', 1)]

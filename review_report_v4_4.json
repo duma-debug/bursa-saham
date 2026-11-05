@@ -1,0 +1,26 @@
+{
+  "version": "4.4",
+  "status": "REVIEW_NOT_VALUATION_READY",
+  "sources": 278,
+  "facts": 13306,
+  "legacy_preview_rows": 1506,
+  "bank_balance_rows_for_review": 102,
+  "issue_counts": {
+    "CONTEXT_TYPE_MISMATCH": 1801,
+    "REVIEW_CONTEXT": 459,
+    "BLOCK_MISSING_START": 1342,
+    "BANK_MAPPING_REVIEW": 533
+  },
+  "output_integrity": "ok",
+  "valuation_eligible": 0,
+  "quality_gates": {
+    "integrity": "PASS",
+    "periods": "REVIEW",
+    "unit_currency": "BLOCK",
+    "legacy_2022": "BLOCK",
+    "bank": "BLOCK",
+    "valuation": "BLOCK",
+    "source_deletion": "DISABLED"
+  },
+  "note": "XBRL raw amounts kept unchanged. Source presentation multipliers are recorded but never applied until numerical reconciliation. No sources deleted."
+}

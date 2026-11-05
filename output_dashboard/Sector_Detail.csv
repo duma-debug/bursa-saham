@@ -1,0 +1,964 @@
+﻿sector,ticker,company,net_foreign_volume_today,net_foreign_5d,net_foreign_20d,change_pct,close_idr,value_idr,fiscal_period,data_quality
+Basic materials,SRSN,Indo Acidatama Tbk,71381400.0,29958800,135072300,-10.294,122.0,26145735500.0,,Fundamental belum tersedia
+Basic materials,BRMS,Bumi Resources Minerals Tbk.,43687000.0,63291600,112642000,-5.932,555.0,133800021500.0,,Fundamental belum tersedia
+Basic materials,PACK,Abadi Nusantara Hijau Investama Tbk.,-34021400.0,-186880800,-510468400,-9.836,440.0,211990851600.0,,Fundamental belum tersedia
+Basic materials,PSAB,J Resources Asia Pasifik Tbk.,-18749600.0,-14628600,-1285300,-5.556,510.0,37342489000.0,,Fundamental belum tersedia
+Basic materials,SQMI,Wilton Makmur Indonesia Tbk.,18557100.0,-81022300,-289893900,-5.263,90.0,22178578700.0,,Fundamental belum tersedia
+Basic materials,ANTM,ANTAM (Persero) Tbk.,-14523000.0,-30629500,-112147900,-4.088,3050.0,283485399000.0,2026 Q2,Tanggal publikasi belum ada; bukan untuk backtesting
+Basic materials,SMGR,Semen Indonesia (Persero) Tbk.,12311700.0,12571200,-46369300,3.797,1640.0,49979353000.0,,Fundamental belum tersedia
+Basic materials,ESSA,ESSA Industries Indonesia Tbk.,10962400.0,4823500,-194677200,0.0,585.0,40259443500.0,,Fundamental belum tersedia
+Basic materials,ASPR,Asia Pramulia Tbk.,-10573800.0,12690000,12474200,-1.911,154.0,6890677400.0,,Fundamental belum tersedia
+Basic materials,TPIA,Chandra Asri Pacific Tbk.,9599700.0,8662300,-141351500,-10.149,1505.0,419843894500.0,,Fundamental belum tersedia
+Basic materials,TINS,TIMAH (Persero) Tbk.,7146900.0,14169900,37929700,-4.27,4260.0,202531251000.0,,Fundamental belum tersedia
+Basic materials,MDKA,Merdeka Copper Gold Tbk.,5020400.0,8693600,-18544000,-2.381,2870.0,68645522000.0,,Fundamental belum tersedia
+Basic materials,CMNT,Cemindo Gemilang Tbk.,-4749800.0,-4619100,-26300400,0.0,735.0,10276381000.0,,Fundamental belum tersedia
+Basic materials,BRPT,Barito Pacific Tbk.,-4515800.0,-49191000,-115153900,-4.27,1345.0,100039957000.0,,Fundamental belum tersedia
+Basic materials,AVIA,Avia Avian Tbk.,3658900.0,-1294000,-1875000,1.156,350.0,4410058800.0,,Fundamental belum tersedia
+Basic materials,INCO,Vale Indonesia Tbk.,-3574500.0,-10516100,-8072900,-3.747,4110.0,63165216000.0,2026 Q2,Tanggal publikasi belum ada; bukan untuk backtesting
+Basic materials,NCKL,Trimegah Bangun Persada Tbk.,3376200.0,2076600,-31277200,-3.488,830.0,27168627000.0,,Fundamental belum tersedia
+Basic materials,ARCI,Archi Indonesia Tbk.,-2994800.0,15601300,3517600,-5.323,1245.0,41752365500.0,,Fundamental belum tersedia
+Basic materials,MBMA,Merdeka Battery Materials Tbk.,-1950600.0,-24512300,-284951500,-2.954,460.0,36706801400.0,,Fundamental belum tersedia
+Basic materials,NICL,PAM Mineral Tbk.,-1882700.0,-288600,7939300,-6.077,340.0,7427443600.0,,Fundamental belum tersedia
+Basic materials,KKES,Kusuma Kemindo Sentosa Tbk.,-1823600.0,-16036600,229900,-4.878,78.0,4118160300.0,,Fundamental belum tersedia
+Basic materials,INTP,Indocement Tunggal Prakarsa Tbk.,1465700.0,1028200,671400,2.97,5200.0,15616500000.0,,Fundamental belum tersedia
+Basic materials,HRUM,Harum Energy Tbk.,-1389700.0,-1697500,-8020000,-3.529,820.0,5715462500.0,,Fundamental belum tersedia
+Basic materials,INKP,Indah Kiat Pulp & Paper Tbk.,1231700.0,1123000,4132500,4.834,8675.0,32660812500.0,,Fundamental belum tersedia
+Basic materials,DKFT,Central Omega Resources Tbk.,-1206000.0,-674500,-6529400,-3.704,650.0,2028187500.0,,Fundamental belum tersedia
+Basic materials,ISSP,Steel Pipe Industry of Indonesia Tbk.,-1202200.0,-13496500,-13685800,-2.817,414.0,1221423200.0,,Fundamental belum tersedia
+Basic materials,EPAC,Megalestari Epack Sentosaraya Tbk.,1100500.0,-908300,-16560100,-3.774,51.0,2195586400.0,,Fundamental belum tersedia
+Basic materials,BAJA,Saranacentral Bajatama Tbk.,1079700.0,-155000,3226300,-10.638,252.0,1760761800.0,,Fundamental belum tersedia
+Basic materials,MINE,Sinar Terang Mandiri Tbk.,-1070100.0,9030600,8906300,17.647,320.0,8855124400.0,,Fundamental belum tersedia
+Basic materials,KRAS,Krakatau Steel (Persero) Tbk.,924000.0,3249700,1900900,-1.739,226.0,707962400.0,,Fundamental belum tersedia
+Basic materials,PPRI,Paperocks Indonesia Tbk.,839500.0,4263000,3099600,-9.884,155.0,2678001800.0,,Fundamental belum tersedia
+Basic materials,TKIM,Pabrik Kertas Tjiwi Kimia Tbk.,838700.0,362700,908300,1.347,7525.0,19704557500.0,,Fundamental belum tersedia
+Basic materials,EMAS,Merdeka Gold Resources Tbk.,497700.0,3850700,-4319300,-1.852,7950.0,80124545000.0,,Fundamental belum tersedia
+Basic materials,DAAZ,Daaz Bara Lestari Tbk.,460300.0,818500,853500,12.81,2730.0,18382741000.0,,Fundamental belum tersedia
+Basic materials,GDST,Gunawan Dianjaya Steel Tbk.,320500.0,-617800,5110100,-4.545,105.0,254691800.0,,Fundamental belum tersedia
+Basic materials,WTON,Wijaya Karya Beton Tbk.,313700.0,194000,529500,-2.74,71.0,125657800.0,,Fundamental belum tersedia
+Basic materials,NIKL,Pelat Timah Nusantara Tbk.,-288600.0,-1711500,3274300,-4.278,179.0,458914800.0,,Fundamental belum tersedia
+Basic materials,ESIP,Sinergi Inti Plastindo Tbk.,-237800.0,-1289300,4309300,-4.124,93.0,738638300.0,,Fundamental belum tersedia
+Basic materials,DGWG,Delta Giri Wacana Tbk.,237500.0,-1073500,976600,-1.235,320.0,4291721200.0,,Fundamental belum tersedia
+Basic materials,SOLA,Xolare RCR Energy Tbk.,236100.0,850800,1857700,-6.329,74.0,103576200.0,,Fundamental belum tersedia
+Basic materials,GGRP,Gunung Raja Paksi Tbk.,194400.0,116400,412500,-3.825,352.0,861876800.0,,Fundamental belum tersedia
+Basic materials,PBID,Panca Budi Idaman Tbk.,179800.0,709500,569700,0.0,520.0,462898000.0,,Fundamental belum tersedia
+Basic materials,NICE,Adhi Kartiko Pratama Tbk.,169200.0,-374600,436700,-5.848,322.0,387426600.0,,Fundamental belum tersedia
+Basic materials,MOLI,Madusari Murni Indah Tbk.,-162000.0,-592600,4156000,-4.04,380.0,1815720400.0,,Fundamental belum tersedia
+Basic materials,AYLS,Arkayana Lestari Grup Tbk.,-154200.0,-571000,-4909200,0.0,190.0,1281046700.0,,Fundamental belum tersedia
+Basic materials,OKAS,Ancora Indonesia Resources Tbk.,120000.0,721200,1218600,-0.99,100.0,114616000.0,,Fundamental belum tersedia
+Basic materials,EKAD,Ekadharma International Tbk.,112200.0,132700,2365200,-3.191,364.0,847066200.0,,Fundamental belum tersedia
+Basic materials,FPNI,Lotte Chemical Titan Tbk.,-109400.0,-672500,-3313100,-5.243,488.0,950595500.0,,Fundamental belum tersedia
+Basic materials,INCI,Intanwijaya Internasional Tbk,97900.0,149800,179200,0.0,960.0,661798500.0,,Fundamental belum tersedia
+Basic materials,ADMG,Polychem Indonesia Tbk,83900.0,266600,428000,-0.877,226.0,215355600.0,,Fundamental belum tersedia
+Basic materials,AMMN,Amman Mineral Internasional Tbk.,-83800.0,-16348100,-76262400,-2.494,4300.0,217157093000.0,,Fundamental belum tersedia
+Basic materials,NPGF,Nusa Palapa Gemilang Tbk.,67800.0,-206500,-19925000,-2.222,44.0,587109600.0,,Fundamental belum tersedia
+Basic materials,OPMS,Optima Prima Metal Sinergi Tbk.,-67000.0,438000,-5540300,-2.128,92.0,247782600.0,,Fundamental belum tersedia
+Basic materials,SMGA,Sumber Mineral Global Abadi Tbk.,-61200.0,-250500,3764300,-3.614,80.0,311601200.0,,Fundamental belum tersedia
+Basic materials,AGII,Samator Indo Gas Tbk.,-60000.0,-103600,-1146800,-3.824,3270.0,374575000.0,,Fundamental belum tersedia
+Basic materials,SMBR,Semen Baturaja (Persero) Tbk.,-53100.0,253100,4591700,-0.662,150.0,333093600.0,,Fundamental belum tersedia
+Basic materials,IPOL,Indopoly Swakarsa Industry Tbk.,32100.0,67700,166000,-1.739,113.0,60014600.0,,Fundamental belum tersedia
+Basic materials,PDPP,Primadaya Plastisindo Tbk.,-31800.0,-38800,159300,1.863,328.0,55524400.0,,Fundamental belum tersedia
+Basic materials,INTD,Inter Delta Tbk,-25100.0,-17300,2500,-0.667,298.0,410498200.0,,Fundamental belum tersedia
+Basic materials,CLPI,Colorpak Indonesia Tbk.,23800.0,180200,98100,0.0,1575.0,176237500.0,,Fundamental belum tersedia
+Basic materials,BMSR,Bintang Mitra Semestaraya Tbk,22300.0,22300,27000,3.846,324.0,290467000.0,,Fundamental belum tersedia
+Basic materials,IFSH,Ifishdeco Tbk.,-21700.0,-7400,-33800,19.307,2410.0,1587327000.0,,Fundamental belum tersedia
+Basic materials,BRNA,Berlina Tbk.,-19200.0,43100,-124500,-5.469,605.0,432009500.0,,Fundamental belum tersedia
+Basic materials,BLES,Superior Prima Sukses Tbk.,18200.0,1022200,4433600,0.0,202.0,2929418800.0,,Fundamental belum tersedia
+Basic materials,IFII,Indonesia Fibreboard Industry Tbk.,15900.0,-91400,-222800,-0.971,204.0,22610200.0,,Fundamental belum tersedia
+Basic materials,ALDO,Alkindo Naratama Tbk.,15500.0,17800,23600,10.417,1325.0,509258000.0,,Fundamental belum tersedia
+Basic materials,ALKA,Alakasa Industrindo Tbk,13400.0,13600,24200,-8.772,6500.0,2427330000.0,,Fundamental belum tersedia
+Basic materials,LTLS,Lautan Luas Tbk.,10600.0,-5600,-205000,-3.297,880.0,139422000.0,,Fundamental belum tersedia
+Basic materials,APLI,Asiaplast Industries Tbk.,10300.0,-12700,-13400,0.0,282.0,349139400.0,,Fundamental belum tersedia
+Basic materials,AKPI,Argha Karya Prima Industry Tbk.,7200.0,135400,321500,1.961,520.0,162237000.0,,Fundamental belum tersedia
+Basic materials,BTON,Betonjaya Manunggal Tbk.,-5500.0,-4700,-8300,11.17,418.0,1772790000.0,,Fundamental belum tersedia
+Basic materials,SPMA,Suparma Tbk.,-5400.0,35300,233700,-1.25,158.0,36475500.0,,Fundamental belum tersedia
+Basic materials,TRST,Trias Sentosa Tbk.,4700.0,-13900,-70400,-1.613,488.0,80820000.0,,Fundamental belum tersedia
+Basic materials,YPAS,Yanaprima Hastapersada Tbk,2900.0,43900,50300,-4.681,1120.0,23780500.0,,Fundamental belum tersedia
+Basic materials,TBMS,Tembaga Mulia Semanan Tbk.,2000.0,6200,2000,-0.42,1185.0,21635500.0,,Fundamental belum tersedia
+Basic materials,IGAR,Champion Pacific Indonesia Tbk.,-1900.0,2700,570000,-2.075,472.0,49070800.0,,Fundamental belum tersedia
+Basic materials,BATR,Benteng Api Technic Tbk.,-1600.0,-1300,85100,-1.075,92.0,45040900.0,,Fundamental belum tersedia
+Basic materials,CTBN,Citra Tubindo Tbk.,-1000.0,-17100,-610500,-3.509,2750.0,72331000.0,,Fundamental belum tersedia
+Basic materials,FWCT,Wijaya Cahaya Timber Tbk.,-1000.0,-2900,27600,1.19,85.0,1246557300.0,,Fundamental belum tersedia
+Basic materials,OBMD,OBM Drilchem Tbk.,-800.0,-2300,13500,-2.198,178.0,174362200.0,,Fundamental belum tersedia
+Basic materials,CITA,Cita Mineral Investindo Tbk.,500.0,12400,-53900,0.299,3360.0,147428000.0,,Fundamental belum tersedia
+Basic materials,SMKL,Satyamitra Kemas Lestari Tbk.,-400.0,3700,126700,-2.632,148.0,19418300.0,,Fundamental belum tersedia
+Basic materials,SAMF,Saraswanti Anugerah Makmur Tbk.,-300.0,277400,3565600,0.0,324.0,92680600.0,2026 Q2,Tanggal publikasi belum ada; bukan untuk backtesting
+Basic materials,TALF,Tunas Alfin Tbk.,-300.0,-300,-68200,1.575,645.0,16175000.0,,Fundamental belum tersedia
+Basic materials,KDSI,Kedawung Setia Industrial Tbk.,-200.0,4100,-3800,0.0,468.0,4802000.0,,Fundamental belum tersedia
+Basic materials,ALMI,Alumindo Light Metal Industry Tbk.,0,0,0,0.0,74.0,0.0,,Fundamental belum tersedia
+Basic materials,BEBS,Berkah Beton Sadaya Tbk.,0,0,0,0.0,5.0,0.0,,Fundamental belum tersedia
+Basic materials,CHEM,Chemstar Indonesia Tbk.,0.0,-34200,-16700,3.39,61.0,848813400.0,,Fundamental belum tersedia
+Basic materials,DPNS,Duta Pertiwi Nusantara Tbk.,0,0,0,0.0,310.0,0.0,,Fundamental belum tersedia
+Basic materials,ETWA,Eterindo Wahanatama Tbk,0,0,0,0.0,70.0,0.0,,Fundamental belum tersedia
+Basic materials,FASW,Fajar Surya Wisesa Tbk.,0,0,0,0.0,5275.0,0.0,,Fundamental belum tersedia
+Basic materials,HKMU,HK Metals Utama Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Basic materials,INAI,Indal Aluminium Industry Tbk.,0,0,-133200,-2.516,155.0,36892700.0,,Fundamental belum tersedia
+Basic materials,INCF,Indo Komoditi Korpora Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Basic materials,INRU,Toba Pulp Lestari Tbk.,0,0,0,0.0,590.0,0.0,,Fundamental belum tersedia
+Basic materials,KAYU,Darmi Bersaudara Tbk.,0,0,0,0.0,18.0,0.0,,Fundamental belum tersedia
+Basic materials,KBRI,Kertas Basuki Rachmat Indonesia Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Basic materials,KMTR,Kirana Megatara Tbk.,0,136200,165200,0.0,238.0,4688600.0,,Fundamental belum tersedia
+Basic materials,LMSH,Lionmesh Prima Tbk.,0,0,0,0.0,256.0,0.0,,Fundamental belum tersedia
+Basic materials,MDKI,Emdeki Utama Tbk.,0,72900,-538900,-0.515,193.0,106706400.0,,Fundamental belum tersedia
+Basic materials,PICO,Pelangi Indah Canindo Tbk,0,-105900,-2762000,-11.176,151.0,561006000.0,,Fundamental belum tersedia
+Basic materials,PTMR,Master Print Tbk.,0,0,0,0.0,374.0,0.0,,Fundamental belum tersedia
+Basic materials,PURE,Trinitan Metals and Minerals Tbk.,0,0,0,0.0,51.0,0.0,,Fundamental belum tersedia
+Basic materials,SBMA,Surya Biru Murni Acetylene Tbk.,0,0,0,0.909,111.0,79245100.0,,Fundamental belum tersedia
+Basic materials,SIMA,Siwani Makmur Tbk,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Basic materials,SMCB,Solusi Bangun Indonesia Tbk.,0,0,0,0.0,775.0,0.0,,Fundamental belum tersedia
+Basic materials,SMLE,Sinergi Multi Lestarindo Tbk.,0,6016600,1034900,0.0,340.0,0.0,,Fundamental belum tersedia
+Basic materials,SULI,SLJ Global Tbk.,0,234200,7231700,-1.299,76.0,298115700.0,,Fundamental belum tersedia
+Basic materials,SWAT,Sriwahana Adityakarta Tbk.,0,0,0,0.0,16.0,0.0,,Fundamental belum tersedia
+Basic materials,TDPM,Tianrong Chemicals Industry Tbk.,0,0,0,0.0,119.0,0.0,,Fundamental belum tersedia
+Basic materials,TIRT,Tirta Mahakam Resources Tbk,0,0,0,0.0,590.0,0.0,,Fundamental belum tersedia
+Basic materials,UNIC,Unggul Indah Cahaya Tbk.,0,-200,-22200,-0.831,14925.0,439245000.0,,Fundamental belum tersedia
+Basic materials,WSBP,Waskita Beton Precast Tbk.,0,0,0,0.0,14.0,0.0,,Fundamental belum tersedia
+Basic materials,ZINC,Kapuas Prima Coal Tbk.,0,0,0,0.0,30.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,VKTR,VKTR Teknologi Mobilitas Tbk.,55959800.0,68238500,179015900,-1.55,635.0,105262512000.0,,Fundamental belum tersedia
+Consumer cyclycal,MDIA,Intermedia Capital Tbk.,47159800.0,35147100,154644900,-7.353,126.0,26290137300.0,,Fundamental belum tersedia
+Consumer cyclycal,ERAA,Erajaya Swasembada Tbk.,42008600.0,22616700,91459000,1.626,625.0,48085389000.0,,Fundamental belum tersedia
+Consumer cyclycal,FORU,Fortune Indonesia Tbk,36961500.0,63814900,69063400,-7.857,129.0,155553733700.0,,Fundamental belum tersedia
+Consumer cyclycal,KOTA,DMS Propertindo Tbk.,29383700.0,26154700,681486500,-7.812,118.0,41604395100.0,,Fundamental belum tersedia
+Consumer cyclycal,JGLE,Graha Andrasentra Propertindo Tbk.,15388400.0,-96249300,248995700,-8.696,42.0,8778670700.0,,Fundamental belum tersedia
+Consumer cyclycal,DOOH,Era Media Sejahtera Tbk.,6684800.0,25542100,-14575100,12.593,304.0,169382655600.0,,Fundamental belum tersedia
+Consumer cyclycal,ACES,Aspirasi Hidup Indonesia Tbk.,6459600.0,8286200,-32970600,-2.454,318.0,19506599000.0,,Fundamental belum tersedia
+Consumer cyclycal,ZATA,Bersama Zatta Jaya Tbk.,-6400600.0,-29555500,58845500,-9.615,47.0,2236181500.0,,Fundamental belum tersedia
+Consumer cyclycal,MINA,Sanurhasta Mitra Tbk.,-6102900.0,-8206000,9122200,-7.143,195.0,8982859100.0,,Fundamental belum tersedia
+Consumer cyclycal,PART,Cipta Perdana Lancar Tbk.,5763200.0,-821100,-18300,-9.244,108.0,6801656000.0,,Fundamental belum tersedia
+Consumer cyclycal,SCMA,Surya Citra Media Tbk.,-4071000.0,-3588400,-53263200,-1.667,177.0,6333101200.0,,Fundamental belum tersedia
+Consumer cyclycal,BUVA,Bukit Uluwatu Villa Tbk.,-3901200.0,-16977100,-21083100,-13.534,575.0,99838638500.0,,Fundamental belum tersedia
+Consumer cyclycal,LUCY,Lima Dua Lima Tiga Tbk.,-3741800.0,5629200,27649200,-10.0,153.0,23458950000.0,,Fundamental belum tersedia
+Consumer cyclycal,BAIK,Bersama Mencapai Puncak Tbk.,3687700.0,4405100,16700200,1.681,242.0,2096628200.0,,Fundamental belum tersedia
+Consumer cyclycal,DFAM,Dafam Property Indonesia Tbk.,3434700.0,-776700,3459000,-5.714,66.0,614889200.0,,Fundamental belum tersedia
+Consumer cyclycal,KPIG,MNC Tourism Indonesia Tbk.,3421500.0,-42217300,-758894300,-4.762,40.0,7246198400.0,,Fundamental belum tersedia
+Consumer cyclycal,HRTA,Hartadinata Abadi Tbk.,-3380100.0,-15011600,-28485200,-5.046,2070.0,26510680000.0,,Fundamental belum tersedia
+Consumer cyclycal,RANS,Rans Entertainmen Indonesia Tbk.,3267000.0,-3599900,35552800,-2.26,173.0,7600551800.0,,Fundamental belum tersedia
+Consumer cyclycal,MSIN,MNC Digital Entertainment Tbk.,3233200.0,-2089100,-29621000,-3.911,172.0,5458125600.0,,Fundamental belum tersedia
+Consumer cyclycal,OLIV,Atlas Nexus Group Tbk.,3149100.0,3070600,6282000,0.0,50.0,742091600.0,,Fundamental belum tersedia
+Consumer cyclycal,NETV,MDTV Media Technologies Tbk.,3093500.0,1302600,-14707600,-8.108,34.0,1738021300.0,,Fundamental belum tersedia
+Consumer cyclycal,MAPI,Mitra Adiperkasa Tbk.,-3020500.0,7189400,5619900,-6.774,1445.0,20088550500.0,,Fundamental belum tersedia
+Consumer cyclycal,VIVA,Visi Media Asia Tbk.,-2639700.0,-9445900,-82978700,12.5,45.0,32984934500.0,,Fundamental belum tersedia
+Consumer cyclycal,YELO,Yelooo Integra Datanet Tbk.,-2608500.0,-5199700,8775400,-3.846,75.0,4416761100.0,,Fundamental belum tersedia
+Consumer cyclycal,FUTR,Futura Energi Global Tbk.,2443100.0,849800,-6928500,-8.73,230.0,8326400400.0,,Fundamental belum tersedia
+Consumer cyclycal,ESTI,Ever Shine Tex Tbk.,2255100.0,-1969600,-229700,-6.289,149.0,1084494000.0,,Fundamental belum tersedia
+Consumer cyclycal,FILM,MD Entertainment Tbk.,2066700.0,-5260700,-52490000,-6.723,555.0,10644964000.0,,Fundamental belum tersedia
+Consumer cyclycal,ASLC,Autopedia Sukses Lestari Tbk.,1998700.0,-846000,-3244600,-5.263,54.0,782899000.0,,Fundamental belum tersedia
+Consumer cyclycal,CNMA,Nusantara Sejahtera Raya Tbk.,-1914400.0,-5376300,3923300,-3.371,86.0,1354086500.0,,Fundamental belum tersedia
+Consumer cyclycal,TOOL,Rohartindo Nusantara Luas Tbk.,-1832700.0,-2858200,236000,-1.786,55.0,787211500.0,,Fundamental belum tersedia
+Consumer cyclycal,AKKU,Anugerah Kagum Karya Utama Tbk.,-1733400.0,-7712400,-7762400,3.704,84.0,14048073000.0,,Fundamental belum tersedia
+Consumer cyclycal,RALS,Ramayana Lestari Sentosa Tbk.,-1629900.0,-6036300,-11412800,0.532,378.0,724779000.0,,Fundamental belum tersedia
+Consumer cyclycal,CARS,Industri dan Perdagangan Bintraco Dharma Tbk.,1517200.0,2039600,1269400,0.0,102.0,732604700.0,,Fundamental belum tersedia
+Consumer cyclycal,PBRX,Pan Brothers Tbk.,1508300.0,6122400,9603200,-10.714,25.0,591605300.0,,Fundamental belum tersedia
+Consumer cyclycal,IDEA,Idea Indonesia Akademi Tbk.,-1478100.0,-1935400,-2140200,-7.477,198.0,6800042600.0,,Fundamental belum tersedia
+Consumer cyclycal,MEJA,Harta Djaya Karya Tbk.,-1446400.0,-7525000,-11480000,-9.434,144.0,13222834500.0,,Fundamental belum tersedia
+Consumer cyclycal,SLIS,Gaya Abadi Sempurna Tbk.,-1340600.0,-7070300,-3036100,-4.11,70.0,796839300.0,,Fundamental belum tersedia
+Consumer cyclycal,BMTR,Global Mediacom Tbk.,1135900.0,-9203000,-129716900,-5.263,72.0,5880785800.0,,Fundamental belum tersedia
+Consumer cyclycal,BELL,Trisula Textile Industries Tbk.,1014700.0,-6459200,4321500,-4.301,89.0,904272600.0,,Fundamental belum tersedia
+Consumer cyclycal,PSKT,Red Planet Indonesia Tbk.,-968500.0,-3534500,16840000,-2.778,210.0,1822773200.0,,Fundamental belum tersedia
+Consumer cyclycal,TMPO,Tempo Intimedia Tbk.,960100.0,1833200,8976400,-5.806,146.0,1370482000.0,,Fundamental belum tersedia
+Consumer cyclycal,AUTO,Astra Otoparts Tbk.,-850600.0,-3681900,-8123700,0.297,3380.0,18047220000.0,,Fundamental belum tersedia
+Consumer cyclycal,GRPH,Griptha Putra Persada Tbk.,-786600.0,-1072100,-2657400,-14.583,82.0,2696259900.0,,Fundamental belum tersedia
+Consumer cyclycal,DRMA,Dharma Polimetal Tbk.,778100.0,465000,-1927900,0.0,960.0,1235651000.0,,Fundamental belum tersedia
+Consumer cyclycal,SOFA,Solusi Environment Asia Tbk.,705000.0,-196200,-356100,-7.075,197.0,2260148600.0,,Fundamental belum tersedia
+Consumer cyclycal,ERAL,Sinar Eka Selaras Tbk.,666600.0,-443000,-3354100,-3.165,306.0,1360639400.0,,Fundamental belum tersedia
+Consumer cyclycal,GJTL,Gajah Tunggal Tbk.,-647400.0,-5185800,-15480600,-1.562,1260.0,3042584000.0,,Fundamental belum tersedia
+Consumer cyclycal,VERN,Verona Indah Pictures Tbk.,595500.0,6532600,-653400,-1.695,232.0,1809528200.0,,Fundamental belum tersedia
+Consumer cyclycal,IMAS,Indomobil Sukses Internasional Tbk.,-551200.0,-1033900,-1011700,-1.176,840.0,534089500.0,,Fundamental belum tersedia
+Consumer cyclycal,GOLF,Intra Golflink Resorts Tbk.,494200.0,951900,738500,-3.614,160.0,563229600.0,,Fundamental belum tersedia
+Consumer cyclycal,KDTN,Puri Sentul Permai Tbk.,-488400.0,366800,1537300,-14.831,402.0,982568400.0,,Fundamental belum tersedia
+Consumer cyclycal,UNTD,Terang Dunia Internusa Tbk.,-484700.0,-2226300,6097000,-5.479,69.0,1470430800.0,,Fundamental belum tersedia
+Consumer cyclycal,MGNA,Magna Investama Mandiri Tbk.,438300.0,1031300,-2885200,-6.878,176.0,533837800.0,,Fundamental belum tersedia
+Consumer cyclycal,SCNP,Selaras Citra Nusantara Perkasa Tbk.,359700.0,1162400,2980300,0.0,165.0,162731900.0,,Fundamental belum tersedia
+Consumer cyclycal,PZZA,Sarimelati Kencana Tbk.,352800.0,357100,4930700,-3.627,186.0,168964400.0,,Fundamental belum tersedia
+Consumer cyclycal,INOV,Inocycle Technology Group Tbk.,316200.0,-112000,-5196900,-2.158,136.0,259272400.0,,Fundamental belum tersedia
+Consumer cyclycal,BIKE,Bhineka Inovasi Ketahanan Energi Tbk.,-309000.0,126900,-150500,24.766,2670.0,18570575000.0,,Fundamental belum tersedia
+Consumer cyclycal,MNCN,Media Nusantara Citra Tbk.,-303000.0,-17901400,-119896000,-6.557,114.0,3875599600.0,,Fundamental belum tersedia
+Consumer cyclycal,SWID,Saraswanti Indoland Development Tbk.,248600.0,702300,-1985900,-6.731,97.0,229588000.0,,Fundamental belum tersedia
+Consumer cyclycal,BOLA,Bali Bintang Sejahtera Tbk.,211400.0,-185700,190900,3.012,171.0,389844300.0,,Fundamental belum tersedia
+Consumer cyclycal,INDS,Indospring Tbk.,184800.0,-300700,-1510000,-4.724,242.0,612845000.0,,Fundamental belum tersedia
+Consumer cyclycal,FAST,Fast Food Indonesia Tbk.,-164700.0,-1463000,-2357500,-3.5,386.0,1411689600.0,,Fundamental belum tersedia
+Consumer cyclycal,SNLK,Sunter Lakeside Hotel Tbk.,-162400.0,-119900,-475800,0.0,234.0,2392801200.0,,Fundamental belum tersedia
+Consumer cyclycal,LIVE,Homeco Victoria Makmur Tbk.,138100.0,523200,1042000,-5.128,148.0,175044700.0,,Fundamental belum tersedia
+Consumer cyclycal,MSKY,MNC Sky Vision Tbk.,-131200.0,2141400,3710900,-6.522,43.0,117765200.0,,Fundamental belum tersedia
+Consumer cyclycal,CINT,Chitose Internasional Tbk.,130400.0,528300,795500,-0.505,197.0,101153200.0,,Fundamental belum tersedia
+Consumer cyclycal,GWSA,Greenwood Sejahtera Tbk.,127500.0,291400,-68200,-8.434,152.0,541444300.0,,Fundamental belum tersedia
+Consumer cyclycal,EAST,Eastparc Hotel Tbk.,118300.0,871800,-6357700,-1.111,89.0,74791900.0,,Fundamental belum tersedia
+Consumer cyclycal,HRME,Menteng Heritage Realty Tbk.,-113000.0,1698800,1675600,-7.143,39.0,293929500.0,,Fundamental belum tersedia
+Consumer cyclycal,DOSS,Global Sukses Digital Tbk.,109700.0,152800,1518700,-1.887,156.0,138335400.0,,Fundamental belum tersedia
+Consumer cyclycal,ACRO,Samcro Hyosung Adilestari Tbk.,-106000.0,1500800,-3745300,-3.774,51.0,247830600.0,,Fundamental belum tersedia
+Consumer cyclycal,PMUI,Prima Multi Usaha Indonesia Tbk.,94500.0,-103900,407500,-3.03,96.0,283922300.0,,Fundamental belum tersedia
+Consumer cyclycal,MDIY,Daya Intiguna Yasa Tbk.,91400.0,301300,770400,-1.117,885.0,234501000.0,,Fundamental belum tersedia
+Consumer cyclycal,DEPO,Caturkarda Depo Bangunan Tbk.,89200.0,176200,263000,-2.564,228.0,36596200.0,,Fundamental belum tersedia
+Consumer cyclycal,HAJJ,Arsy Buana Travelindo Tbk.,-72100.0,7521200,3871000,-2.381,123.0,1658063100.0,,Fundamental belum tersedia
+Consumer cyclycal,SMSM,Selamat Sempurna Tbk.,-69000.0,-3242400,-27620600,0.0,1690.0,3058981000.0,,Fundamental belum tersedia
+Consumer cyclycal,MGLV,NexAI Digital Infrastruktur Tbk.,58700.0,-304600,-937600,-8.209,12300.0,11731642500.0,,Fundamental belum tersedia
+Consumer cyclycal,MAPA,Map Aktif Adiperkasa Tbk.,56600.0,8042600,-81293100,0.0,625.0,2882603000.0,,Fundamental belum tersedia
+Consumer cyclycal,PMJS,Putra Mandiri Jembar Tbk.,52200.0,-242700,526300,-0.735,135.0,82617700.0,,Fundamental belum tersedia
+Consumer cyclycal,MPMX,Mitra Pinasthika Mustika Tbk.,-51400.0,361100,-3137400,-0.971,1020.0,3328653000.0,,Fundamental belum tersedia
+Consumer cyclycal,TYRE,King Tire Indonesia Tbk.,42500.0,133600,35200,-0.935,106.0,15425600.0,,Fundamental belum tersedia
+Consumer cyclycal,UFOE,Damai Sejahtera Abadi Tbk.,-40900.0,-3100,260500,-5.634,134.0,72785100.0,,Fundamental belum tersedia
+Consumer cyclycal,IPTV,MNC Vision Networks Tbk.,30600.0,15100,840400,-8.0,23.0,234525100.0,,Fundamental belum tersedia
+Consumer cyclycal,SOTS,Satria Mega Kencana Tbk.,-30600.0,-383700,-820800,13.043,650.0,2033023500.0,,Fundamental belum tersedia
+Consumer cyclycal,JIHD,Jakarta International Hotels & Development Tbk.,30500.0,95400,25900,-1.531,386.0,71510000.0,,Fundamental belum tersedia
+Consumer cyclycal,BAYU,Bayu Buana Tbk,-29900.0,-29900,-5300,-3.435,1265.0,146137500.0,,Fundamental belum tersedia
+Consumer cyclycal,LPPF,MDS Retailing Tbk.,23100.0,-216400,565600,-1.254,1575.0,1991292000.0,,Fundamental belum tersedia
+Consumer cyclycal,KAQI,Jantra Grupo Indonesia Tbk.,-20700.0,-96000,-14412000,-7.059,79.0,1983472000.0,,Fundamental belum tersedia
+Consumer cyclycal,ERTX,Eratex Djaja Tbk.,-19500.0,316800,18900,-2.994,162.0,65299700.0,,Fundamental belum tersedia
+Consumer cyclycal,TRIS,Trisula International Tbk.,18600.0,621600,2324600,-0.588,169.0,52385200.0,,Fundamental belum tersedia
+Consumer cyclycal,AEGS,Anugerah Spareparts Sejahtera Tbk.,18400.0,2609800,14554400,0.0,47.0,210100600.0,,Fundamental belum tersedia
+Consumer cyclycal,NATO,Olympus Strategic Indonesia Tbk.,-13200.0,29700,-636300,0.0,980.0,91043000.0,,Fundamental belum tersedia
+Consumer cyclycal,KICI,Kedaung Indah Can Tbk,12800.0,-310800,39700,-5.479,276.0,478026400.0,,Fundamental belum tersedia
+Consumer cyclycal,CSAP,Catur Sentosa Adiprana Tbk.,10300.0,13700,107300,-0.714,278.0,31839200.0,,Fundamental belum tersedia
+Consumer cyclycal,SHID,Hotel Sahid Jaya International Tbk.,5800.0,6600,31200,-5.303,625.0,13875000.0,,Fundamental belum tersedia
+Consumer cyclycal,WOOD,Integra Indocabinet Tbk.,4800.0,175100,887300,-2.162,181.0,280560500.0,,Fundamental belum tersedia
+Consumer cyclycal,PJAA,Pembangunan Jaya Ancol Tbk.,4400.0,19700,50100,-0.881,450.0,22031400.0,,Fundamental belum tersedia
+Consumer cyclycal,SONA,Sona Topas Tourism Industry Tbk.,4300.0,6400,5100,-5.537,2900.0,93070000.0,,Fundamental belum tersedia
+Consumer cyclycal,GEMA,Gema Grahasarana Tbk.,-3400.0,-1300,351800,-1.124,88.0,139085900.0,,Fundamental belum tersedia
+Consumer cyclycal,BAUT,Mitra Angkasa Sejahtera Tbk.,3000.0,2200,1900,3.125,33.0,1523189600.0,,Fundamental belum tersedia
+Consumer cyclycal,ZONE,Mega Perintis Tbk.,3000.0,5600,400,24.615,810.0,1822753500.0,,Fundamental belum tersedia
+Consumer cyclycal,PNSE,Pudjiadi & Sons Tbk.,-2800.0,-3700,-7800,0.0,442.0,4439600.0,,Fundamental belum tersedia
+Consumer cyclycal,RAAM,Tripar Multivision Plus Tbk.,2100.0,-356500,-856900,-3.614,160.0,46667900.0,,Fundamental belum tersedia
+Consumer cyclycal,ESTA,Esta Multi Usaha Tbk.,-1500.0,45800,-219800,0.625,161.0,365471400.0,,Fundamental belum tersedia
+Consumer cyclycal,TFCO,Tifico Fiber Indonesia Tbk.,1400.0,1400,1400,24.757,1285.0,337492500.0,,Fundamental belum tersedia
+Consumer cyclycal,BOGA,Apollo Global Interactive Tbk.,-1300.0,-200,-10100,-1.863,1580.0,37930500.0,,Fundamental belum tersedia
+Consumer cyclycal,INDR,Indo-Rama Synthetics Tbk.,1000.0,0,-28500,5.882,2880.0,14655000.0,,Fundamental belum tersedia
+Consumer cyclycal,LFLO,Imago Mulia Persada Tbk.,900.0,1500,5600,-2.586,565.0,5020000.0,,Fundamental belum tersedia
+Consumer cyclycal,PTSP,Pioneerindo Gourmet International Tbk.,900.0,8200,4900,2.294,1115.0,10827500.0,,Fundamental belum tersedia
+Consumer cyclycal,MAPB,MAP Boga Adiperkasa Tbk.,-800.0,2700,2100,-14.981,1135.0,139844500.0,,Fundamental belum tersedia
+Consumer cyclycal,BLTZ,Graha Layar Prima Tbk.,-600.0,-10500,-10500,-7.895,3500.0,116047000.0,,Fundamental belum tersedia
+Consumer cyclycal,JSPT,Jakarta Setiabudi Internasional Tbk.,-300.0,-3800,2000,-2.518,1355.0,5956500.0,,Fundamental belum tersedia
+Consumer cyclycal,POLU,Golden Flower Tbk.,-300.0,100,-700,-1.706,14400.0,97492500.0,,Fundamental belum tersedia
+Consumer cyclycal,ARTA,Arthavest Tbk,200.0,2300,-400,-1.714,1720.0,3115000.0,,Fundamental belum tersedia
+Consumer cyclycal,PANR,Panorama Sentrawisata Tbk.,-100.0,-5300,-1300,-2.02,388.0,13487800.0,,Fundamental belum tersedia
+Consumer cyclycal,ABBA,Mahaka Media Tbk.,0,0,0,0.0,30.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,BABY,Multitrend Indo Tbk.,0,122100,-175300,-1.064,186.0,292860500.0,,Fundamental belum tersedia
+Consumer cyclycal,BATA,Sepatu Bata Tbk.,0,0,0,0.0,59.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,BIMA,Primarindo Asia Infrastructure Tbk.,0,0,0,0.0,82.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,BMBL,Lavender Bina Cendikia Tbk.,0,-6525000,-25000,-3.226,30.0,775729800.0,,Fundamental belum tersedia
+Consumer cyclycal,BOLT,Garuda Metalindo Tbk.,0,1500,-2000,0.629,800.0,7111500.0,,Fundamental belum tersedia
+Consumer cyclycal,BRAM,Indo Kordsa Tbk.,0,0,-100,1.319,4610.0,3698000.0,,Fundamental belum tersedia
+Consumer cyclycal,CBMF,Cahaya Bintang Medan Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,CLAY,Citra Putra Realty Tbk.,0,0,-7300,2.837,2900.0,55100000.0,,Fundamental belum tersedia
+Consumer cyclycal,CSMI,Cipta Selera Murni Tbk.,0,4115300,-4056000,0.0,515.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,DIGI,Arkadia Digital Media Tbk.,0,0,0,0.0,29.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,DUCK,Jaya Bersama Indo Tbk.,0,0,0,0.0,176.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,ECII,Electronic City Indonesia Tbk.,0,153500,1247200,0.0,154.0,39760500.0,,Fundamental belum tersedia
+Consumer cyclycal,ENAK,Champ Resto Indonesia Tbk.,0,-405400,-1686500,-4.918,174.0,364067100.0,,Fundamental belum tersedia
+Consumer cyclycal,FITT,Fortune Resources Investment Tbk.,0,-39600,-779400,-1.471,402.0,88071600.0,,Fundamental belum tersedia
+Consumer cyclycal,GDYR,Goodyear Indonesia Tbk.,0,-7900,150100,-1.357,1090.0,2290500.0,,Fundamental belum tersedia
+Consumer cyclycal,GLOB,Globe Kita Terang Tbk.,0,0,0,0.0,155.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,HOME,Hotel Mandarine Regency Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,HOTL,Saraswati Griya Lestari Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,IIKP,Inti Agri Resources Tbk,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,ISAP,Isra Presisi Indonesia Tbk.,0,450000,7533000,-4.0,24.0,978775300.0,,Fundamental belum tersedia
+Consumer cyclycal,KLIN,Klinko Karya Imaji Tbk.,0,0,100,-3.448,112.0,24558300.0,,Fundamental belum tersedia
+Consumer cyclycal,LMAX,Lupromax Pelumas Indonesia Tbk.,0,0,0,-4.95,96.0,94612400.0,,Fundamental belum tersedia
+Consumer cyclycal,LMPI,Langgeng Makmur Industri Tbk.,0,-6100,-6100,1.923,159.0,62608600.0,,Fundamental belum tersedia
+Consumer cyclycal,LPIN,Multi Prima Sejahtera Tbk,0,0,0,0.455,442.0,30098200.0,,Fundamental belum tersedia
+Consumer cyclycal,MABA,Marga Abhinaya Abadi Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,MARI,Mahaka Radio Integra Tbk.,0,0,0,0.0,23.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,MERI,Merry Riana Edukasi Tbk.,0,2000,-684000,-3.738,103.0,170992900.0,,Fundamental belum tersedia
+Consumer cyclycal,MICE,Multi Indocitra Tbk.,0,-200,-3500,0.408,492.0,5854200.0,,Fundamental belum tersedia
+Consumer cyclycal,MKNT,Mitra Komunikasi Nusantara Tbk.,0,0,0,0.0,1.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,MYTX,Asia Pacific Investama Tbk.,0,0,0,0.0,41.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,NUSA,Sinergi Megah Internusa Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,PDES,Destinasi Tirta Nusantara Tbk,0,2100,29000,0.0,374.0,15931400.0,,Fundamental belum tersedia
+Consumer cyclycal,PGLI,Pembangunan Graha Lestari Indah Tbk.,0,928900,-3287700,-3.093,376.0,552660800.0,,Fundamental belum tersedia
+Consumer cyclycal,PLAN,Planet Properindo Jaya Tbk.,0,0,426100,-6.579,71.0,435040700.0,,Fundamental belum tersedia
+Consumer cyclycal,POLY,Asia Pacific Fibers Tbk,0,0,0,0.0,32.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,RAFI,Sari Kreasi Boga Tbk.,0,0,0,0.0,36.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,RICY,Ricky Putra Globalindo Tbk,0,400,400,-4.225,68.0,25014400.0,,Fundamental belum tersedia
+Consumer cyclycal,SBAT,Sejahtera Bintang Abadi Textile Tbk.,0,0,0,0.0,1.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,SPRE,Soraya Berjaya Indonesia Tbk.,0,0,17500,1.111,91.0,112054800.0,,Fundamental belum tersedia
+Consumer cyclycal,SRIL,Sri Rejeki Isman Tbk.,0,0,0,0.0,146.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,SSTM,Sunson Textile Manufacture Tbk,0,41100,-64500,-0.962,412.0,27332800.0,,Fundamental belum tersedia
+Consumer cyclycal,TELE,Omni Inovasi Indonesia Tbk.,0,0,0,0.0,9.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,TOYS,Sunindo Adipersada Tbk.,0,0,0,0.0,8.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,TRIO,Trikomsel Oke Tbk.,0,0,0,0.0,426.0,0.0,,Fundamental belum tersedia
+Consumer cyclycal,UNIT,Nusantara Inti Corpora Tbk,0,0,0,0.0,316.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,NAYZ,Hassana Boga Sejahtera Tbk.,-45302400.0,-53614000,-89359100,-3.478,111.0,29366149500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,COCO,Wahana Interfood Nusantara Tbk.,40539700.0,-35662200,55930600,-11.024,113.0,49187639700.0,,Fundamental belum tersedia
+Consumer non-cyclycal,HMSP,H.M. Sampoerna Tbk.,13032500.0,22678800,43742400,0.787,640.0,13333720000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MLPL,Multipolar Tbk.,-9536600.0,-10846500,5496500,-1.316,75.0,5744083400.0,,Fundamental belum tersedia
+Consumer non-cyclycal,WMPP,Widodo Makmur Perkasa Tbk.,-7365600.0,3387900,5041600,-7.692,24.0,1980737600.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CPIN,Charoen Pokphand Indonesia Tbk,4621600.0,-36600,-290388600,2.027,3020.0,64654017000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,HOKI,Buyung Poetra Sembada Tbk.,4516300.0,9289900,16089400,-2.222,44.0,1936375000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ULTJ,Ultrajaya Milk Industry & Trading Company Tbk.,3662700.0,43731200,45442300,0.472,2130.0,23938624000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,LSIP,PP London Sumatra Indonesia Tbk.,3297300.0,1079800,19373400,-1.01,1470.0,12574888000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,DEWI,Dewi Shri Farmindo Tbk.,-3160300.0,-2155900,-6445400,-1.575,250.0,9415060400.0,,Fundamental belum tersedia
+Consumer non-cyclycal,GULA,Aman Agrindo Tbk.,3104700.0,9203800,894300,-1.198,825.0,13619674500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,VICI,Victoria Care Indonesia Tbk.,-2947400.0,-6093500,-3364100,-5.6,1180.0,25800912500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,PCAR,Prima Cakrawala Abadi Tbk.,2563100.0,6763800,12735700,8.889,98.0,11903309700.0,,Fundamental belum tersedia
+Consumer non-cyclycal,AYAM,Janu Putra Sejahtera Tbk.,-2451700.0,6492300,-6076200,-6.154,488.0,14855649100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,WMUU,Widodo Makmur Unggas Tbk.,2372400.0,6092200,5707700,-6.667,28.0,1821089400.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BEER,Jobubu Jarum Minahasa Tbk.,2338600.0,-4346900,4957000,0.0,64.0,2814185900.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ASHA,Cilacap Samudera Fishing Industry Tbk.,-2293700.0,-2219500,13042000,0.0,44.0,1349549000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MYOR,Mayora Indah Tbk.,2248100.0,-6824400,-24851600,-0.364,1370.0,9841313000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,NASI,Wahana Inti Makmur Tbk.,2205300.0,1863900,7008500,-14.525,153.0,2126124700.0,,Fundamental belum tersedia
+Consumer non-cyclycal,STRK,Lovina Beach Brewery Tbk.,-2123400.0,-22748100,-7851700,10.843,92.0,36984166100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MIDI,Midi Utama Indonesia Tbk.,2117000.0,3520400,2417800,0.752,268.0,1651186200.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ICBP,Indofood CBP Sukses Makmur Tbk.,1838100.0,3895000,8936700,1.439,7050.0,31643742500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CPRO,Central Proteina Prima Tbk.,-1789100.0,2673900,-13671300,-7.317,38.0,1908481700.0,,Fundamental belum tersedia
+Consumer non-cyclycal,AMRT,Sumber Alfaria Trijaya Tbk.,1697200.0,-17795900,-683300,-0.403,1235.0,20718531000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,PSDN,Prasidha Aneka Niaga Tbk,-1659500.0,-5166400,-288900,-5.385,123.0,1549302100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,GZCO,Gozco Plantations Tbk.,1432400.0,467700,4535200,-7.273,153.0,1188663900.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BEEF,Estika Tata Tiara Tbk.,-1425500.0,-3545600,-11623000,-1.402,422.0,1330759600.0,,Fundamental belum tersedia
+Consumer non-cyclycal,NEST,Esta Indonesia Tbk.,-1213700.0,6141700,9038800,-2.353,830.0,7265721000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MSJA,Multi Spunindo Jaya Tbk.,1156200.0,-3147600,-4900400,0.621,810.0,15096743000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,DPUM,Dua Putra Utama Makmur Tbk.,1008100.0,-13145200,11205900,-6.504,115.0,5620524100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,UDNG,Agro Bahari Nusantara Tbk.,-959400.0,185900,1174700,-2.745,496.0,6790084100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SIMP,Salim Ivomas Pratama Tbk.,954600.0,-5576200,-7150400,-0.893,555.0,3994369000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,OILS,Indo Oil Perkasa Tbk.,883000.0,1827800,7752700,-8.763,354.0,3979889800.0,,Fundamental belum tersedia
+Consumer non-cyclycal,IKAN,Era Mandiri Cemerlang Tbk.,-820300.0,-2292700,2525900,-1.235,80.0,758399200.0,,Fundamental belum tersedia
+Consumer non-cyclycal,AISA,FKS Food Sejahtera Tbk.,-786200.0,-1954500,-1192400,-1.754,112.0,389116100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,JAWA,Jaya Agra Wattie Tbk.,630700.0,1377900,-9253000,-4.698,142.0,819692100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ENZO,Morenzo Abadi Perkasa Tbk.,595900.0,-2528100,-1950000,-4.688,61.0,502380000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CMRY,Cisarua Mountain Dairy Tbk.,589600.0,1056000,8215300,1.351,4500.0,3809549000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,DSFI,Dharma Samudera Fishing Industries Tbk.,-541200.0,-477000,2964400,-4.878,78.0,535120700.0,,Fundamental belum tersedia
+Consumer non-cyclycal,TAPG,Triputra Agro Persada Tbk.,541200.0,-5281300,49113900,0.498,2020.0,12284180000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,GGRM,Gudang Garam Tbk.,515100.0,1369400,4982800,-0.417,17925.0,50188852500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BWPT,Eagle High Plantations Tbk.,508500.0,-14426300,9741700,-4.762,100.0,5047486200.0,,Fundamental belum tersedia
+Consumer non-cyclycal,GRPM,Graha Prima Mentari Tbk.,465600.0,-1838800,578900,-7.692,132.0,1252089100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BRRC,Raja Roti Cemerlang Tbk.,-462000.0,-1981000,200500,-5.0,57.0,9400250400.0,,Fundamental belum tersedia
+Consumer non-cyclycal,UNSP,Bakrie Sumatera Plantations Tbk.,-443600.0,-359700,5199600,-6.471,318.0,6962052400.0,,Fundamental belum tersedia
+Consumer non-cyclycal,NANO,Nanotech Indonesia Global Tbk.,441400.0,-1834200,305900,3.448,30.0,2236444200.0,,Fundamental belum tersedia
+Consumer non-cyclycal,INDF,Indofood Sukses Makmur Tbk.,411000.0,3794500,3596400,-0.719,6900.0,46637297500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,FORE,Fore Kopi Indonesia Tbk.,406500.0,-1840200,-4886500,-3.947,730.0,2263954000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SSMS,Sawit Sumbermas Sarana Tbk.,382600.0,730200,-11190700,-1.402,1055.0,10813434000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,AALI,Astra Agro Lestari Tbk.,-374600.0,690700,2899700,-1.786,8250.0,13277545000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,DSNG,Dharma Satya Nusantara Tbk.,362900.0,-1770600,-11736700,-3.333,1450.0,4873275000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,WIIM,Wismilak Inti Makmur Tbk.,356300.0,178000,524300,-1.29,1530.0,2134988000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,WAPO,Wahana Pronatural Tbk.,-328500.0,-1017400,2861700,-8.553,278.0,1105554000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,TLDN,Teladan Prima Agro Tbk.,-306900.0,-136500,113900,-2.439,600.0,1755154000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CLEO,Sariguna Primatirta Tbk.,291700.0,2793900,4549400,-4.018,430.0,10116698800.0,,Fundamental belum tersedia
+Consumer non-cyclycal,UNVR,Unilever Indonesia Tbk.,291500.0,-5863900,-69345700,-0.627,1585.0,19324193500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MAIN,Malindo Feedmill Tbk.,-282800.0,-806700,-5000900,-1.626,605.0,783144500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,IBOS,Indo Boga Sukses Tbk.,265800.0,-1254200,2797900,-5.814,81.0,286753800.0,,Fundamental belum tersedia
+Consumer non-cyclycal,STAA,Sumber Tani Agung Resources Tbk.,-214800.0,240600,11829700,0.0,1240.0,4528602500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MLBI,Multi Bintang Indonesia Tbk.,204200.0,290600,691900,-0.365,6825.0,1454480000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,RLCO,Abadi Lestari Indonesia Tbk.,195100.0,231300,379700,-8.873,3800.0,5483593000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,PTPS,Pulau Subur Tbk.,-149600.0,-637100,287200,-3.268,148.0,186944600.0,,Fundamental belum tersedia
+Consumer non-cyclycal,JPFA,Japfa Comfeed Indonesia Tbk.,149100.0,-5064000,-42727200,1.961,2080.0,38501862000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MBTO,Martina Berto Tbk.,-135400.0,331600,740000,-8.824,124.0,683047600.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BUAH,Segar Kumala Indonesia Tbk.,126100.0,33600,35900,0.417,482.0,263228000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BOBA,Formosa Ingredient Factory Tbk.,99200.0,130200,411500,0.51,197.0,59021100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SIPD,Sreeya Sewu Indonesia Tbk.,-95200.0,-91500,-122000,-10.494,725.0,173644500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MAXI,Maxindo Karya Anugerah Tbk.,89600.0,75400,3157200,-10.714,25.0,1050424300.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BTEK,Bumi Teknokultura Unggul Tbk,84900.0,64227800,53689800,-7.143,13.0,6637950700.0,,Fundamental belum tersedia
+Consumer non-cyclycal,JELI,Niramas Utama Tbk.,70100.0,-779100,2654800,-5.0,380.0,1086366000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ISEA,Indo American Seafoods Tbk.,-66100.0,-340900,1004400,-2.532,77.0,184040200.0,,Fundamental belum tersedia
+Consumer non-cyclycal,LAPD,Leyand International Tbk.,-60300.0,-11414500,487800,-2.74,71.0,3061105200.0,,Fundamental belum tersedia
+Consumer non-cyclycal,NSSS,Nusantara Sawit Sejahtera Tbk.,-58400.0,-1396300,-19400,-7.483,680.0,2655617000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,TBLA,Tunas Baru Lampung Tbk.,-49400.0,-176100,-1601200,-1.639,600.0,294293000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CBUT,Citra Borneo Utama Tbk.,48800.0,64300,-38700,0.552,910.0,155084500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,GUNA,Gunanusa Eramandiri Tbk.,45200.0,0,-32900,0.909,222.0,80406600.0,,Fundamental belum tersedia
+Consumer non-cyclycal,JARR,Jhonlin Agro Raya Tbk.,44100.0,-3585300,-4032000,-9.968,2800.0,41070940000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,UCID,Uni-Charm Indonesia Tbk.,38800.0,1180100,4434800,0.0,484.0,90461000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SDPC,Millennium Pharmacon International Tbk.,29400.0,118000,15300,-1.02,194.0,223027600.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MGRO,Mahkota Group Tbk.,-29300.0,616800,3098900,-2.055,715.0,2633477000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,EPMT,Enseval Putera Megatrading Tbk.,29100.0,116300,643200,0.0,2650.0,78104000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CAMP,Campina Ice Cream Industry Tbk.,28000.0,16600,-1635500,-1.852,159.0,81152000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MKTR,Menthobi Karyatama Raya Tbk.,24000.0,69800,197900,-2.5,117.0,51955700.0,,Fundamental belum tersedia
+Consumer non-cyclycal,PGUN,Pradiksi Gunatama Tbk.,23400.0,-10500,-5200,-3.966,8475.0,822700000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ROTI,Nippon Indosari Corpindo Tbk.,-21800.0,-22600,75500,0.0,555.0,161853500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ITIC,Indonesian Tobacco Tbk.,21700.0,67300,375900,-0.98,202.0,24831900.0,,Fundamental belum tersedia
+Consumer non-cyclycal,AGAR,Asia Sejahtera Mina Tbk.,21200.0,-176400,-199800,-6.407,1680.0,625954000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,EURO,Estee Gold Feet Tbk.,-20900.0,-7900,-41100,0.0,1370.0,100411500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,PSGO,Palma Serasih Tbk.,-14800.0,33700,-34800,-1.036,191.0,16524900.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BISI,BISI International Tbk.,10300.0,16500,-795200,-2.128,690.0,120808500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,FISH,FKS Multi Agro Tbk.,10300.0,3100,-7700,-0.833,595.0,99547000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CRAB,Toba Surimi Industries Tbk.,-9200.0,-50200,-50200,-1.786,220.0,52128800.0,,Fundamental belum tersedia
+Consumer non-cyclycal,KINO,Kino Indonesia Tbk.,7400.0,35800,660900,0.355,1415.0,45793500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SMAR,Sinar Mas Agro Resources and Technology Tbk.,5300.0,23900,21700,-6.231,7900.0,1433640000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,RANC,Supra Boga Lestari Tbk.,-5000.0,-5000,-7700,0.0,535.0,13769000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,GOOD,Garudafood Putra Putri Jaya Tbk.,4800.0,8200,-57300,-1.307,302.0,57158400.0,,Fundamental belum tersedia
+Consumer non-cyclycal,DMND,Diamond Food Indonesia Tbk.,3500.0,7100,6200,0.0,605.0,4871500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ANJT,Austindo Nusantara Jaya Tbk.,-3300.0,-5400,-20900,-3.704,1430.0,106820500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ADES,Akasha Wira International Tbk.,-2400.0,-19900,-27700,-1.938,34150.0,536195000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,WINE,Hatten Bali Tbk.,-2100.0,-122200,775900,-0.787,126.0,35190500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CEKA,Wilmar Cahaya Indonesia Tbk.,1800.0,1800,6700,0.0,2200.0,12430000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,DAYA,Duta Intidaya Tbk.,1700.0,2600,1400,-2.667,1095.0,36855500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SGRO,Prime Agri Resources Tbk.,900.0,800,800,-1.392,4250.0,45714000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,STTP,Siantar Top Tbk.,-800.0,1500,5100,0.581,8650.0,37532500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,FAPA,FAP Agri Tbk.,700.0,1900,5700,-0.338,7375.0,8092500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,CSRA,Cisadane Sawit Raya Tbk.,600.0,-37100,-413800,-0.725,685.0,62129000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,PNGO,AEP Pinago Plantations Tbk.,-400.0,-2600,-2800,-2.09,3280.0,22933000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MRAT,Mustika Ratu Tbk.,300.0,-729500,-933900,-5.882,384.0,175687000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,DLTA,Delta Djakarta Tbk.,-200.0,-500,-49400,-0.283,1760.0,37111500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,TGKA,Tigaraksa Satria Tbk.,-100.0,0,3800,-2.069,4970.0,1462000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ALTO,Tri Banyan Tirta Tbk.,0,0,0,0.0,18.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,AMMS,Agung Menjangan Mas Tbk.,0.0,0,-126800,-10.0,189.0,622414100.0,,Fundamental belum tersedia
+Consumer non-cyclycal,ANDI,Andira Agro Tbk.,0,6526800,7007100,-8.333,22.0,1168763700.0,,Fundamental belum tersedia
+Consumer non-cyclycal,BUDI,Budi Starch & Sweetener Tbk.,0,57800,406400,0.0,220.0,6055800.0,,Fundamental belum tersedia
+Consumer non-cyclycal,FLMC,Falmaco Nonwoven Industri Tbk.,0,14800,686400,-8.982,152.0,354806800.0,,Fundamental belum tersedia
+Consumer non-cyclycal,FOOD,Sentra Food Indonesia Tbk.,0,0,0,0.0,176.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,GOLL,Golden Plantation Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,HERO,DFI Retail Nusantara Tbk.,0,-118400,-128300,0.0,316.0,13024200.0,,Fundamental belum tersedia
+Consumer non-cyclycal,IPPE,Indo Pureco Pratama Tbk.,0,0,0,0.0,14.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,KEJU,Mulia Boga Raya Tbk.,0,0,-47300,0.0,580.0,29553500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,KMDS,Kurniamitra Duta Sentosa Tbk.,0,53100,-78700,-1.942,505.0,36676500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MAGP,Multi Agro Gemilang Plantation Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,MPPA,Matahari Putra Prima Tbk.,0,0,-1690000,-2.5,39.0,342020300.0,,Fundamental belum tersedia
+Consumer non-cyclycal,PMMP,Panca Mitra Multiperdana Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SKBM,Sekar Bumi Tbk.,0,0,11500,-0.81,490.0,19092000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SKLT,Sekar Laut Tbk.,0,0,53300,3.158,196.0,4610600.0,,Fundamental belum tersedia
+Consumer non-cyclycal,SOUL,Mitra Tirta Buwana Tbk.,0,0,0,0.0,37.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,TAYS,Jaya Swarasa Agung Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,TCID,Mandom Indonesia Tbk.,0,-12300,-18100,0.0,2450.0,16426000.0,,Fundamental belum tersedia
+Consumer non-cyclycal,TGUK,Platinum Wahab Nusantara Tbk.,0,0,0,-2.0,98.0,398976900.0,,Fundamental belum tersedia
+Consumer non-cyclycal,TRGU,Cerestar Indonesia Tbk.,0,0,14900,-1.829,161.0,2395500.0,,Fundamental belum tersedia
+Consumer non-cyclycal,WICO,Wicaksana Overseas International Tbk.,0,0,0,0.0,123.0,0.0,,Fundamental belum tersedia
+Consumer non-cyclycal,YUPI,Yupi Indo Jelly Gum Tbk.,0,7600,-20400,-0.806,1230.0,6971000.0,,Fundamental belum tersedia
+Energy,BUMI,Bumi Resources Tbk.,-296849900.0,-625405000,-1748270500,-8.333,165.0,519716024300.0,,Fundamental belum tersedia
+Energy,DEWA,Darma Henwa Tbk,-114525400.0,-156228100,-176645200,-9.29,332.0,241276617000.0,,Fundamental belum tersedia
+Energy,DSSA,Dian Swastatika Sentosa Tbk,-30979700.0,18690800,-69538700,-14.602,965.0,696550412000.0,,Fundamental belum tersedia
+Energy,BULL,Buana Lintas Lautan Tbk.,17266300.0,-4246400,-363800,-8.721,314.0,88204461000.0,,Fundamental belum tersedia
+Energy,CUAN,Petrindo Jaya Kreasi Tbk.,16873100.0,-22935300,-110406800,-14.935,655.0,504038185000.0,,Fundamental belum tersedia
+Energy,IATA,Karya Pacific Energy Tbk.,-13133500.0,-129026600,287705900,-4.717,101.0,39000585000.0,,Fundamental belum tersedia
+Energy,MEDC,Medco Energi Internasional Tbk.,11191700.0,38897900,-20807600,1.748,1455.0,56178199500.0,,Fundamental belum tersedia
+Energy,ADMR,Alamtri Minerals Indonesia Tbk.,-8248600.0,-9825800,-38305000,-2.632,1480.0,24335958000.0,,Fundamental belum tersedia
+Energy,BIPI,Astrindo Nusantara Infrastruktur Tbk.,7778000.0,10737000,-7826600,-10.236,114.0,44791135100.0,,Fundamental belum tersedia
+Energy,RAJA,Rukun Raharja Tbk.,7749100.0,1346900,4650800,-12.03,585.0,41646832000.0,,Fundamental belum tersedia
+Energy,ENRG,Energi Mega Persada Tbk.,7650700.0,45542400,78590300,-6.533,930.0,96821572500.0,,Fundamental belum tersedia
+Energy,INDY,Indika Energy Tbk.,-4642100.0,-3906900,-32777200,-6.452,2610.0,52376929000.0,,Fundamental belum tersedia
+Energy,RMKE,RMK Energy Tbk.,3246800.0,-2053100,-10148800,-1.807,326.0,8438022200.0,,Fundamental belum tersedia
+Energy,LEAD,Logindo Samudramakmur Tbk.,-2800000.0,-1914000,9152300,-5.155,92.0,1150417300.0,,Fundamental belum tersedia
+Energy,ADRO,Alamtri Resources Indonesia Tbk.,-2743300.0,-11774300,-16297100,-3.488,2490.0,128677837000.0,,Fundamental belum tersedia
+Energy,PGAS,Perusahaan Gas Negara (Persero) Tbk.,2726000.0,78000,-954800,0.0,1420.0,50152565000.0,,Fundamental belum tersedia
+Energy,APEX,Apexindo Pratama Duta Tbk.,-2715300.0,-5925600,-5579500,-4.52,169.0,1254343900.0,,Fundamental belum tersedia
+Energy,TCPI,Transcoal Pacific Tbk.,-2654700.0,-3231900,-13908000,10.769,1800.0,23102928500.0,,Fundamental belum tersedia
+Energy,HUMI,Humpuss Maritim Internasional Tbk.,-2632600.0,-8497800,-14118000,-6.557,114.0,2518674100.0,,Fundamental belum tersedia
+Energy,AKRA,AKR Corporindo Tbk.,-2575000.0,-9419800,-72980500,-1.01,1470.0,31273435500.0,,Fundamental belum tersedia
+Energy,SOCI,Soechi Lines Tbk.,2220500.0,352400,25852400,-6.087,540.0,19098107000.0,,Fundamental belum tersedia
+Energy,CBRE,Cakra Buana Resources Energi Tbk.,-2133800.0,-3560200,2250000,-2.778,700.0,9686742500.0,,Fundamental belum tersedia
+Energy,GTSI,GTS Internasional Tbk.,1733700.0,866000,10396900,-7.031,119.0,2405181200.0,,Fundamental belum tersedia
+Energy,MAHA,Mandiri Herindo Adiperkasa Tbk.,1652600.0,-2729300,-2525500,1.379,147.0,11540831200.0,,Fundamental belum tersedia
+Energy,SGER,Sumber Global Energy Tbk.,-1602900.0,12525300,29456000,-1.29,765.0,27218635500.0,,Fundamental belum tersedia
+Energy,PTBA,Bukit Asam (Persero) Tbk.,-1286100.0,-2550900,-17627100,-2.121,3230.0,78889912000.0,,Fundamental belum tersedia
+Energy,FIRE,Alfa Energi Investama Tbk.,1164600.0,-567900,2164300,-6.542,100.0,894295000.0,,Fundamental belum tersedia
+Energy,ELSA,Elnusa Tbk.,-1094300.0,-4239700,17148500,-0.794,625.0,4623619500.0,,Fundamental belum tersedia
+Energy,RMKO,Royaltama Mulia Kontraktorindo Tbk.,1048100.0,1001600,-3781000,-11.364,234.0,1513493000.0,,Fundamental belum tersedia
+Energy,PTRO,Petrosea Tbk.,972700.0,-257900,-16699200,-14.947,4040.0,389386041000.0,,Fundamental belum tersedia
+Energy,DOID,BUMA Internasional Grup Tbk.,-707900.0,3474800,-4746800,-6.306,208.0,1003721800.0,,Fundamental belum tersedia
+Energy,MBSS,Mitrabahtera Segara Sejati Tbk.,-699000.0,-1628700,-2320500,-15.0,3910.0,33063859000.0,,Fundamental belum tersedia
+Energy,TOBA,TBS Energi Utama Tbk.,-693300.0,-4628300,-4852300,-5.195,438.0,3695814000.0,,Fundamental belum tersedia
+Energy,RATU,Raharja Energi Cepu Tbk.,-624700.0,-1039000,-20596100,-11.386,3580.0,36736567000.0,,Fundamental belum tersedia
+Energy,ITMG,Indo Tambangraya Megah Tbk.,-536400.0,-2205300,-10598000,1.379,25725.0,43156730000.0,,Fundamental belum tersedia
+Energy,RGAS,Kian Santang Muliatama Tbk.,378200.0,-14052700,6643800,-2.222,88.0,1964460400.0,,Fundamental belum tersedia
+Energy,SEMA,Semacom Integrated Tbk.,-330100.0,192700,-3239000,-7.965,416.0,22509376600.0,,Fundamental belum tersedia
+Energy,MKAP,Multikarya Asia Pasifik Raya Tbk.,308600.0,1322600,1666900,0.897,1125.0,1912662000.0,,Fundamental belum tersedia
+Energy,BSML,Bintang Samudera Mandiri Lines Tbk.,298700.0,3963100,10587200,-2.609,560.0,9543783500.0,,Fundamental belum tersedia
+Energy,TEBE,Dana Brata Luhur Tbk.,-282300.0,-2678700,37300,1.786,2850.0,138413386000.0,,Fundamental belum tersedia
+Energy,PKPK,Paragon Karya Perkasa Tbk.,-269000.0,-363300,2379100,8.127,7650.0,52082102500.0,,Fundamental belum tersedia
+Energy,BOAT,Newport Marine Services Tbk.,245500.0,179900,148000,-3.15,123.0,181837700.0,,Fundamental belum tersedia
+Energy,WINS,Wintermar Offshore Marine Tbk.,-195300.0,-695700,3625500,-1.786,550.0,732991500.0,,Fundamental belum tersedia
+Energy,ATLA,Atlantis Subsea Indonesia Tbk.,-164100.0,1494100,1350900,-3.03,32.0,933476700.0,,Fundamental belum tersedia
+Energy,TAMU,Pelayaran Tamarin Samudra Tbk.,-150400.0,8504800,8181600,-7.143,26.0,1071203500.0,,Fundamental belum tersedia
+Energy,ALII,Ancara Logistics Indonesia Tbk.,149000.0,239900,1437700,0.676,745.0,1266746500.0,,Fundamental belum tersedia
+Energy,DWGL,Dwi Guna Laksana Tbk.,143400.0,360300,1466600,-2.885,202.0,504404400.0,,Fundamental belum tersedia
+Energy,BSSR,Baramulti Suksessarana Tbk.,-134900.0,1174400,1007800,-0.485,5125.0,5833187500.0,,Fundamental belum tersedia
+Energy,ARII,Atlas Resources Tbk.,134700.0,-1586100,-1877100,-2.857,408.0,975762800.0,,Fundamental belum tersedia
+Energy,WOWS,Ginting Jaya Energi Tbk.,121000.0,-414800,-2171900,-5.769,49.0,240025200.0,,Fundamental belum tersedia
+Energy,BBRM,Pelayaran Nasional Bina Buana Raya Tbk.,-119500.0,825900,-3187000,-0.926,107.0,146180100.0,,Fundamental belum tersedia
+Energy,CGAS,Citra Nusantara Gemilang Tbk.,90200.0,1046300,-3012100,-1.333,148.0,616913900.0,,Fundamental belum tersedia
+Energy,KKGI,Resource Alam Indonesia Tbk.,-79600.0,156500,2751900,-2.685,290.0,785427400.0,,Fundamental belum tersedia
+Energy,BYAN,Bayan Resources Tbk.,53000.0,-2532100,-8506900,-4.034,11300.0,20875855000.0,,Fundamental belum tersedia
+Energy,GEMS,Golden Energy Mines Tbk.,50200.0,70400,-573000,-3.797,7600.0,3262325000.0,,Fundamental belum tersedia
+Energy,TPMA,Trans Power Marine Tbk.,-24400.0,21600,-142400,-0.897,442.0,284748800.0,,Fundamental belum tersedia
+Energy,SMMT,Golden Eagle Energy Tbk.,-23900.0,617100,556400,-7.018,3710.0,5080753000.0,,Fundamental belum tersedia
+Energy,AADI,Adaro Andalan Indonesia Tbk.,-15900.0,-6505100,-6399000,-0.847,11700.0,91977392500.0,,Fundamental belum tersedia
+Energy,ABMM,ABM Investama Tbk.,-14900.0,-331200,-398900,-0.37,2690.0,869894000.0,,Fundamental belum tersedia
+Energy,PSSI,IMC Pelita Logistik Tbk.,14900.0,4100,-202900,-2.551,382.0,314009800.0,,Fundamental belum tersedia
+Energy,MBAP,Mitrabara Adiperdana Tbk.,10400.0,-70500,-63100,-1.484,1660.0,107645500.0,,Fundamental belum tersedia
+Energy,MCOL,Prima Andalan Mandiri Tbk.,7700.0,-232500,-415800,1.114,3630.0,895313000.0,,Fundamental belum tersedia
+Energy,MYOH,Samindo Resources Tbk.,7300.0,-76400,-533200,-2.463,990.0,33980500.0,,Fundamental belum tersedia
+Energy,BESS,Batulicin Nusantara Maritim Tbk.,2600.0,10700,-8600,-2.326,840.0,23206000.0,,Fundamental belum tersedia
+Energy,RUIS,Radiant Utama Interinsco Tbk.,-1400.0,-800,7600,-0.518,192.0,424488300.0,,Fundamental belum tersedia
+Energy,SUNI,Sunindo Pratama Tbk.,1300.0,779100,2577800,-0.769,645.0,247431000.0,,Fundamental belum tersedia
+Energy,ITMA,Sumber Energi Andalan Tbk.,1100.0,-1800,-40600,0.781,1290.0,27722500.0,,Fundamental belum tersedia
+Energy,UNIQ,Ulima Nitra Tbk.,-400.0,862600,963700,-7.874,117.0,794007500.0,,Fundamental belum tersedia
+Energy,SICO,Sigma Energy Compressindo Tbk.,300.0,300,40100,-1.681,117.0,849215200.0,,Fundamental belum tersedia
+Energy,AIMS,Artha Mahiya Investama Tbk.,0,-2800,-31900,0.0,990.0,0.0,,Fundamental belum tersedia
+Energy,ARTI,Ratu Prabu Energi Tbk,0,0,0,0.0,2.0,0.0,,Fundamental belum tersedia
+Energy,BOSS,Borneo Olah Sarana Sukses Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Energy,CANI,Capitol Nusantara Indonesia Tbk.,0,0,0,0.0,135.0,0.0,,Fundamental belum tersedia
+Energy,CNKO,Exploitasi Energi Indonesia Tbk.,0,0,0,0.0,37.0,0.0,,Fundamental belum tersedia
+Energy,COAL,Black Diamond Resources Tbk.,0,0,0,0.0,31.0,0.0,,Fundamental belum tersedia
+Energy,GTBO,Garda Tujuh Buana Tbk,0,-118100,-118100,9.346,234.0,282981400.0,,Fundamental belum tersedia
+Energy,HILL,Hillcon Tbk.,0,0,0,0.0,16.0,0.0,,Fundamental belum tersedia
+Energy,HITS,Humpuss Intermoda Transportasi Tbk.,0,0,0,0.0,116.0,0.0,,Fundamental belum tersedia
+Energy,INPS,Indah Prakasa Sentosa Tbk.,0,0,0,0.0,1065.0,0.0,,Fundamental belum tersedia
+Energy,JSKY,Sky Energy Indonesia Tbk.,0,0,0,0.0,52.0,0.0,,Fundamental belum tersedia
+Energy,KOPI,Mitra Energi Persada Tbk.,0,0,0,-3.627,186.0,145738800.0,,Fundamental belum tersedia
+Energy,MTFN,Capitalinc Investment Tbk.,0,0,0,0.0,13.0,0.0,,Fundamental belum tersedia
+Energy,PSAT,Pancaran Samudera Transport Tbk.,0,42400,-31600,-2.941,825.0,51791000.0,,Fundamental belum tersedia
+Energy,PTIS,Indo Straits Tbk.,0,0,-51300,-2.885,202.0,117945300.0,,Fundamental belum tersedia
+Energy,RIGS,Rig Tenders Indonesia Tbk.,0,0,64800,-0.787,630.0,7938500.0,,Fundamental belum tersedia
+Energy,SHIP,Sillo Maritime Perdana Tbk.,0,0,-53500,-1.124,2640.0,40117000.0,,Fundamental belum tersedia
+Energy,SMRU,SMR Utama Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Energy,SUGI,Sugih Energy Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Energy,SURE,Super Energy Tbk.,0,-100,-600,0.0,2900.0,0.0,,Fundamental belum tersedia
+Energy,TRAM,Trada Alam Minera Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Financial,PADI,Minna Padi Investama Sekuritas Tbk.,-30805200.0,-104993000,148198100,-9.756,37.0,9526596400.0,,Fundamental belum tersedia
+Financial,BBRI,Bank Rakyat Indonesia (Persero) Tbk.,25946500.0,-11780900,-330035400,0.323,3110.0,402372587000.0,,Fundamental belum tersedia
+Financial,BMRI,Bank Mandiri (Persero) Tbk.,-19617200.0,-99047800,-400283100,-0.743,4010.0,437139613000.0,,Fundamental belum tersedia
+Financial,BBYB,Bank Neo Commerce Tbk.,-10304600.0,-23849100,-99512400,-2.01,195.0,5998948300.0,,Fundamental belum tersedia
+Financial,BBKP,Bank KB Indonesia Tbk.,9909400.0,-67465400,-191147300,-9.091,40.0,4523517000.0,,Fundamental belum tersedia
+Financial,BBCA,Bank Central Asia Tbk.,-9383900.0,-62307300,-59868800,-1.653,5950.0,586491892500.0,2026 Q2,Tanggal publikasi belum ada; bukan untuk backtesting
+Financial,BEKS,Bank Pembangunan Daerah Banten Tbk.,8468500.0,-3027200,-4042400,-9.091,30.0,6913828600.0,,Fundamental belum tersedia
+Financial,ASMI,Asuransi Maximus Graha Persada Tbk.,-8419200.0,19614000,18603400,-12.821,34.0,8846747200.0,,Fundamental belum tersedia
+Financial,ARTO,Bank Jago Tbk.,5281000.0,-4302000,-113091400,-4.459,750.0,16959434000.0,,Fundamental belum tersedia
+Financial,BRIS,Bank Syariah Indonesia (Persero) Tbk.,-5247000.0,-45367200,-66197200,-1.845,1330.0,35298795000.0,,Fundamental belum tersedia
+Financial,POLA,Pool Advista Finance Tbk.,4838000.0,36136000,34822200,-2.778,105.0,7012898400.0,,Fundamental belum tersedia
+Financial,BABP,Bank MNC Internasional Tbk.,-4650100.0,-2418500,-4983100,-6.452,29.0,614193600.0,,Fundamental belum tersedia
+Financial,COIN,Indokripto Koin Semesta Tbk.,-4559400.0,-13007500,29819700,-8.148,620.0,13239646000.0,,Fundamental belum tersedia
+Financial,BDMN,Bank Danamon Indonesia Tbk.,-3386100.0,-4780900,-7677000,-0.602,4950.0,50725075000.0,,Fundamental belum tersedia
+Financial,BBTN,Bank Tabungan Negara (Persero) Tbk.,-2903900.0,-22601500,-61269300,-1.896,1035.0,20222099000.0,,Fundamental belum tersedia
+Financial,BBNI,Bank Negara Indonesia (Persero) Tbk.,-2416500.0,-23166500,-92997400,-1.458,3380.0,77943561000.0,,Fundamental belum tersedia
+Financial,BNGA,Bank CIMB Niaga Tbk.,2325300.0,2643300,4205800,-0.295,1690.0,6876595500.0,,Fundamental belum tersedia
+Financial,VTNY,Venteny Fortuna International Tbk.,2206700.0,1474100,-4500500,0.0,55.0,1067450300.0,,Fundamental belum tersedia
+Financial,FUJI,Fuji Finance Indonesia Tbk.,1810700.0,2004600,-2108100,0.671,300.0,692072000.0,,Fundamental belum tersedia
+Financial,PNLF,Panin Financial Tbk.,-1755000.0,-17305100,-105177000,-2.551,191.0,2483467300.0,,Fundamental belum tersedia
+Financial,AHAP,Asuransi Harta Aman Pratama Tbk.,-1471900.0,-13082000,-31363300,-10.256,70.0,5569356300.0,,Fundamental belum tersedia
+Financial,BFIN,BFI Finance  Indonesia Tbk.,-1288000.0,-3964500,-5593300,-2.139,915.0,3973476500.0,,Fundamental belum tersedia
+Financial,BCAP,MNC Kapital Indonesia Tbk.,1279500.0,3007200,-10343600,-6.452,29.0,1946405200.0,,Fundamental belum tersedia
+Financial,AGRO,Bank Raya Indonesia Tbk.,-1147700.0,-363600,-6049100,-1.493,132.0,578199100.0,,Fundamental belum tersedia
+Financial,DEFI,Danasupra Erapacific Tbk.,-1136500.0,968900,1714700,-6.667,84.0,1181202500.0,,Fundamental belum tersedia
+Financial,NISP,Bank OCBC NISP Tbk.,-884200.0,-7159200,-36222200,0.816,1235.0,1616097500.0,,Fundamental belum tersedia
+Financial,PEGE,Panca Global Kapital Tbk.,674600.0,3182100,41295400,-4.762,120.0,1520206700.0,,Fundamental belum tersedia
+Financial,BTPS,Bank BTPN Syariah Tbk.,-657800.0,-4331200,-19168400,0.0,975.0,6428797500.0,,Fundamental belum tersedia
+Financial,BANK,Bank Aladin Syariah Tbk.,-628200.0,-2502700,-18064400,0.826,244.0,331800600.0,,Fundamental belum tersedia
+Financial,NOBU,Bank Nationalnobu Tbk.,-511000.0,-995000,2452900,-0.403,494.0,938446800.0,,Fundamental belum tersedia
+Financial,APIC,Pacific Strategic Financial Tbk.,-497900.0,-976700,-11132600,-0.493,404.0,380016400.0,,Fundamental belum tersedia
+Financial,BJBR,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.,-480200.0,-1858200,-5556800,-1.325,745.0,2828519500.0,,Fundamental belum tersedia
+Financial,PNBN,Bank Pan Indonesia Tbk,-470500.0,-1255300,-6771400,-0.602,825.0,1376028000.0,,Fundamental belum tersedia
+Financial,BJTM,Bank Pembangunan Daerah Jawa Timur Tbk.,-470400.0,-729800,-20663400,-0.971,510.0,3003131000.0,,Fundamental belum tersedia
+Financial,SRTG,Saratoga Investama Sedaya Tbk.,-410300.0,-1754100,4952300,-2.286,1710.0,3368304500.0,,Fundamental belum tersedia
+Financial,BNII,Bank Maybank Indonesia Tbk.,-232900.0,-5314900,-9763500,-0.529,188.0,208257600.0,,Fundamental belum tersedia
+Financial,BACA,Bank Capital Indonesia Tbk.,218600.0,263000,-944900,0.0,109.0,92385300.0,,Fundamental belum tersedia
+Financial,TUGU,Asuransi Tugu Pratama Indonesia Tbk.,-210200.0,-1679300,-1770300,-0.993,1495.0,1267788000.0,,Fundamental belum tersedia
+Financial,BBHI,Allo Bank Indonesia Tbk.,-205100.0,-919700,-5111600,-3.145,770.0,527498000.0,,Fundamental belum tersedia
+Financial,MAYA,Bank Mayapada Internasional Tbk.,195200.0,-364200,-157600,0.0,198.0,327189000.0,,Fundamental belum tersedia
+Financial,BGTG,Bank Ganesha Tbk.,-188300.0,-1492100,-2026100,-2.804,104.0,209807900.0,,Fundamental belum tersedia
+Financial,SDRA,Bank Woori Saudara Indonesia 1906 Tbk.,167400.0,356800,-715600,-1.961,200.0,173995000.0,,Fundamental belum tersedia
+Financial,BNBA,Bank Bumi Arta Tbk.,-141700.0,-164800,-307700,-1.852,795.0,410359000.0,,Fundamental belum tersedia
+Financial,SUPA,Super Bank Indonesia Tbk.,97700.0,-239000,6658600,-2.857,476.0,4500976600.0,,Fundamental belum tersedia
+Financial,MCOR,Bank China Construction Bank Indonesia Tbk.,-74400.0,-488800,-3757500,-1.515,65.0,312613600.0,,Fundamental belum tersedia
+Financial,BKSW,Bank QNB Indonesia Tbk.,-58000.0,-556000,-617900,0.0,48.0,49598600.0,,Fundamental belum tersedia
+Financial,GSMF,Equity Development Investment Tbk.,52300.0,758600,-2335800,-4.301,89.0,250387100.0,,Fundamental belum tersedia
+Financial,PALM,Provident Investasi Bersama Tbk.,45800.0,113700,-183700,0.0,274.0,69843600.0,,Fundamental belum tersedia
+Financial,INPC,Bank Artha Graha Internasional Tbk.,-42000.0,-1422100,-3577200,-3.378,143.0,548842700.0,,Fundamental belum tersedia
+Financial,DNAR,Bank Oke Indonesia Tbk.,-39400.0,8900,-112400,-3.226,120.0,79303200.0,,Fundamental belum tersedia
+Financial,ADMF,Adira Dinamika Multi Finance Tbk.,-38600.0,-136900,-305700,-0.888,8375.0,648405000.0,,Fundamental belum tersedia
+Financial,BPFI,Woori Finance Indonesia Tbk.,29300.0,18600,73700,3.333,248.0,26549400.0,,Fundamental belum tersedia
+Financial,TRIM,Trimegah Sekuritas Indonesia Tbk.,25200.0,111100,290500,0.0,745.0,223005500.0,,Fundamental belum tersedia
+Financial,YOII,Asuransi Digital Bersama Tbk.,19900.0,-447700,-4887700,-1.333,74.0,262500600.0,,Fundamental belum tersedia
+Financial,HDFA,Radana Bhaskara Finance Tbk.,19800.0,54600,30200,-4.124,93.0,11448500.0,,Fundamental belum tersedia
+Financial,BPII,Batavia Prosperindo Internasional Tbk.,19100.0,15900,-14600,-3.153,430.0,8676200.0,,Fundamental belum tersedia
+Financial,CFIN,Clipan Finance Indonesia Tbk.,-12200.0,-177900,-1264700,-0.562,354.0,225165000.0,,Fundamental belum tersedia
+Financial,BBLD,Buana Finance Tbk.,9800.0,9800,21700,-1.493,660.0,89876500.0,,Fundamental belum tersedia
+Financial,BSIM,Bank Sinarmas Tbk.,-9300.0,-21200,-5400,-3.175,915.0,56436500.0,,Fundamental belum tersedia
+Financial,CASA,Capital Financial Indonesia Tbk.,-9100.0,-1082900,-1121700,0.546,1840.0,55331500.0,,Fundamental belum tersedia
+Financial,AMAR,Bank Amar Indonesia Tbk.,-7400.0,1600,138900,0.0,228.0,5650200.0,,Fundamental belum tersedia
+Financial,WOMF,Wahana Ottomitra Multiartha Tbk.,5900.0,18300,137900,-2.158,272.0,3302800.0,,Fundamental belum tersedia
+Financial,AMOR,Ashmore Asset Management Indonesia Tbk.,-4400.0,2200,49300,-1.099,360.0,17499400.0,,Fundamental belum tersedia
+Financial,BMAS,Bank Kasikorn Indonesia Tbk.,-4000.0,-19500,-10000,1.255,484.0,23787400.0,,Fundamental belum tersedia
+Financial,MASB,Bank Multiarta Sentosa Tbk.,3700.0,4100,5100,-0.321,3110.0,15287000.0,,Fundamental belum tersedia
+Financial,NICK,Charnic Capital Tbk.,3100.0,1000,1500,-3.309,2630.0,128979000.0,,Fundamental belum tersedia
+Financial,BNLI,Bank Permata Tbk.,-3000.0,-6600,-52300,-1.554,1900.0,48694500.0,,Fundamental belum tersedia
+Financial,TRUS,Trust Finance Indonesia Tbk,-2200.0,-2200,21200,0.0,450.0,5025800.0,,Fundamental belum tersedia
+Financial,PNIN,Paninvest Tbk.,-2100.0,-117200,-1584900,0.0,675.0,115700000.0,,Fundamental belum tersedia
+Financial,SFAN,Surya Fajar Capital Tbk.,-1600.0,-7400,6300,0.0,1990.0,83427000.0,,Fundamental belum tersedia
+Financial,MEGA,Bank Mega Tbk.,-1500.0,-7300,-25400,0.256,1960.0,55588000.0,,Fundamental belum tersedia
+Financial,LPGI,Lippo General Insurance Tbk.,-1200.0,0,-4400,-0.781,635.0,6309000.0,,Fundamental belum tersedia
+Financial,BTPN,Bank SMBC Indonesia Tbk.,1000.0,6500,0,-2.8,2430.0,45947000.0,,Fundamental belum tersedia
+Financial,LIFE,MSIG Life Insurance Indonesia Tbk.,800.0,900,100,-4.839,10325.0,480605000.0,,Fundamental belum tersedia
+Financial,ASRM,Asuransi Ramayana Tbk.,700.0,9700,10900,-4.444,258.0,7215400.0,,Fundamental belum tersedia
+Financial,BVIC,Bank Victoria International Tbk.,700.0,310900,3388400,-1.124,88.0,38417200.0,,Fundamental belum tersedia
+Financial,BBSI,Krom Bank Indonesia Tbk.,-400.0,0,400,-8.817,3930.0,212772000.0,,Fundamental belum tersedia
+Financial,ASDM,Asuransi Dayin Mitra Tbk.,-300.0,-800,-2800,-0.98,505.0,921500.0,,Fundamental belum tersedia
+Financial,ABDA,Asuransi Bina Dana Arta Tbk.,-200.0,-200,100,-6.352,4570.0,32663000.0,,Fundamental belum tersedia
+Financial,BINA,Bank Ina Perdana Tbk.,-100.0,-23700,119200,-0.75,3970.0,1273155000.0,,Fundamental belum tersedia
+Financial,DNET,Indoritel Makmur Internasional Tbk.,100.0,-300,1400,1.531,9950.0,149480000.0,,Fundamental belum tersedia
+Financial,PANS,Panin Sekuritas Tbk.,-100.0,-8400,546700,0.0,1635.0,79263000.0,,Fundamental belum tersedia
+Financial,AGRS,Bank IBK Indonesia Tbk.,0,0,14626900,0.0,59.0,61639200.0,,Fundamental belum tersedia
+Financial,AMAG,Asuransi Multi Artha Guna Tbk.,0,4800,-101900,0.0,386.0,34316200.0,,Fundamental belum tersedia
+Financial,ASBI,Asuransi Bintang Tbk.,0,0,0,0.508,396.0,25589800.0,,Fundamental belum tersedia
+Financial,ASJT,Asuransi Jasa Tania Tbk.,0,0,-50600,-1.84,160.0,19273800.0,,Fundamental belum tersedia
+Financial,BBMD,Bank Mestika Dharma Tbk.,0,200,600,0.0,2040.0,0.0,,Fundamental belum tersedia
+Financial,BCIC,Bank JTrust Indonesia Tbk.,0,-30700,-419300,0.0,129.0,15265900.0,,Fundamental belum tersedia
+Financial,BHAT,Bhakti Multi Artha Tbk.,0,0,0,0.0,1770.0,0.0,,Fundamental belum tersedia
+Financial,BSWD,Bank Of India Indonesia Tbk.,0,0,0,0.0,3600.0,0.0,,Fundamental belum tersedia
+Financial,JMAS,Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.,0,0,0,0.0,228.0,0.0,,Fundamental belum tersedia
+Financial,LPPS,Lenox Pasifik Investama Tbk.,0,0,-186000,3.333,62.0,308500000.0,,Fundamental belum tersedia
+Financial,MREI,Maskapai Reasuransi Indonesia Tbk.,0,0,0,0.0,920.0,0.0,,Fundamental belum tersedia
+Financial,MTWI,Malacca Trust Wuwungan Insurance Tbk.,0,0,-8600,0.0,248.0,3834000.0,,Fundamental belum tersedia
+Financial,OCAP,Onix Capital Tbk.,0,0,0,0.0,159.0,0.0,,Fundamental belum tersedia
+Financial,PLAS,Polaris Investama Tbk,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Financial,PNBS,Bank Panin Dubai Syariah Tbk.,0,-166900,-633200,-2.326,42.0,102363500.0,,Fundamental belum tersedia
+Financial,POOL,Pool Advista Indonesia Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Financial,RELI,Reliance Sekuritas Indonesia Tbk.,0,-300,300,-0.917,540.0,1378500.0,,Fundamental belum tersedia
+Financial,SMMA,Sinarmas Multiartha Tbk.,0,400,5200,0.0,20150.0,0.0,,Fundamental belum tersedia
+Financial,STAR,Calculus Global Ventures Tbk.,0.0,83400,-85400,-4.712,364.0,12856200.0,,Fundamental belum tersedia
+Financial,TIFA,KDB Tifa Finance Tbk.,0,88000,57000,0.0,308.0,20447800.0,,Fundamental belum tersedia
+Financial,VICO,Victoria Investama Tbk.,0,0,-14900,-1.29,153.0,6631600.0,,Fundamental belum tersedia
+Financial,VINS,Victoria Insurance Tbk.,0.0,-30500,348400,0.0,139.0,9226100.0,,Fundamental belum tersedia
+Financial,VRNA,Mizuho Leasing Indonesia Tbk.,0,0,152400,-1.282,77.0,42340000.0,,Fundamental belum tersedia
+Financial,YULE,Yulie Sekuritas Indonesia Tbk.,0,-1300,-4100,-0.557,3570.0,22308000.0,,Fundamental belum tersedia
+Health Care,KLBF,Kalbe Farma Tbk.,10576900.0,14180300,-140858500,-2.548,765.0,34426828500.0,,Fundamental belum tersedia
+Health Care,DKHH,Cipta Sarana Medika Tbk.,9455200.0,17233000,19493500,9.877,89.0,12276298100.0,,Fundamental belum tersedia
+Health Care,PYFA,Pyridam Farma Tbk,2349600.0,-4088500,6597300,-0.885,224.0,3518531000.0,,Fundamental belum tersedia
+Health Care,RSCH,Charlie Hospital Semarang Tbk.,2133300.0,7268500,22444400,1.639,620.0,14385645000.0,,Fundamental belum tersedia
+Health Care,SIDO,Industri Jamu dan Farmasi Sido Muncul Tbk.,-1854300.0,-15239100,-93295200,-0.565,352.0,6076824400.0,,Fundamental belum tersedia
+Health Care,HEAL,Medikaloka Hermina Tbk.,1314600.0,-5838300,-117984800,0.833,605.0,3935001500.0,,Fundamental belum tersedia
+Health Care,OMED,Jayamas Medica Industri Tbk.,-869400.0,-7733500,-18402300,0.885,228.0,6726409000.0,,Fundamental belum tersedia
+Health Care,PRDL,Prodia Diagnostic Line Tbk.,-634500.0,-2156500,3746100,-6.322,163.0,1068325200.0,,Fundamental belum tersedia
+Health Care,MIKA,Mitra Keluarga Karyasehat Tbk.,579300.0,242300,3272100,-0.573,1735.0,3916644500.0,,Fundamental belum tersedia
+Health Care,HALO,Haloni Jane Tbk.,-500300.0,-37700,4170500,-4.478,64.0,509942900.0,,Fundamental belum tersedia
+Health Care,PRIM,Royal Prima Tbk.,390900.0,265500,277400,-3.053,127.0,315452600.0,,Fundamental belum tersedia
+Health Care,PEVE,Penta Valent Tbk.,262100.0,663800,800400,-4.688,366.0,772790600.0,,Fundamental belum tersedia
+Health Care,MEDS,Hetzer Medical Indonesia Tbk.,-204200.0,-3485400,14302800,-10.976,73.0,6070683400.0,,Fundamental belum tersedia
+Health Care,KAEF,Kimia Farma (Persero) Tbk.,-190600.0,-681000,-322100,-3.211,422.0,266715800.0,,Fundamental belum tersedia
+Health Care,SILO,Siloam International Hospitals Tbk.,174000.0,-780000,-2414100,-0.262,1900.0,1262089000.0,,Fundamental belum tersedia
+Health Care,JECX,Nitrasanata Dharma Tbk.,150000.0,809500,130400,-2.174,1575.0,2355032500.0,,Fundamental belum tersedia
+Health Care,MMIX,Multi Medika Internasional Tbk.,134900.0,13009400,33219700,0.0,965.0,17368651000.0,,Fundamental belum tersedia
+Health Care,IRRA,Itama Ranoraya Tbk.,98200.0,-84800,-233300,-0.532,374.0,390305800.0,,Fundamental belum tersedia
+Health Care,TSPC,Tempo Scan Pacific Tbk.,-93800.0,-971500,-1889500,-1.141,2600.0,567460000.0,,Fundamental belum tersedia
+Health Care,EMMI,Esa Medika Mandiri Tbk.,-86500.0,704500,1306900,0.0,402.0,796278000.0,,Fundamental belum tersedia
+Health Care,IKPM,Ikapharmindo Putramas Tbk.,80700.0,23200,38200,-4.891,175.0,48157700.0,,Fundamental belum tersedia
+Health Care,DVLA,Darya-Varia Laboratoria Tbk.,-46600.0,-120900,-294700,0.0,1585.0,74584000.0,,Fundamental belum tersedia
+Health Care,PEHA,Phapros Tbk.,42900.0,60100,-36100,-3.472,278.0,46222600.0,,Fundamental belum tersedia
+Health Care,PRDA,Prodia Widyahusada Tbk.,28400.0,-320600,-215700,0.0,3080.0,2784484000.0,,Fundamental belum tersedia
+Health Care,CARE,Metro Healthcare Indonesia Tbk.,-24900.0,-271400,-7565100,0.0,378.0,151141800.0,,Fundamental belum tersedia
+Health Care,BMHS,Bundamedik Tbk.,22900.0,119500,500400,1.015,199.0,139284700.0,,Fundamental belum tersedia
+Health Care,SAME,Sarana Meditama Metropolitan Tbk.,-21600.0,-923100,-1182900,-2.74,284.0,65043200.0,,Fundamental belum tersedia
+Health Care,SOHO,Soho Global Health Tbk.,18600.0,16700,58000,-0.749,1325.0,47324500.0,,Fundamental belum tersedia
+Health Care,DGNS,Diagnos Laboratorium Utama Tbk.,17400.0,-326700,-516900,-2.667,292.0,570653200.0,,Fundamental belum tersedia
+Health Care,LABS,UBC Medical Indonesia Tbk.,7700.0,274100,-644500,-0.637,156.0,60646400.0,,Fundamental belum tersedia
+Health Care,CHEK,Diastika Biotekindo Tbk.,1600.0,-500,-16900,-0.826,120.0,57148500.0,,Fundamental belum tersedia
+Health Care,SURI,Maja Agung Latexindo Tbk.,-1600.0,495100,1107200,-2.381,82.0,72887200.0,,Fundamental belum tersedia
+Health Care,MERK,Merck Tbk.,-1200.0,-2800,9200,-1.6,3690.0,45090000.0,,Fundamental belum tersedia
+Health Care,MDLA,Medela Potentia Tbk.,200.0,306300,4225900,0.0,208.0,149357600.0,,Fundamental belum tersedia
+Health Care,OBAT,Brigit Biofarmaka Teknologi Tbk.,100.0,-200,-12800,-2.963,262.0,201455400.0,,Fundamental belum tersedia
+Health Care,INAF,Indofarma Tbk.,0,0,0,0.0,126.0,0.0,,Fundamental belum tersedia
+Health Care,MTMH,Murni Sadar Tbk.,0,30700,104000,0.0,970.0,3007000.0,,Fundamental belum tersedia
+Health Care,PRAY,Famon Awal Bros Sedaya Tbk.,0,-3100,-600,-0.658,755.0,2804000.0,,Fundamental belum tersedia
+Health Care,RSGK,Kedoya Adyaraya Tbk.,0,4100,8200,-1.905,1030.0,6687500.0,,Fundamental belum tersedia
+Health Care,SCPI,Organon Pharma Indonesia Tbk.,0,0,0,0.0,29000.0,0.0,,Fundamental belum tersedia
+Health Care,SRAJ,Sejahteraraya Anugrahjaya Tbk.,0,-700,-10000,0.0,13000.0,7732500.0,,Fundamental belum tersedia
+Industrial,BNBR,Bakrie & Brothers Tbk,-71131300.0,-106716400,-214595000,-8.333,66.0,39632416900.0,,Fundamental belum tersedia
+Industrial,IKAI,Intikeramik Alamasri Industri Tbk.,21583000.0,20128800,15630900,-8.0,23.0,4770498800.0,,Fundamental belum tersedia
+Industrial,ASII,Astra International Tbk.,16056300.0,19368600,-40811400,-0.207,4810.0,338987333000.0,,Fundamental belum tersedia
+Industrial,SMIL,Sarana Mitra Luas Tbk.,-8851800.0,-6070100,-8483000,0.412,488.0,40189719200.0,,Fundamental belum tersedia
+Industrial,BHIT,MNC Asia Holding Tbk.,5603200.0,29065300,32793600,-8.696,21.0,1303331000.0,,Fundamental belum tersedia
+Industrial,PADA,Personel Alih Daya Tbk.,-4570600.0,-5992300,2449500,-7.383,138.0,7681684800.0,,Fundamental belum tersedia
+Industrial,IMPC,Impack Pratama Industri Tbk.,3130600.0,-946200,-41589800,-11.654,1175.0,34632109500.0,,Fundamental belum tersedia
+Industrial,MUTU,Mutuagung Lestari Tbk.,2963200.0,9936600,9909300,-2.419,121.0,1766282600.0,,Fundamental belum tersedia
+Industrial,GPSO,Geoprima Solusi Tbk.,2850000.0,2105900,1659800,7.273,236.0,6488877000.0,,Fundamental belum tersedia
+Industrial,FOLK,Multi Garam Utama Tbk.,2847000.0,-1356600,-138300,-14.465,136.0,3534093500.0,,Fundamental belum tersedia
+Industrial,NTBK,Nusatama Berkah Tbk.,-2058800.0,-7271800,1553400,-1.515,65.0,1084214900.0,,Fundamental belum tersedia
+Industrial,LABA,Green Power Group Tbk.,-1419500.0,-960700,-1728900,0.893,113.0,2432059300.0,,Fundamental belum tersedia
+Industrial,PIPA,Oxala Energy International Tbk.,1399300.0,-14857200,32444300,-7.801,130.0,3135913400.0,,Fundamental belum tersedia
+Industrial,DYAN,Dyandra Media International Tbk.,1348600.0,2708100,4765700,-4.878,78.0,600826200.0,,Fundamental belum tersedia
+Industrial,KUAS,Ace Oldfields Tbk.,-1347800.0,-2159400,351100,-1.124,88.0,728444400.0,,Fundamental belum tersedia
+Industrial,ICON,Island Concepts Indonesia Tbk.,1049800.0,-2820500,-10049700,-12.598,111.0,1817697700.0,,Fundamental belum tersedia
+Industrial,HYGN,Ecocare Indo Pasifik Tbk.,930400.0,325600,31060400,-1.099,180.0,748249400.0,,Fundamental belum tersedia
+Industrial,BACH,Bach Multi Global Tbk.,788900.0,-6230300,4335300,-5.172,330.0,4664359200.0,,Fundamental belum tersedia
+Industrial,UNTR,United Tractors Tbk.,-671200.0,-4652400,-2763700,-1.815,24350.0,63107587500.0,,Fundamental belum tersedia
+Industrial,SPTO,Surya Pertiwi Tbk.,-655400.0,-1823300,510800,-0.82,605.0,488244000.0,,Fundamental belum tersedia
+Industrial,ARNA,Arwana Citramulia Tbk.,575900.0,-4163600,-38791700,0.0,510.0,1348400500.0,,Fundamental belum tersedia
+Industrial,SINI,Singaraja Putra Tbk.,572700.0,-254100,2687800,-13.291,13700.0,290729177500.0,,Fundamental belum tersedia
+Industrial,HOPE,Harapan Duta Pertiwi Tbk.,-333300.0,-2269900,8188400,-4.348,264.0,7519667600.0,,Fundamental belum tersedia
+Industrial,KING,Hoffmen Cleanindo Tbk.,309400.0,171800,201000,-4.712,364.0,739366000.0,,Fundamental belum tersedia
+Industrial,CCSI,Communication Cable Systems Indonesia Tbk.,278700.0,266600,-624600,-15.0,340.0,1553862400.0,,Fundamental belum tersedia
+Industrial,VISI,Satu Visi Putra Tbk.,-253600.0,-432500,255300,-6.422,1020.0,1865045000.0,,Fundamental belum tersedia
+Industrial,NAIK,Adiwarna Anugerah Abadi Tbk.,-228700.0,108600,-1020400,1.22,83.0,245366400.0,,Fundamental belum tersedia
+Industrial,MARK,Mark Dynamics Indonesia Tbk.,222900.0,174300,9178500,-5.106,1115.0,14139192500.0,,Fundamental belum tersedia
+Industrial,CTTH,Citatah Tbk.,124200.0,-1734100,-246800,-5.319,89.0,808323700.0,,Fundamental belum tersedia
+Industrial,MHKI,Multi Hanna Kreasindo Tbk.,-83000.0,323700,-1798200,-2.479,118.0,86698600.0,,Fundamental belum tersedia
+Industrial,JTPE,Jasuindo Tiga Perkasa Tbk.,-80600.0,-246200,-1517600,-0.862,575.0,2526422000.0,,Fundamental belum tersedia
+Industrial,KBLI,KMI Wire & Cable Tbk.,43500.0,-77200,745000,-2.174,360.0,285705600.0,,Fundamental belum tersedia
+Industrial,CAKK,Cahayaputra Asa Keramik Tbk.,41400.0,66500,134600,0.0,156.0,33723500.0,,Fundamental belum tersedia
+Industrial,HEXA,Hexindo Adiperkasa Tbk.,-36900.0,-339200,-5638400,-1.705,3460.0,1296815000.0,,Fundamental belum tersedia
+Industrial,CRSN,Carsurin Tbk.,36300.0,210600,359500,-6.294,134.0,135266600.0,,Fundamental belum tersedia
+Industrial,SCCO,Supreme Cable Manufacturing & Commerce Tbk.,36000.0,123800,302600,-2.174,2700.0,129287000.0,,Fundamental belum tersedia
+Industrial,ASGR,Astra Graphia Tbk.,-32300.0,-1839800,-2188000,-0.412,2420.0,3616463000.0,,Fundamental belum tersedia
+Industrial,VOKS,Voksel Electric Tbk.,30100.0,93700,208200,-3.906,246.0,88458600.0,,Fundamental belum tersedia
+Industrial,APII,Arita Prima Indonesia Tbk.,28700.0,46400,45700,-1.042,190.0,40795700.0,,Fundamental belum tersedia
+Industrial,IKBI,Sumi Indo Kabel Tbk.,15700.0,136900,213300,-3.604,535.0,64816500.0,,Fundamental belum tersedia
+Industrial,AMFG,Asahimas Flat Glass Tbk.,-14400.0,-36600,-91200,2.201,3250.0,61319000.0,,Fundamental belum tersedia
+Industrial,AMIN,Ateliers Mecaniques D Indonesie Tbk.,14400.0,-9700,1300,1.613,252.0,16637200.0,,Fundamental belum tersedia
+Industrial,MLIA,Mulia Industrindo Tbk,8600.0,71800,565300,0.0,212.0,16717200.0,,Fundamental belum tersedia
+Industrial,BLUE,Berkah Prima Perkasa Tbk.,-4300.0,-166700,-245300,-6.234,3760.0,1244957000.0,,Fundamental belum tersedia
+Industrial,PTMP,Mitra Pack Tbk.,3500.0,14100,-1890000,-4.0,48.0,227069300.0,,Fundamental belum tersedia
+Industrial,SOSS,ALSOK Indonesia Services Tbk.,-3000.0,5600,5600,-10.0,1080.0,590984000.0,,Fundamental belum tersedia
+Industrial,TOTO,Surya Toto Indonesia Tbk.,-1300.0,117400,355800,-0.826,240.0,82074800.0,,Fundamental belum tersedia
+Industrial,SKRN,Superkrane Mitra Utama Tbk.,200.0,21600,209800,-0.513,388.0,23648800.0,,Fundamental belum tersedia
+Industrial,ARKA,Arkha Jayanti Persada Tbk.,0,0,0,0.0,22.0,0.0,,Fundamental belum tersedia
+Industrial,BINO,Perma Plasindo Tbk.,0,380600,627400,-1.887,104.0,18320700.0,,Fundamental belum tersedia
+Industrial,IBFN,Intan Baru Prana Tbk.,0,0,0,0.0,63.0,0.0,,Fundamental belum tersedia
+Industrial,INDX,Tanah Laut Tbk,0,0,0,0.0,60.0,0.0,,Fundamental belum tersedia
+Industrial,INTA,Intraco Penta Tbk.,0,0,0,0.0,61.0,0.0,,Fundamental belum tersedia
+Industrial,JECC,Jembo Cable Company Tbk.,0,1500,-18400,-6.04,700.0,29557500.0,,Fundamental belum tersedia
+Industrial,KBLM,Kabelindo Murni Tbk.,0,20600,30700,-3.804,354.0,77339200.0,,Fundamental belum tersedia
+Industrial,KIAS,Keramika Indonesia Assosiasi Tbk.,0,0,0,0.0,21.0,0.0,,Fundamental belum tersedia
+Industrial,KOBX,Kobexindo Tractors Tbk.,0,0,-437100,-4.094,164.0,66387900.0,,Fundamental belum tersedia
+Industrial,KOIN,Kokoh Inti Arebama Tbk,0,0,0,0.0,78.0,0.0,,Fundamental belum tersedia
+Industrial,KONI,Perdana Bangun Pusaka Tbk,0,0,3600,0.809,1870.0,7857500.0,,Fundamental belum tersedia
+Industrial,LION,Lion Metal Works Tbk.,0,0,-36900,-3.521,274.0,8726600.0,,Fundamental belum tersedia
+Industrial,MDRN,Modern Internasional Tbk.,0,0,0,0.0,26.0,0.0,,Fundamental belum tersedia
+Industrial,MFMI,Multifiling Mitra Indonesia Tbk.,0,0,0,0.0,1300.0,0.0,,Fundamental belum tersedia
+Industrial,TIRA,Tira Austenite Tbk,0,0,47900,1.325,306.0,137354200.0,,Fundamental belum tersedia
+Industrial,TRIL,Triwira Insanlestari Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Industrial,WIDI,Widiant Jaya Krenindo Tbk.,0,-28300,-46300,0.0,33.0,416490900.0,,Fundamental belum tersedia
+Industrial,ZBRA,Dosni Roha Indonesia Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Infrastructure,INET,Sinergi Inti Andalan Prima Tbk.,-35230100.0,-29029800,-16839500,-4.839,236.0,132700883800.0,,Fundamental belum tersedia
+Infrastructure,ISAT,Indosat Tbk.,-16883900.0,-18554800,-188534500,-3.302,2050.0,124638329000.0,,Fundamental belum tersedia
+Infrastructure,TLKM,Telkom Indonesia (Persero) Tbk.,-11963100.0,-77008300,-505523100,-1.724,2280.0,342019043000.0,,Fundamental belum tersedia
+Infrastructure,GMFI,Garuda Maintenance Facility Aero Asia Tbk.,11888200.0,-13359500,6516900,-5.769,49.0,4103537900.0,,Fundamental belum tersedia
+Infrastructure,TOWR,Sarana Menara Nusantara Tbk.,10870400.0,-76639100,-255560000,0.0,458.0,69790349000.0,,Fundamental belum tersedia
+Infrastructure,ASLI,Asri Karya Lestari Tbk.,-8219400.0,-46278000,13234200,-6.838,436.0,64142051200.0,,Fundamental belum tersedia
+Infrastructure,EXCL,XLSMART Telecom Sejahtera Tbk.,-7872000.0,-16347100,-45857800,-9.829,2110.0,48790707000.0,,Fundamental belum tersedia
+Infrastructure,PBSA,Paramita Bangun Sarana Tbk.,6727600.0,6886800,6801400,-4.094,820.0,8455896000.0,,Fundamental belum tersedia
+Infrastructure,KBLV,First Media Tbk.,-5608900.0,-5999700,567500,-5.825,97.0,17877378000.0,,Fundamental belum tersedia
+Infrastructure,KETR,Ketrosden Triasmitra Tbk.,5060800.0,7309400,-2086600,-12.429,775.0,38436114000.0,,Fundamental belum tersedia
+Infrastructure,MTEL,Dayamitra Telekomunikasi Tbk.,4675300.0,6167600,-78819100,2.222,460.0,4870768800.0,,Fundamental belum tersedia
+Infrastructure,PGEO,Pertamina Geothermal Energy Tbk.,4263700.0,2173000,21178700,-0.505,985.0,10880474500.0,,Fundamental belum tersedia
+Infrastructure,JSMR,Jasa Marga (Persero) Tbk.,-2758800.0,-4805400,-4256800,-3.788,2540.0,21383274000.0,,Fundamental belum tersedia
+Infrastructure,JAST,Jasnita Telekomindo Tbk.,2351500.0,2329800,-22058300,-2.439,80.0,570521500.0,,Fundamental belum tersedia
+Infrastructure,JKON,Jaya Konstruksi Manggala Pratama Tbk.,1879100.0,784200,4789200,-1.235,80.0,396628900.0,,Fundamental belum tersedia
+Infrastructure,PPRE,PP Presisi Tbk.,-1426700.0,-2532800,-1388600,-6.742,83.0,1462195700.0,,Fundamental belum tersedia
+Infrastructure,POWR,Cikarang Listrindo Tbk.,1304300.0,204500,-7188500,-1.047,945.0,3822449000.0,,Fundamental belum tersedia
+Infrastructure,NRCA,Nusa Raya Cipta Tbk.,-887800.0,-640500,-1762100,-2.83,515.0,1703587000.0,,Fundamental belum tersedia
+Infrastructure,KOKA,Koka Indonesia Tbk.,702300.0,2097200,10147200,-6.803,137.0,370230500.0,,Fundamental belum tersedia
+Infrastructure,SSIA,Surya Semesta Internusa Tbk.,661300.0,-505800,-4595100,-3.561,1625.0,20186475000.0,,Fundamental belum tersedia
+Infrastructure,BREN,Barito Renewables Energy Tbk.,625200.0,-5420100,-24113700,-11.481,2390.0,70079507000.0,,Fundamental belum tersedia
+Infrastructure,CENT,Centratama Telekomunikasi Indonesia Tbk.,622900.0,759500,8578200,-5.376,88.0,392979200.0,,Fundamental belum tersedia
+Infrastructure,OASA,Maharaksa Biru Energi Tbk.,598500.0,-894100,9784600,-9.167,218.0,3307692000.0,,Fundamental belum tersedia
+Infrastructure,WEGE,Wijaya Karya Bangunan Gedung Tbk.,-506000.0,118900,16916300,-10.0,36.0,277322000.0,,Fundamental belum tersedia
+Infrastructure,KRYA,Bangun Karya Perkasa Jaya Tbk.,-497400.0,-4598100,-4166200,-11.111,48.0,1745714500.0,,Fundamental belum tersedia
+Infrastructure,ARKO,Arkora Hydro Tbk.,294800.0,441300,-3514800,-12.963,2350.0,8867511000.0,,Fundamental belum tersedia
+Infrastructure,KEEN,Kencana Energi Lestari Tbk.,-247900.0,-107300,-2642700,-0.602,825.0,3752459000.0,,Fundamental belum tersedia
+Infrastructure,DGIK,Nusa Konstruksi Enjiniring Tbk.,-234700.0,1375400,-1233100,-1.439,137.0,388810200.0,,Fundamental belum tersedia
+Infrastructure,CDIA,Chandra Daya Investasi Tbk.,194400.0,-19168200,-48529800,-9.91,500.0,25478031500.0,,Fundamental belum tersedia
+Infrastructure,BDKR,Berdikari Pondasi Perkasa Tbk.,-169900.0,9206800,18147600,-6.796,192.0,11418691000.0,,Fundamental belum tersedia
+Infrastructure,TOTL,Total Bangun Persada Tbk.,-163700.0,-3144100,9006100,-1.325,1490.0,1568959500.0,,Fundamental belum tersedia
+Infrastructure,DATA,Remala Abadi Tbk.,131500.0,115900,-26400,-7.0,1395.0,1856523000.0,,Fundamental belum tersedia
+Infrastructure,HGII,Hero Global Investment Tbk.,80700.0,75200,-521300,0.0,140.0,151566200.0,,Fundamental belum tersedia
+Infrastructure,MPOW,Megapower Makmur Tbk.,60700.0,55500,802100,-4.95,96.0,240287800.0,,Fundamental belum tersedia
+Infrastructure,TBIG,Tower Bersama Infrastructure Tbk.,47200.0,-19600,680200,-2.5,1365.0,281842000.0,,Fundamental belum tersedia
+Infrastructure,ACST,Acset Indonusa Tbk.,-29400.0,220100,-236200,2.703,76.0,47588400.0,,Fundamental belum tersedia
+Infrastructure,IPCM,Jasa Armada Indonesia Tbk.,26100.0,361200,2094300,0.709,284.0,69097200.0,,Fundamental belum tersedia
+Infrastructure,CASS,Cahaya Aero Services Tbk.,17900.0,-648600,-2110700,-0.271,1840.0,50628000.0,,Fundamental belum tersedia
+Infrastructure,CMNP,Citra Marga Nusaphala Persada Tbk.,6100.0,-296100,-718800,-1.413,1395.0,352146500.0,,Fundamental belum tersedia
+Infrastructure,IPCC,Indonesia Kendaraan Terminal Tbk.,3300.0,-3200,-1584600,0.0,1055.0,261336000.0,,Fundamental belum tersedia
+Infrastructure,BUKK,Bukaka Teknik Utama Tbk.,-2800.0,10300,-5200,-1.042,950.0,22747500.0,,Fundamental belum tersedia
+Infrastructure,BALI,Bali Towerindo Sentra Tbk.,1300.0,1100,-1600,-1.091,1360.0,25624000.0,,Fundamental belum tersedia
+Infrastructure,GHON,Gihon Telekomunikasi Indonesia Tbk.,1000.0,300,-1900,-2.154,1590.0,10564500.0,,Fundamental belum tersedia
+Infrastructure,MORA,Ekamas Mora Republik Tbk.,-700.0,139100,-262100,-7.615,4610.0,734875500.0,,Fundamental belum tersedia
+Infrastructure,ADHI,Adhi Karya (Persero) Tbk.,0,0,0,0.0,133.0,0.0,,Fundamental belum tersedia
+Infrastructure,BTEL,Bakrie Telecom Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Infrastructure,FIMP,Fimperkasa Utama Tbk.,0,0,0,0.0,69.0,0.0,,Fundamental belum tersedia
+Infrastructure,GOLD,Visi Telekomunikasi Infrastruktur Tbk.,0,-153000,-112500,1.439,282.0,9670200.0,,Fundamental belum tersedia
+Infrastructure,HADE,Himalaya Energi Perkasa Tbk.,0,0,100000,-7.692,24.0,416282100.0,,Fundamental belum tersedia
+Infrastructure,IBST,Inti Bangun Sejahtera Tbk.,0,0,0,0.0,8475.0,0.0,,Fundamental belum tersedia
+Infrastructure,IDPR,Indonesia Pondasi Raya Tbk.,0,0,-19300,0.0,238.0,5657200.0,,Fundamental belum tersedia
+Infrastructure,KARW,Meratus Jasa Prima Tbk.,0,0,0,0.0,212.0,0.0,,Fundamental belum tersedia
+Infrastructure,LCKM,LCK Global Kedaton Tbk.,0,0,0,0.0,109.0,0.0,,Fundamental belum tersedia
+Infrastructure,LINK,Link Net Tbk.,0,3400,-2900,-1.0,1485.0,7008000.0,,Fundamental belum tersedia
+Infrastructure,MANG,Manggung Polahraya Tbk.,0,36400,3272600,-2.632,37.0,739859900.0,,Fundamental belum tersedia
+Infrastructure,META,Nusantara Infrastructure Tbk.,0,0,0,0.0,238.0,0.0,,Fundamental belum tersedia
+Infrastructure,MTPS,Meta Epsi Tbk.,0,0,0,0.0,81.0,0.0,,Fundamental belum tersedia
+Infrastructure,MTRA,Mitra Pemuda Tbk.,0,0,0,0.0,244.0,0.0,,Fundamental belum tersedia
+Infrastructure,PORT,Nusantara Pelabuhan Handal Tbk.,0,0,6000,0.0,945.0,282500.0,,Fundamental belum tersedia
+Infrastructure,PTDU,Djasa Ubersakti Tbk.,0,0,0,0.0,70.0,0.0,,Fundamental belum tersedia
+Infrastructure,PTPP,PP (Persero) Tbk.,0,0,-10795200,0.0,161.0,0.0,,Fundamental belum tersedia
+Infrastructure,PTPW,Pratama Widya Tbk.,0,-1300,1900,-0.893,1110.0,22756000.0,,Fundamental belum tersedia
+Infrastructure,RONY,Aracord Nusantara Group Tbk.,0,-3600,2600,-1.311,1505.0,4553500.0,,Fundamental belum tersedia
+Infrastructure,SMKM,Sumber Mas Konstruksi Tbk.,0,0,0,-6.931,94.0,1361185700.0,,Fundamental belum tersedia
+Infrastructure,SUPR,Solusi Tunas Pratama Tbk.,0,0,0,0.0,43850.0,0.0,,Fundamental belum tersedia
+Infrastructure,TAMA,Lancartama Sejati Tbk.,0,-145200,3998800,-0.521,191.0,116071800.0,,Fundamental belum tersedia
+Infrastructure,TGRA,Terregra Asia Energy Tbk.,0,0,0,0.0,27.0,0.0,,Fundamental belum tersedia
+Infrastructure,TOPS,Totalindo Eka Persada Tbk.,0,0,0,0.0,1.0,0.0,,Fundamental belum tersedia
+Infrastructure,WIKA,Wijaya Karya (Persero) Tbk.,0,0,0,0.0,204.0,0.0,,Fundamental belum tersedia
+Infrastructure,WSKT,Waskita Karya (Persero) Tbk.,0,0,0,0.0,202.0,0.0,,Fundamental belum tersedia
+Property & real estate,KIJA,Kawasan Industri Jababeka Tbk.,54377300.0,-58157000,-294248200,-5.298,143.0,30572441700.0,,Fundamental belum tersedia
+Property & real estate,ELTY,Bakrieland Development Tbk.,26634000.0,34433300,71582400,-7.143,26.0,24716908500.0,,Fundamental belum tersedia
+Property & real estate,LPKR,Lippo Karawaci Tbk.,-23695200.0,-58036300,-334576300,-2.128,46.0,6271851100.0,,Fundamental belum tersedia
+Property & real estate,PWON,Pakuwon Jati Tbk.,16072500.0,47148000,148065000,0.746,270.0,7611117400.0,,Fundamental belum tersedia
+Property & real estate,BKSL,Sentul City Tbk.,-15641300.0,-62708800,19170500,-3.571,54.0,4537783600.0,,Fundamental belum tersedia
+Property & real estate,PPRO,PP Properti Tbk.,-11735000.0,-34796400,-35833500,-11.111,16.0,3620341200.0,,Fundamental belum tersedia
+Property & real estate,DMAS,Puradelta Lestari Tbk.,10746100.0,-1838600,177895600,-1.63,181.0,22564067800.0,,Fundamental belum tersedia
+Property & real estate,BEST,Bekasi Fajar Industrial Estate Tbk.,7205500.0,6286200,24755500,-2.542,115.0,3694568900.0,,Fundamental belum tersedia
+Property & real estate,SMRA,Summarecon Agung Tbk.,-4846700.0,-32106600,-115044100,2.521,244.0,16029503000.0,,Fundamental belum tersedia
+Property & real estate,TRUE,Triniti Dinamik Tbk.,3424800.0,-26630000,4753300,-11.538,46.0,5582863200.0,,Fundamental belum tersedia
+Property & real estate,GPRA,Perdana Gapuraprima Tbk.,-3360900.0,-570000,15493900,-2.941,99.0,910609100.0,,Fundamental belum tersedia
+Property & real estate,APLN,Agung Podomoro Land Tbk.,-3151100.0,409000,45862000,-2.804,104.0,2989329400.0,,Fundamental belum tersedia
+Property & real estate,SAGE,Saptausaha Gemilangindah Tbk.,-2560200.0,-1280900,-284300,-6.25,30.0,755305000.0,,Fundamental belum tersedia
+Property & real estate,INDO,Royalindo Investa Wijaya Tbk.,2244200.0,4952700,-3203600,-0.571,174.0,3575108300.0,,Fundamental belum tersedia
+Property & real estate,LAND,Trimitra Propertindo Tbk.,-1966200.0,-11449400,-14166400,-7.018,53.0,1404648300.0,,Fundamental belum tersedia
+Property & real estate,TRIN,Perintis Triniti Properti Tbk.,1905800.0,1500300,8340200,-14.706,174.0,8378521500.0,,Fundamental belum tersedia
+Property & real estate,RODA,Pikko Land Development Tbk.,1799400.0,1617800,14676400,-6.977,40.0,826831900.0,,Fundamental belum tersedia
+Property & real estate,WINR,Winner Nusantara Jaya Tbk.,-1758500.0,-2029800,-2029100,-7.407,25.0,1977961600.0,,Fundamental belum tersedia
+Property & real estate,BSDE,Bumi Serpong Damai Tbk.,-1498200.0,8722300,-20760400,-1.852,530.0,20530101000.0,,Fundamental belum tersedia
+Property & real estate,BSBK,Wulandari Bangun Laksana Tbk.,1425800.0,-1282900,5766700,-6.818,41.0,644199800.0,,Fundamental belum tersedia
+Property & real estate,CTRA,Ciputra Development Tbk.,1308600.0,6958100,14788500,-0.917,540.0,4366936000.0,,Fundamental belum tersedia
+Property & real estate,TARA,Agung Semesta Sejahtera Tbk.,1097700.0,2272000,4077300,-4.651,41.0,760137800.0,,Fundamental belum tersedia
+Property & real estate,DILD,Intiland Development Tbk.,-1017900.0,-3473500,-9379400,-0.917,108.0,826440700.0,,Fundamental belum tersedia
+Property & real estate,MDLN,Modernland Realty Tbk.,959700.0,7763800,8852900,-4.651,41.0,259514300.0,,Fundamental belum tersedia
+Property & real estate,PANI,Pantai Indah Kapuk Dua Tbk.,899900.0,-1684800,-3324400,-1.724,4560.0,22338346000.0,,Fundamental belum tersedia
+Property & real estate,KBAG,Karya Bersama Anugerah Tbk.,883600.0,1029600,776600,-4.651,41.0,410632200.0,,Fundamental belum tersedia
+Property & real estate,RISE,Jaya Sukses Makmur Sentosa Tbk.,830300.0,1575800,1896100,-0.833,595.0,1564064500.0,,Fundamental belum tersedia
+Property & real estate,ASRI,Alam Sutera Realty Tbk.,823400.0,-67600,-8354300,0.0,116.0,934695600.0,,Fundamental belum tersedia
+Property & real estate,KOCI,Kokoh Exa Nusantara Tbk.,757300.0,-2151200,5613300,-2.941,99.0,811896500.0,,Fundamental belum tersedia
+Property & real estate,BAPA,Bekasi Asri Pemula Tbk.,-747700.0,-1226200,-4254800,9.709,113.0,2924505400.0,,Fundamental belum tersedia
+Property & real estate,BIPP,Bhuwanatala Indah Permai Tbk.,648700.0,-3948200,19227900,3.125,66.0,1114264400.0,,Fundamental belum tersedia
+Property & real estate,SATU,Kota Satu Properti Tbk.,-424600.0,-1641300,-4336200,1.653,246.0,737565400.0,,Fundamental belum tersedia
+Property & real estate,REAL,Repower Asia Indonesia Tbk.,381000.0,-8891200,-5889700,-6.25,45.0,8097686800.0,,Fundamental belum tersedia
+Property & real estate,ASPI,Andalan Sakti Primaindo Tbk.,348100.0,348100,-213900,11.224,1090.0,13049665000.0,,Fundamental belum tersedia
+Property & real estate,NZIA,Nusantara Almazia Tbk.,-338000.0,-283300,9332400,-5.921,143.0,421535900.0,,Fundamental belum tersedia
+Property & real estate,RELF,Graha Mitra Asia Tbk.,-285800.0,486800,2032600,-2.222,44.0,1000691300.0,,Fundamental belum tersedia
+Property & real estate,VAST,Vastland Indonesia Tbk.,263200.0,248500,-116800,-7.273,102.0,872850700.0,,Fundamental belum tersedia
+Property & real estate,JRPT,Jaya Real Property Tbk.,-259600.0,-1833100,-9247900,0.0,1155.0,409297500.0,,Fundamental belum tersedia
+Property & real estate,CSIS,Cahayasakti Investindo Sukses Tbk.,252900.0,-699800,-778700,-3.333,174.0,308766000.0,,Fundamental belum tersedia
+Property & real estate,RBMS,Ristia Bintang Mahkotasejati Tbk.,-216200.0,-685900,-5121300,-8.163,45.0,475020000.0,,Fundamental belum tersedia
+Property & real estate,BCIP,Bumi Citra Permai Tbk.,-187800.0,-199100,-4097800,5.455,58.0,476932000.0,,Fundamental belum tersedia
+Property & real estate,MSIE,Multisarana Intan Eduka Tbk.,-153500.0,-322300,-581300,-9.244,108.0,388131200.0,,Fundamental belum tersedia
+Property & real estate,BBSS,Bumi Benowo Sukses Sejahtera Tbk.,-147900.0,2049200,3728400,-3.529,82.0,2686456000.0,,Fundamental belum tersedia
+Property & real estate,BKDP,Bukit Darmo Property Tbk,136100.0,5422600,7960400,-3.243,179.0,963276100.0,,Fundamental belum tersedia
+Property & real estate,HOMI,Grand House Mulia Tbk.,-116800.0,140000,362200,-3.252,238.0,338779200.0,,Fundamental belum tersedia
+Property & real estate,ATAP,Trimitra Prawara Goldland Tbk.,104600.0,249000,-358400,-5.0,570.0,1063972500.0,,Fundamental belum tersedia
+Property & real estate,NASA,Andalan Perkasa Abadi Tbk.,-104300.0,-18100,27000,-11.111,40.0,1406182000.0,,Fundamental belum tersedia
+Property & real estate,CBDK,Bangun Kosambi Sukses Tbk.,-94100.0,35800,-711500,-1.453,3390.0,8899910000.0,,Fundamental belum tersedia
+Property & real estate,DADA,Diamond Citra Propertindo Tbk.,-70300.0,8098100,5862200,-8.333,22.0,3539146300.0,,Fundamental belum tersedia
+Property & real estate,HBAT,Minahasa Membangun Hebat Tbk.,61600.0,104200,264300,2.01,406.0,2790306000.0,,Fundamental belum tersedia
+Property & real estate,GRIA,Ingria Pratama Capitalindo Tbk.,47400.0,384000,2570100,-0.637,156.0,180227800.0,,Fundamental belum tersedia
+Property & real estate,URBN,Urban Jakarta Propertindo Tbk.,41000.0,342200,346400,2.667,308.0,183234400.0,,Fundamental belum tersedia
+Property & real estate,MKPI,Metropolitan Kentjana Tbk.,38300.0,-43900,-169500,-0.359,20800.0,959585000.0,,Fundamental belum tersedia
+Property & real estate,CITY,Natura City Developments Tbk.,-38100.0,-102200,-190100,-1.796,164.0,90737000.0,,Fundamental belum tersedia
+Property & real estate,LPCK,Lippo Cikarang Tbk,-25400.0,-16600,-182900,-1.905,515.0,179115000.0,,Fundamental belum tersedia
+Property & real estate,UANG,Pakuan Tbk.,19200.0,12500,-15100,-8.389,2730.0,785419000.0,,Fundamental belum tersedia
+Property & real estate,PURI,Puri Global Sukses Tbk.,-18600.0,87000,349100,-0.725,137.0,148192100.0,,Fundamental belum tersedia
+Property & real estate,MTLA,Metropolitan Land Tbk.,-15200.0,-8300,-24300,5.036,730.0,762955500.0,,Fundamental belum tersedia
+Property & real estate,LPLI,Star Pacific Tbk,-10600.0,-124800,-386400,-0.971,204.0,34826400.0,,Fundamental belum tersedia
+Property & real estate,PUDP,Pudjiadi Prestige Tbk.,-9500.0,-12700,-69400,-3.968,242.0,49575800.0,,Fundamental belum tersedia
+Property & real estate,POLI,Pollux Hotels Group Tbk.,3900.0,3100,-14100,-3.955,850.0,22277500.0,,Fundamental belum tersedia
+Property & real estate,PAMG,Bima Sakti Pertiwi Tbk.,-3700.0,-6200,-699700,2.0,51.0,1386649200.0,,Fundamental belum tersedia
+Property & real estate,SMDM,Suryamas Dutamakmur Tbk.,3000.0,20000,-10300,-1.724,456.0,24329400.0,,Fundamental belum tersedia
+Property & real estate,ROCK,Rockfields Properti Indonesia Tbk.,2600.0,-14800,-8100,-8.462,2380.0,288914000.0,,Fundamental belum tersedia
+Property & real estate,GMTD,Gowa Makassar Tourism Development Tbk.,2500.0,11500,-400,0.0,980.0,26558500.0,,Fundamental belum tersedia
+Property & real estate,INPP,Indonesian Paradise Property Tbk.,-2500.0,-26400,2800,8.661,690.0,54166000.0,,Fundamental belum tersedia
+Property & real estate,EMDE,Megapolitan Developments Tbk.,2400.0,222100,4609400,-1.493,66.0,67171300.0,,Fundamental belum tersedia
+Property & real estate,AMAN,Makmur Berkah Amanda Tbk.,-1900.0,-8500,-614200,-1.869,210.0,87707600.0,,Fundamental belum tersedia
+Property & real estate,OMRE,Indonesia Prima Property Tbk,900.0,2000,4100,-2.577,945.0,2273000.0,,Fundamental belum tersedia
+Property & real estate,MMLP,Mega Manunggal Property Tbk.,-800.0,-186100,-268100,-1.351,292.0,130179200.0,,Fundamental belum tersedia
+Property & real estate,NIRO,City Retail Developments Tbk.,-300.0,24000,-1400400,-4.678,163.0,20030600.0,,Fundamental belum tersedia
+Property & real estate,DUTI,Duta Pertiwi Tbk,-200.0,-400,-400,0.833,4840.0,36733000.0,,Fundamental belum tersedia
+Property & real estate,ADCP,Adhi Commuter Properti Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Property & real estate,ARGO,Argo Pantes Tbk,0,27100,167200,1.681,1210.0,254852500.0,,Fundamental belum tersedia
+Property & real estate,ARMY,Armidian Karyatama Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Property & real estate,BAPI,Bhakti Agung Propertindo Tbk.,0,0,-6939300,-9.524,19.0,1053240300.0,,Fundamental belum tersedia
+Property & real estate,BIKA,Binakarya Jaya Abadi Tbk.,0,0,0,0.0,55.0,0.0,,Fundamental belum tersedia
+Property & real estate,CBPE,Citra Buana Prasida Tbk.,0,-32100,53200,-4.505,530.0,134025500.0,,Fundamental belum tersedia
+Property & real estate,COWL,Cowell Development Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Property & real estate,CPRI,Capri Nusa Satu Properti Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Property & real estate,DART,Duta Anggada Realty Tbk.,0,-35000,51800,-1.274,155.0,12588500.0,,Fundamental belum tersedia
+Property & real estate,FMII,Fortune Mate Indonesia Tbk,0,0,-4900,0.0,252.0,11238400.0,,Fundamental belum tersedia
+Property & real estate,GAMA,Aksara Global Development Tbk.,0,0,0,0.0,18.0,0.0,,Fundamental belum tersedia
+Property & real estate,IPAC,Era Graharealty Tbk.,0,0,0,0.0,189.0,0.0,,Fundamental belum tersedia
+Property & real estate,KSIX,Kentanix Supra International Tbk.,0,183400,191400,2.513,408.0,86496200.0,,Fundamental belum tersedia
+Property & real estate,LCGP,Eureka Prima Jakarta Tbk.,0,0,0,0.0,114.0,0.0,,Fundamental belum tersedia
+Property & real estate,MPRO,Maha Properti Indonesia Tbk.,0,-100,-4700,0.0,12000.0,10720000.0,,Fundamental belum tersedia
+Property & real estate,MTSM,Metro Realty Tbk.,0,0,0,0.0,500.0,0.0,,Fundamental belum tersedia
+Property & real estate,PLIN,Plaza Indonesia Realty Tbk.,0,0,0,0.0,2510.0,0.0,,Fundamental belum tersedia
+Property & real estate,POLL,Pollux Properties Indonesia Tbk.,0,0,0,0.0,112.0,0.0,,Fundamental belum tersedia
+Property & real estate,POSA,Bliss Properti Indonesia Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Property & real estate,RDTX,Roda Vivatex Tbk,0,-9400,-20400,-1.022,12100.0,17130000.0,,Fundamental belum tersedia
+Property & real estate,RIMO,Rimo International Lestari Tbk,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Tecnology,GOTO,GoTo Gojek Tokopedia Tbk.,4887165000.0,-13295187300,-50020086000,-10.0,27.0,773057901000.0,,Fundamental belum tersedia
+Tecnology,BUKA,Bukalapak.com Tbk.,-75805900.0,-278305900,-1720034100,-1.0,99.0,33925295100.0,,Fundamental belum tersedia
+Tecnology,WIRG,WIR ASIA Tbk.,-17990700.0,-50757500,72186800,-6.78,55.0,3325046600.0,,Fundamental belum tersedia
+Tecnology,KREN,Quantum Clovera Investama Tbk.,-9038700.0,-38076000,-40032900,-10.526,17.0,3754563800.0,,Fundamental belum tersedia
+Tecnology,EMTK,Elang Mahkota Teknologi Tbk.,6414000.0,-5957800,-107411100,-5.181,366.0,30575208000.0,,Fundamental belum tersedia
+Tecnology,UVCR,Trimegah Karya Pratama Tbk.,3983700.0,19568400,28311300,-1.37,288.0,7071829600.0,,Fundamental belum tersedia
+Tecnology,TOSK,Topindo Solusi Komunika Tbk.,3681600.0,2720500,17549600,-2.41,81.0,1873854700.0,,Fundamental belum tersedia
+Tecnology,IRSX,Folago Global Nusantara Tbk.,2218100.0,-15942600,-15589700,-3.311,292.0,20661160400.0,,Fundamental belum tersedia
+Tecnology,CYBR,ITSEC Asia Tbk.,1952800.0,7396800,15584900,0.0,490.0,15711530000.0,,Fundamental belum tersedia
+Tecnology,WIFI,Solusi Sinergi Digital Tbk.,-1622100.0,-9473700,8640800,-8.185,1290.0,50500658000.0,,Fundamental belum tersedia
+Tecnology,TRON,Teknologi Karya Digital Nusa Tbk.,-979500.0,-2605000,-7080100,-2.632,74.0,644184700.0,,Fundamental belum tersedia
+Tecnology,JATI,Informasi Teknologi Indonesia Tbk.,-938300.0,-3152700,10409700,-0.917,108.0,1844592400.0,,Fundamental belum tersedia
+Tecnology,NINE,Techno9 Indonesia Tbk.,-904000.0,241800,1064700,-3.488,83.0,1702017200.0,,Fundamental belum tersedia
+Tecnology,MCAS,M Cash Integrasi Tbk.,849400.0,773500,1375000,-9.848,238.0,1120216600.0,,Fundamental belum tersedia
+Tecnology,KIOS,Kioson Komersial Indonesia Tbk.,-718600.0,325100,3343700,-6.977,80.0,814338100.0,,Fundamental belum tersedia
+Tecnology,PTSN,Sat Nusapersada Tbk,716200.0,298100,353200,-6.417,350.0,1650642200.0,,Fundamental belum tersedia
+Tecnology,TFAS,Telefast Indonesia Tbk.,515100.0,283300,-728100,0.549,183.0,109637300.0,,Fundamental belum tersedia
+Tecnology,DMMX,Digital Mediatama Maxima Tbk.,-369900.0,-109600,-737100,-0.606,164.0,235037000.0,,Fundamental belum tersedia
+Tecnology,MLPT,Multipolar Technology Tbk.,266400.0,90600,-3167700,8.743,995.0,26002759000.0,,Fundamental belum tersedia
+Tecnology,IOTF,Sumber Sinergi Makmur Tbk.,223300.0,-4253000,15110800,-4.0,48.0,282889700.0,,Fundamental belum tersedia
+Tecnology,ELIT,Data Sinergitama Jaya Tbk.,-217000.0,1618900,4463300,-5.469,242.0,2042662800.0,,Fundamental belum tersedia
+Tecnology,DIVA,Distribusi Voucher Nusantara Tbk.,180900.0,-3033400,-4841900,-3.788,127.0,648862800.0,,Fundamental belum tersedia
+Tecnology,WGSH,Wira Global Solusi Tbk.,172000.0,2485200,5820400,0.0,112.0,1578375400.0,,Fundamental belum tersedia
+Tecnology,MPIX,Mitra Pedagang Indonesia Tbk.,142200.0,-6820200,-8833500,-6.311,193.0,4308468000.0,,Fundamental belum tersedia
+Tecnology,MTDL,Metrodata Electronics Tbk.,-138000.0,-506200,-6655800,-0.99,500.0,323986300.0,,Fundamental belum tersedia
+Tecnology,BELI,Global Digital Niaga Tbk.,-89100.0,-3506200,-4337300,-3.401,284.0,480287800.0,,Fundamental belum tersedia
+Tecnology,AREA,Dunia Virtual Online Tbk.,61000.0,-131200,-169500,-6.897,324.0,2349914600.0,,Fundamental belum tersedia
+Tecnology,MSTI,Mastersystem Infotama Tbk.,-51800.0,108100,1237900,0.0,1320.0,759435500.0,,Fundamental belum tersedia
+Tecnology,AXIO,Tera Data Indonusa Tbk.,36700.0,28200,132700,-2.381,123.0,145927900.0,,Fundamental belum tersedia
+Tecnology,AWAN,Era Digital Media Tbk.,22300.0,21300,29500,-3.922,147.0,63649900.0,,Fundamental belum tersedia
+Tecnology,CASH,Cashlez Worldwide Indonesia Tbk.,17200.0,146100,1237800,-9.155,258.0,901833800.0,,Fundamental belum tersedia
+Tecnology,PGJO,Bahtera Bumi Raya Tbk.,15000.0,60700,-243400,-9.659,795.0,855450000.0,,Fundamental belum tersedia
+Tecnology,GLVA,Galva Technologies Tbk.,7200.0,11600,7600,-1.227,322.0,30072800.0,,Fundamental belum tersedia
+Tecnology,ATIC,Anabatic Technologies Tbk.,5200.0,-31000,-80800,-2.715,430.0,21363000.0,,Fundamental belum tersedia
+Tecnology,CHIP,Pelita Teknologi Global Tbk.,3800.0,25000,22200,-1.626,605.0,38624500.0,,Fundamental belum tersedia
+Tecnology,ZYRX,Zyrexindo Mandiri Buana Tbk.,-300.0,-400,1500,-0.769,129.0,55343900.0,,Fundamental belum tersedia
+Tecnology,DCII,DCI Indonesia Tbk.,0,-100,-400,0.0,199475.0,0.0,,Fundamental belum tersedia
+Tecnology,EDGE,Indointernet Tbk.,0,0,0,0.0,4790.0,0.0,,Fundamental belum tersedia
+Tecnology,ENVY,Envy Technologies Indonesia Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Tecnology,HDIT,Hensel Davest Indonesia Tbk.,0,5000,3475000,-7.5,37.0,244578200.0,,Fundamental belum tersedia
+Tecnology,LMAS,Limas Indonesia Makmur Tbk,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Tecnology,LUCK,Sentral Mitra Informatika Tbk.,0,7400,-965600,-4.63,103.0,361641200.0,,Fundamental belum tersedia
+Tecnology,MENN,Menn Teknologi Indonesia Tbk.,0,0,0,0.0,53.0,0.0,,Fundamental belum tersedia
+Tecnology,NFCX,NFC Indonesia Tbk.,0,-2100,450900,-2.579,1700.0,18900000.0,,Fundamental belum tersedia
+Tecnology,RUNS,Global Sukses Solusi Tbk.,0,-4100,-4100,-2.817,69.0,73152200.0,,Fundamental belum tersedia
+Tecnology,SKYB,Northcliff Citranusa Indonesia Tbk.,0,0,0,0.0,51.0,0.0,,Fundamental belum tersedia
+Tecnology,TECH,Indosterling Technomedia Tbk.,0,0,0,0.0,50.0,0.0,,Fundamental belum tersedia
+Transportation & logistic,BLTA,Berlian Laju Tanker Tbk,-66678900.0,-62623800,-97901400,-9.302,39.0,7024812800.0,,Fundamental belum tersedia
+Transportation & logistic,SMDR,Samudera Indonesia  Tbk.,6045000.0,6059000,48067200,-2.404,406.0,13847872400.0,,Fundamental belum tersedia
+Transportation & logistic,PURA,Putra Rajawali Kencana Tbk.,4689700.0,-453700,1076700,-11.364,39.0,5601012300.0,,Fundamental belum tersedia
+Transportation & logistic,TAXI,Express Transindo Utama Tbk.,3239100.0,-20518900,-11290700,-6.667,14.0,2913021800.0,,Fundamental belum tersedia
+Transportation & logistic,HATM,Habco Trans Maritima Tbk.,-1666400.0,821900,-2858600,5.455,580.0,10419529000.0,,Fundamental belum tersedia
+Transportation & logistic,KLAS,Pelayaran Kurnia Lautan Semesta Tbk.,1581300.0,-854800,4479000,-2.326,84.0,1140413300.0,,Fundamental belum tersedia
+Transportation & logistic,KJEN,Krida Jaringan Nusantara Tbk.,1457000.0,-119100,1366500,-10.274,131.0,884655500.0,,Fundamental belum tersedia
+Transportation & logistic,WBSA,BSA Logistics Indonesia Tbk.,-1143800.0,587900,4321500,-7.258,575.0,7509945500.0,,Fundamental belum tersedia
+Transportation & logistic,ASSA,Adi Sarana Armada Tbk.,-1063900.0,-2931400,-31367500,-2.521,580.0,4219502000.0,,Fundamental belum tersedia
+Transportation & logistic,GIAA,Garuda Indonesia (Persero) Tbk.,1056400.0,1175500,4904300,-3.846,50.0,1121721600.0,,Fundamental belum tersedia
+Transportation & logistic,LAJU,Jasa Berdikari Logistics Tbk.,-895300.0,-1325200,-247200,-5.172,55.0,401202500.0,,Fundamental belum tersedia
+Transportation & logistic,TMAS,Temas Tbk.,764500.0,844400,5445200,-3.125,124.0,362860000.0,,Fundamental belum tersedia
+Transportation & logistic,BPTR,Batavia Prosperindo Trans Tbk.,718000.0,304600,1565600,-4.167,69.0,292097100.0,,Fundamental belum tersedia
+Transportation & logistic,HELI,Jaya Trishindo Tbk.,-685500.0,-428400,220100,-14.744,266.0,2638578400.0,,Fundamental belum tersedia
+Transportation & logistic,MITI,Mitra Investindo Tbk.,-634300.0,-1060600,-760900,-10.734,316.0,3605176600.0,,Fundamental belum tersedia
+Transportation & logistic,MPXL,MPX Logistics International Tbk.,428900.0,-794000,1005100,-4.828,276.0,3028654800.0,,Fundamental belum tersedia
+Transportation & logistic,JAYA,Armada Berjaya Trans Tbk.,-258500.0,-239600,372500,-7.097,144.0,282963100.0,,Fundamental belum tersedia
+Transportation & logistic,ELPI,Pelayaran Nasional Ekalya Purnamasari Tbk.,208200.0,-587400,-590600,-3.571,540.0,309602500.0,,Fundamental belum tersedia
+Transportation & logistic,SDMU,Sidomulyo Selaras Tbk.,198500.0,-370700,-2152200,-4.478,64.0,657157400.0,,Fundamental belum tersedia
+Transportation & logistic,GTRA,Grahaprima Suksesmandiri Tbk.,167500.0,-34800,-289500,-5.298,286.0,432387600.0,,Fundamental belum tersedia
+Transportation & logistic,IMJS,Indomobil Multi Jasa Tbk.,-155200.0,-378000,-35700,-1.744,169.0,224296800.0,,Fundamental belum tersedia
+Transportation & logistic,SAPX,Satria Antaran Prima Tbk.,86500.0,271400,-745100,-9.268,372.0,431930800.0,,Fundamental belum tersedia
+Transportation & logistic,SAFE,Steady Safe Tbk,75200.0,20300,-207800,-14.706,870.0,1634732000.0,,Fundamental belum tersedia
+Transportation & logistic,PJHB,Pelayaran Jaya Hidup Baru Tbk.,70200.0,-104200,-1685100,-3.145,154.0,189681600.0,,Fundamental belum tersedia
+Transportation & logistic,MIRA,Mitra International Resources Tbk.,66300.0,699700,6376000,-7.692,24.0,840771200.0,,Fundamental belum tersedia
+Transportation & logistic,BIRD,Blue Bird Tbk.,-51300.0,-906500,-1486800,-0.321,1555.0,334851000.0,,Fundamental belum tersedia
+Transportation & logistic,NELY,Pelayaran Nelly Dwi Putri Tbk.,50500.0,39900,-184000,-1.036,191.0,51982500.0,,Fundamental belum tersedia
+Transportation & logistic,TNCA,Trimuda Nuansa Citra Tbk.,37800.0,37800,303900,-4.571,167.0,60025400.0,,Fundamental belum tersedia
+Transportation & logistic,AKSI,Mineral Sumberdaya Mandiri Tbk.,23800.0,-12000,67700,-6.707,306.0,75362000.0,,Fundamental belum tersedia
+Transportation & logistic,WEHA,WEHA Transportasi Indonesia Tbk.,-4000.0,-5200,-740100,-1.923,102.0,172250400.0,,Fundamental belum tersedia
+Transportation & logistic,BLOG,Trimitra Trans Persada Tbk.,0,23500,264600,0.0,360.0,46574800.0,,Fundamental belum tersedia
+Transportation & logistic,CMPP,AirAsia Indonesia Tbk.,0,0,0,0.0,69.0,0.0,,Fundamental belum tersedia
+Transportation & logistic,DEAL,Dewata Freightinternational Tbk.,0,0,0,0.0,6.0,0.0,,Fundamental belum tersedia
+Transportation & logistic,HAIS,Hasnur Internasional Shipping Tbk.,0.0,21900,114000,-1.143,173.0,27794100.0,,Fundamental belum tersedia
+Transportation & logistic,LOPI,Logisticsplus International Tbk.,0,0,-28200,9.836,67.0,1632507400.0,,Fundamental belum tersedia
+Transportation & logistic,LRNA,Eka Sari Lorena Transport Tbk.,0,0,0,-0.901,220.0,36139000.0,,Fundamental belum tersedia
+Transportation & logistic,PPGL,Prima Globalindo Logistik Tbk.,0,0,215400,0.0,468.0,0.0,,Fundamental belum tersedia
+Transportation & logistic,RCCC,Utama Radar Cahaya Tbk.,0,0,0,-4.854,98.0,110320900.0,,Fundamental belum tersedia
+Transportation & logistic,TRJA,Transkon Jaya Tbk.,0,270600,248700,-3.333,116.0,68019700.0,,Fundamental belum tersedia
+Transportation & logistic,TRUK,Guna Timur Raya Tbk.,0,0,414500,0.0,2580.0,0.0,,Fundamental belum tersedia
+Unknown,GOTOM,MVS GoTo Gojek Tokopedia Tbk.,0,0,0,0.0,68.0,0.0,,Fundamental belum tersedia

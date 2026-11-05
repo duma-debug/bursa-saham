@@ -1,0 +1,60 @@
+{
+  "version": "4.1",
+  "status": "REVIEW_ONLY",
+  "stats": {
+    "sources": 278,
+    "duplicates": 10,
+    "facts": 13306,
+    "context_type_mismatch": 1801,
+    "LEGACY_OR_UNEXTRACTED": 24
+  },
+  "checks": {
+    "integrity_check": "ok",
+    "facts": 13306,
+    "valuation_eligible": 0
+  },
+  "facts_by_statement": {
+    "balance_sheet": 5222,
+    "cash_flow": 2776,
+    "income_statement": 5308
+  },
+  "facts_by_metric": {
+    "capex_ppe_outflow": 350,
+    "cash_begin": 488,
+    "cash_end": 488,
+    "cash_equivalents": 451,
+    "cashflow_financing": 477,
+    "cashflow_investing": 485,
+    "cashflow_operating": 488,
+    "cost_of_revenue": 832,
+    "current_assets": 426,
+    "current_liabilities": 426,
+    "eps_basic": 488,
+    "finance_costs": 404,
+    "general_administrative_expense": 470,
+    "gross_profit": 416,
+    "inventories_current": 758,
+    "net_income_parent": 488,
+    "net_income_total": 488,
+    "noncontrolling_interests": 369,
+    "noncurrent_assets": 426,
+    "noncurrent_liabilities": 426,
+    "profit_before_tax": 488,
+    "property_plant_equipment": 476,
+    "revenue": 426,
+    "selling_expense": 333,
+    "tax_benefit_expense": 475,
+    "total_assets": 488,
+    "total_equity": 488,
+    "total_liabilities": 488
+  },
+  "quality_gates": {
+    "raw_traceability": "PASS",
+    "sector_specific": "REVIEW",
+    "unit_currency": "BLOCK",
+    "duration_context": "BLOCK",
+    "valuation": "BLOCK",
+    "delete_original": "DISABLED"
+  },
+  "note": "Period labels are XBRL context names, not verified calendar dates. Do not compute TTM/FCF or valuation from this output without review."
+}

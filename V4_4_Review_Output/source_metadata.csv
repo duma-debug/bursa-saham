@@ -1,0 +1,279 @@
+﻿source_id,filename,ticker,year,period,currency,presentation_scale,scale_multiplier_DISPLAY_ONLY,start_current,end_current
+1,FinancialStatement-2022-Tahunan-AALI.xlsx,AALI,2022,Tahunan,IDR,Jutaan / In Million,1000000,2022-01-01,2022-12-31
+2,FinancialStatement-2022-Tahunan-ABBA.xlsx,ABBA,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+3,FinancialStatement-2022-Tahunan-ABDA.xlsx,ABDA,2022,Tahunan,IDR,Ribuan / In Thousand,1000,2022-01-01,2022-12-31
+4,FinancialStatement-2022-Tahunan-ABMM.xlsx,ABMM,2022,Tahunan,USD,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+5,FinancialStatement-2022-Tahunan-ACES.xlsx,ACES,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+6,FinancialStatement-2022-Tahunan-ACST.xlsx,ACST,2022,Tahunan,IDR,Jutaan / In Million,1000000,2022-01-01,2022-12-31
+7,FinancialStatement-2022-Tahunan-ADCP.xlsx,ADCP,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+8,FinancialStatement-2022-Tahunan-ADES.xlsx,ADES,2022,Tahunan,IDR,Jutaan / In Million,1000000,2022-01-01,2022-12-31
+9,FinancialStatement-2022-Tahunan-ADHI.xlsx,ADHI,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+10,FinancialStatement-2022-Tahunan-ADMF.xlsx,ADMF,2022,Tahunan,IDR,Jutaan / In Million,1000000,2022-01-01,2022-12-31
+11,FinancialStatement-2022-Tahunan-ADMG.xlsx,ADMG,2022,Tahunan,USD,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+12,FinancialStatement-2022-Tahunan-ADMR.xlsx,ADMR,2022,Tahunan,USD,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+13,FinancialStatement-2022-Tahunan-ADRO.xlsx,ADRO,2022,Tahunan,USD,Ribuan / In Thousand,1000,2022-01-01,2022-12-31
+14,FinancialStatement-2022-Tahunan-AGAR.xlsx,AGAR,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+15,FinancialStatement-2022-Tahunan-AGII.xlsx,AGII,2022,Tahunan,IDR,Jutaan / In Million,1000000,2022-01-01,2022-12-31
+16,FinancialStatement-2022-Tahunan-AGRO.xlsx,AGRO,2022,Tahunan,IDR,Ribuan / In Thousand,1000,2022-01-01,2022-12-31
+17,FinancialStatement-2022-Tahunan-AGRS.xlsx,AGRS,2022,Tahunan,IDR,Jutaan / In Million,1000000,2022-01-01,2022-12-31
+18,FinancialStatement-2022-Tahunan-AHAP.xlsx,AHAP,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+19,FinancialStatement-2022-Tahunan-AIMS.xlsx,AIMS,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+20,FinancialStatement-2022-Tahunan-AISA.xlsx,AISA,2022,Tahunan,IDR,Jutaan / In Million,1000000,2022-01-01,2022-12-31
+21,FinancialStatement-2022-Tahunan-AKKU.xlsx,AKKU,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+22,FinancialStatement-2022-Tahunan-AKPI.xlsx,AKPI,2022,Tahunan,IDR,Ribuan / In Thousand,1000,2022-01-01,2022-12-31
+23,FinancialStatement-2022-Tahunan-AKRA.xlsx,AKRA,2022,Tahunan,IDR,Ribuan / In Thousand,1000,2022-01-01,2022-12-31
+24,FinancialStatement-2022-Tahunan-AKSI.xlsx,AKSI,2022,Tahunan,IDR,Satuan Penuh / Full Amount,1,2022-01-01,2022-12-31
+25,FinancialStatement-2023-Tahunan-AALI.xlsx,AALI,2023,Tahunan,IDR,Jutaan / In Million,1000000,2023-01-01,2023-12-31
+26,FinancialStatement-2023-Tahunan-ABBA.xlsx,ABBA,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+27,FinancialStatement-2023-Tahunan-ABDA.xlsx,ABDA,2023,Tahunan,IDR,Ribuan / In Thousand,1000,2023-01-01,2023-12-31
+28,FinancialStatement-2023-Tahunan-ABMM.xlsx,ABMM,2023,Tahunan,USD,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+29,FinancialStatement-2023-Tahunan-ACES.xlsx,ACES,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+30,FinancialStatement-2023-Tahunan-ACRO.xlsx,ACRO,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+31,FinancialStatement-2023-Tahunan-ACST.xlsx,ACST,2023,Tahunan,IDR,Jutaan / In Million,1000000,2023-01-01,2023-12-31
+32,FinancialStatement-2023-Tahunan-ADCP.xlsx,ADCP,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+33,FinancialStatement-2023-Tahunan-ADES.xlsx,ADES,2023,Tahunan,IDR,Jutaan / In Million,1000000,2023-01-01,2023-12-31
+34,FinancialStatement-2023-Tahunan-ADHI.xlsx,ADHI,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+35,FinancialStatement-2023-Tahunan-ADMF.xlsx,ADMF,2023,Tahunan,IDR,Jutaan / In Million,1000000,2023-01-01,2023-12-31
+36,FinancialStatement-2023-Tahunan-ADMG.xlsx,ADMG,2023,Tahunan,USD,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+37,FinancialStatement-2023-Tahunan-ADMR.xlsx,ADMR,2023,Tahunan,USD,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+38,FinancialStatement-2023-Tahunan-ADRO.xlsx,ADRO,2023,Tahunan,USD,Ribuan / In Thousand,1000,2023-01-01,2023-12-31
+39,FinancialStatement-2023-Tahunan-AEGS.xlsx,AEGS,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+40,FinancialStatement-2023-Tahunan-AGAR.xlsx,AGAR,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+41,FinancialStatement-2023-Tahunan-AGRO.xlsx,AGRO,2023,Tahunan,IDR,Ribuan / In Thousand,1000,2023-01-01,2023-12-31
+42,FinancialStatement-2023-Tahunan-AGRS.xlsx,AGRS,2023,Tahunan,IDR,Jutaan / In Million,1000000,2023-01-01,2023-12-31
+43,FinancialStatement-2023-Tahunan-AHAP.xlsx,AHAP,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+44,FinancialStatement-2023-Tahunan-AIMS.xlsx,AIMS,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+45,FinancialStatement-2023-Tahunan-AISA.xlsx,AISA,2023,Tahunan,IDR,Jutaan / In Million,1000000,2023-01-01,2023-12-31
+46,FinancialStatement-2023-Tahunan-AKKU.xlsx,AKKU,2023,Tahunan,IDR,Satuan Penuh / Full Amount,1,2023-01-01,2023-12-31
+47,FinancialStatement-2023-Tahunan-AKPI.xlsx,AKPI,2023,Tahunan,IDR,Ribuan / In Thousand,1000,2023-01-01,2023-12-31
+48,FinancialStatement-2023-Tahunan-AKRA.xlsx,AKRA,2023,Tahunan,IDR,Ribuan / In Thousand,1000,2023-01-01,2023-12-31
+49,FinancialStatement-2025-Tahunan-AADI.xlsx,AADI,2025,Tahunan,USD,Ribuan / In Thousand,1000,2025-01-01,2025-12-31
+50,FinancialStatement-2025-Tahunan-AALI.xlsx,AALI,2025,Tahunan,IDR,Jutaan / In Million,1000000,2025-01-01,2025-12-31
+51,FinancialStatement-2025-Tahunan-ABBA.xlsx,ABBA,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+52,FinancialStatement-2025-Tahunan-ABDA.xlsx,ABDA,2025,Tahunan,IDR,Ribuan / In Thousand,1000,2025-01-01,2025-12-31
+53,FinancialStatement-2025-Tahunan-ABMM.xlsx,ABMM,2025,Tahunan,USD,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+54,FinancialStatement-2025-Tahunan-ACES.xlsx,ACES,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+55,FinancialStatement-2025-Tahunan-ACRO.xlsx,ACRO,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+56,FinancialStatement-2025-Tahunan-ACST.xlsx,ACST,2025,Tahunan,IDR,Jutaan / In Million,1000000,2025-01-01,2025-12-31
+57,FinancialStatement-2025-Tahunan-ADCP.xlsx,ADCP,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+58,FinancialStatement-2025-Tahunan-ADHI.xlsx,ADHI,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+59,FinancialStatement-2025-Tahunan-ADMF.xlsx,ADMF,2025,Tahunan,IDR,Jutaan / In Million,1000000,2025-01-01,2025-12-31
+60,FinancialStatement-2025-Tahunan-ADMG.xlsx,ADMG,2025,Tahunan,USD,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+61,FinancialStatement-2025-Tahunan-ADMR (1).xlsx,,,,USD,Ribuan / In Thousand,1000,2025-01-01,2025-12-31
+62,FinancialStatement-2025-Tahunan-ADMR.xlsx,ADMR,2025,Tahunan,USD,Ribuan / In Thousand,1000,2025-01-01,2025-12-31
+63,FinancialStatement-2025-Tahunan-ADRO (1).xlsx,,,,USD,Ribuan / In Thousand,1000,2025-01-01,2025-12-31
+64,FinancialStatement-2025-Tahunan-ADRO.xlsx,ADRO,2025,Tahunan,USD,Ribuan / In Thousand,1000,2025-01-01,2025-12-31
+65,FinancialStatement-2025-Tahunan-AEGS.xlsx,AEGS,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+66,FinancialStatement-2025-Tahunan-AGAR.xlsx,AGAR,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+67,FinancialStatement-2025-Tahunan-AGII.xlsx,AGII,2025,Tahunan,IDR,Jutaan / In Million,1000000,2025-01-01,2025-12-31
+68,FinancialStatement-2025-Tahunan-AGRO.xlsx,AGRO,2025,Tahunan,IDR,Ribuan / In Thousand,1000,2025-01-01,2025-12-31
+69,FinancialStatement-2025-Tahunan-AGRS.xlsx,AGRS,2025,Tahunan,IDR,Jutaan / In Million,1000000,2025-01-01,2025-12-31
+70,FinancialStatement-2025-Tahunan-AHAP.xlsx,AHAP,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+71,FinancialStatement-2025-Tahunan-AIMS.xlsx,AIMS,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+72,FinancialStatement-2025-Tahunan-AISA.xlsx,AISA,2025,Tahunan,IDR,Jutaan / In Million,1000000,2025-01-01,2025-12-31
+73,FinancialStatement-2025-Tahunan-AKKU.xlsx,AKKU,2025,Tahunan,IDR,Satuan Penuh / Full Amount,1,2025-01-01,2025-12-31
+74,FinancialStatement-2025-Tahunan-AKPI.xlsx,AKPI,2025,Tahunan,IDR,Ribuan / In Thousand,1000,2025-01-01,2025-12-31
+75,FinancialStatement-2026-II-AADI.xlsx,AADI,2026,II,USD,Ribuan / In Thousand,1000,2026-01-01,2026-06-30
+76,FinancialStatement-2026-II-AALI.xlsx,AALI,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+77,FinancialStatement-2026-II-ACES.xlsx,ACES,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+78,FinancialStatement-2026-II-ACST.xlsx,ACST,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+79,FinancialStatement-2026-II-ADES.xlsx,ADES,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+80,FinancialStatement-2026-II-ADMF.xlsx,ADMF,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+81,FinancialStatement-2026-II-ADMR.xlsx,ADMR,2026,II,USD,Ribuan / In Thousand,1000,2026-01-01,2026-06-30
+82,FinancialStatement-2026-II-ADRO.xlsx,ADRO,2026,II,USD,Ribuan / In Thousand,1000,2026-01-01,2026-06-30
+83,FinancialStatement-2026-II-AGII.xlsx,AGII,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+84,FinancialStatement-2026-II-AKRA.xlsx,AKRA,2026,II,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-06-30
+85,FinancialStatement-2026-II-AMMN.xlsx,AMMN,2026,II,USD,Ribuan / In Thousand,1000,2026-01-01,2026-06-30
+86,FinancialStatement-2026-II-AMRT.xlsx,AMRT,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+87,FinancialStatement-2026-II-ANJT.xlsx,ANJT,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+88,FinancialStatement-2026-II-ANTM.xlsx,ANTM,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+89,FinancialStatement-2026-II-APEX.xlsx,APEX,2026,II,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+90,FinancialStatement-2026-II-APLN.xlsx,APLN,2026,II,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-06-30
+91,FinancialStatement-2026-II-ARCI.xlsx,ARCI,2026,II,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+92,FinancialStatement-2026-II-ARKO.xlsx,ARKO,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+93,FinancialStatement-2026-II-ARNA.xlsx,ARNA,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+94,FinancialStatement-2026-II-ARTO.xlsx,ARTO,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+95,FinancialStatement-2026-II-ASGR.xlsx,ASGR,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+96,FinancialStatement-2026-II-ASII.xlsx,ASII,2026,II,IDR,Miliaran / In Billion,1000000000,2026-01-01,2026-06-30
+97,FinancialStatement-2026-II-AUTO.xlsx,AUTO,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+98,FinancialStatement-2026-II-AVIA.xlsx,AVIA,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+99,FinancialStatement-2026-II-BBCA.xlsx,BBCA,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+100,FinancialStatement-2026-II-BBNI.xlsx,BBNI,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+101,FinancialStatement-2026-II-BBRI.xlsx,BBRI,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+102,FinancialStatement-2026-II-BBRM.xlsx,BBRM,2026,II,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+103,FinancialStatement-2026-II-BBSI.xlsx,BBSI,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+104,FinancialStatement-2026-II-BBSS.xlsx,BBSS,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+105,FinancialStatement-2026-II-BBTN.xlsx,BBTN,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+106,FinancialStatement-2026-II-BLUE.xlsx,BLUE,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+107,FinancialStatement-2026-II-BMBL.xlsx,BMBL,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+108,FinancialStatement-2026-II-BMHS.xlsx,BMHS,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+109,FinancialStatement-2026-II-BMRI.xlsx,BMRI,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+110,FinancialStatement-2026-II-BNGA.xlsx,BNGA,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+111,FinancialStatement-2026-II-BNLI.xlsx,BNLI,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+112,FinancialStatement-2026-II-BUAH.xlsx,BUAH,2026,II,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+113,FinancialStatement-2026-II-BULL.xlsx,BULL,2026,II,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-06-30
+114,FinancialStatement-2026-II-BWPT.xlsx,BWPT,2026,II,IDR,Jutaan / In Million,1000000,2026-01-01,2026-06-30
+115,FinancialStatement-2026-III-AALI.xlsx,AALI,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+116,FinancialStatement-2026-III-ACES.xlsx,ACES,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+117,FinancialStatement-2026-III-ADES.xlsx,ADES,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+118,FinancialStatement-2026-III-ADMF.xlsx,ADMF,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+119,FinancialStatement-2026-III-AGII.xlsx,AGII,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+120,FinancialStatement-2026-III-AGRO.xlsx,AGRO,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+121,FinancialStatement-2026-III-AKRA.xlsx,AKRA,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+122,FinancialStatement-2026-III-ANTM.xlsx,ANTM,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+123,FinancialStatement-2026-III-ARNA.xlsx,ARNA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+124,FinancialStatement-2026-III-ASGR.xlsx,ASGR,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+125,FinancialStatement-2026-III-AUTO.xlsx,AUTO,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+126,FinancialStatement-2026-III-BELI.xlsx,BELI,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+127,FinancialStatement-2026-III-BIPI.xlsx,BIPI,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+128,FinancialStatement-2026-III-BLOG.xlsx,BLOG,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+129,FinancialStatement-2026-III-BMRI.xlsx,BMRI,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+130,FinancialStatement-2026-III-BNGA.xlsx,BNGA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+131,FinancialStatement-2026-III-BNLI.xlsx,BNLI,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+132,FinancialStatement-2026-III-BOBA.xlsx,BOBA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+133,FinancialStatement-2026-III-BSDE.xlsx,BSDE,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+134,FinancialStatement-2026-III-BUAH.xlsx,BUAH,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+135,FinancialStatement-2026-III-BUKA (1).xlsx,,,,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+136,FinancialStatement-2026-III-BUKA.xlsx,BUKA,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+137,FinancialStatement-2026-III-CAMP.xlsx,CAMP,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+138,FinancialStatement-2026-III-CBDK.xlsx,CBDK,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+139,FinancialStatement-2026-III-CBPE.xlsx,CBPE,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+140,FinancialStatement-2026-III-CDIA.xlsx,CDIA,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+141,FinancialStatement-2026-III-CLEO.xlsx,CLEO,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+142,FinancialStatement-2026-III-COIN.xlsx,COIN,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+143,FinancialStatement-2026-III-CSRA.xlsx,CSRA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+144,FinancialStatement-2026-III-CTRA.xlsx,CTRA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+145,FinancialStatement-2026-III-CUAN.xlsx,CUAN,2026,III,USD,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+146,FinancialStatement-2026-III-DCII.xlsx,DCII,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+147,FinancialStatement-2026-III-DEPO.xlsx,DEPO,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+148,FinancialStatement-2026-III-DEWA.xlsx,DEWA,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+149,FinancialStatement-2026-III-DMAS.xlsx,DMAS,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+150,FinancialStatement-2026-III-DRMA.xlsx,DRMA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+151,FinancialStatement-2026-III-DSFI.xlsx,DSFI,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+152,FinancialStatement-2026-III-DYAN.xlsx,DYAN,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+153,FinancialStatement-2026-III-EAST.xlsx,EAST,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+154,FinancialStatement-2026-III-EKAD.xlsx,EKAD,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+155,FinancialStatement-2026-III-ELIT.xlsx,ELIT,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+156,FinancialStatement-2026-III-ELSA.xlsx,ELSA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+157,FinancialStatement-2026-III-ERAA.xlsx,ERAA,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+158,FinancialStatement-2026-III-ERAL.xlsx,ERAL,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+159,FinancialStatement-2026-III-FASW.xlsx,FASW,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+160,FinancialStatement-2026-III-FILM.xlsx,FILM,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+161,FinancialStatement-2026-III-FORE.xlsx,FORE,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+162,FinancialStatement-2026-III-FUJI.xlsx,FUJI,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+163,FinancialStatement-2026-III-GDYR.xlsx,GDYR,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+164,FinancialStatement-2026-III-GJTL.xlsx,GJTL,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+165,FinancialStatement-2026-III-GMTD.xlsx,GMTD,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+166,FinancialStatement-2026-III-GOLD.xlsx,GOLD,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+167,FinancialStatement-2026-III-GOOD.xlsx,GOOD,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+168,FinancialStatement-2026-III-GOTO.xlsx,GOTO,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+169,FinancialStatement-2026-III-GUNA.xlsx,GUNA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+170,FinancialStatement-2026-III-HADE.xlsx,HADE,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+171,FinancialStatement-2026-III-HALO.xlsx,HALO,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+172,FinancialStatement-2026-III-HGII.xlsx,HGII,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+173,FinancialStatement-2026-III-HRTA.xlsx,HRTA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+174,FinancialStatement-2026-III-HRUM.xlsx,HRUM,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+175,FinancialStatement-2026-III-HYGN.xlsx,HYGN,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+176,FinancialStatement-2026-III-IMPC.xlsx,IMPC,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+177,FinancialStatement-2026-III-INAF.xlsx,INAF,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+178,FinancialStatement-2026-III-INCO.xlsx,INCO,2026,III,USD,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+179,FinancialStatement-2026-III-INDF.xlsx,INDF,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+180,FinancialStatement-2026-III-INDY.xlsx,INDY,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+181,FinancialStatement-2026-III-INKP.xlsx,INKP,2026,III,USD,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+182,FinancialStatement-2026-III-INOV.xlsx,INOV,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+183,FinancialStatement-2026-III-ISSP.xlsx,ISSP,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+184,FinancialStatement-2026-III-JARR (1).xlsx,,,,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+185,FinancialStatement-2026-III-JARR.xlsx,JARR,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+186,FinancialStatement-2026-III-JECC.xlsx,JECC,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+187,FinancialStatement-2026-III-JECX (1).xlsx,,,,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+188,FinancialStatement-2026-III-JECX.xlsx,JECX,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+189,FinancialStatement-2026-III-JELI.xlsx,JELI,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+190,FinancialStatement-2026-III-JPFA.xlsx,JPFA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+191,FinancialStatement-2026-III-JSMR.xlsx,JSMR,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+192,FinancialStatement-2026-III-KAEF.xlsx,KAEF,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+193,FinancialStatement-2026-III-KDTN.xlsx,KDTN,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+194,FinancialStatement-2026-III-KEEN.xlsx,KEEN,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+195,FinancialStatement-2026-III-KIJA.xlsx,KIJA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+196,FinancialStatement-2026-III-KINO.xlsx,KINO,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+197,FinancialStatement-2026-III-KLBF.xlsx,KLBF,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+198,FinancialStatement-2026-III-KMDS (1).xlsx,,,,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+199,FinancialStatement-2026-III-KMDS.xlsx,KMDS,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+200,FinancialStatement-2026-III-LABA.xlsx,LABA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+201,FinancialStatement-2026-III-LSIP.xlsx,LSIP,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+202,FinancialStatement-2026-III-LTLS (1).xlsx,,,,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+203,FinancialStatement-2026-III-LTLS.xlsx,LTLS,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+204,FinancialStatement-2026-III-MAIN.xlsx,MAIN,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+205,FinancialStatement-2026-III-MAPA.xlsx,MAPA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+206,FinancialStatement-2026-III-MAPI.xlsx,MAPI,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+207,FinancialStatement-2026-III-MARK.xlsx,MARK,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+208,FinancialStatement-2026-III-MDIY.xlsx,MDIY,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+209,FinancialStatement-2026-III-MERI.xlsx,MERI,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+210,FinancialStatement-2026-III-MERK.xlsx,MERK,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+211,FinancialStatement-2026-III-MIKA.xlsx,MIKA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+212,FinancialStatement-2026-III-MSIE.xlsx,MSIE,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+213,FinancialStatement-2026-III-MSTI.xlsx,MSTI,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+214,FinancialStatement-2026-III-MTDL.xlsx,MTDL,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+215,FinancialStatement-2026-III-MTEL.xlsx,MTEL,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+216,FinancialStatement-2026-III-MYOH.xlsx,MYOH,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+217,FinancialStatement-2026-III-MYOR.xlsx,MYOR,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+218,FinancialStatement-2026-III-NCKL.xlsx,NCKL,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+219,FinancialStatement-2026-III-NICE.xlsx,NICE,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+220,FinancialStatement-2026-III-NICK (1).xlsx,,,,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+221,FinancialStatement-2026-III-NICK.xlsx,NICK,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+222,FinancialStatement-2026-III-NICL.xlsx,NICL,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+223,FinancialStatement-2026-III-NIKL.xlsx,NIKL,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+224,FinancialStatement-2026-III-NISP.xlsx,NISP,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+225,FinancialStatement-2026-III-NRCA.xlsx,NRCA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+226,FinancialStatement-2026-III-NSSS.xlsx,NSSS,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+227,FinancialStatement-2026-III-OASA.xlsx,OASA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+228,FinancialStatement-2026-III-OMED.xlsx,OMED,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+229,FinancialStatement-2026-III-PAMG.xlsx,PAMG,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+230,FinancialStatement-2026-III-PANI.xlsx,PANI,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+231,FinancialStatement-2026-III-PEHA.xlsx,PEHA,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+232,FinancialStatement-2026-III-PGAS.xlsx,PGAS,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+233,FinancialStatement-2026-III-PGEO.xlsx,PGEO,2026,III,USD,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+234,FinancialStatement-2026-III-PGUN.xlsx,PGUN,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+235,FinancialStatement-2026-III-PJAA.xlsx,PJAA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+236,FinancialStatement-2026-III-PKPK.xlsx,PKPK,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+237,FinancialStatement-2026-III-POWR.xlsx,POWR,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+238,FinancialStatement-2026-III-PRDA.xlsx,PRDA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+239,FinancialStatement-2026-III-PRDL.xlsx,PRDL,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+240,FinancialStatement-2026-III-PTBA.xlsx,PTBA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+241,FinancialStatement-2026-III-PTMP.xlsx,PTMP,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+242,FinancialStatement-2026-III-PZZA.xlsx,PZZA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+243,FinancialStatement-2026-III-RALS.xlsx,RALS,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+244,FinancialStatement-2026-III-RANC.xlsx,RANC,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+245,FinancialStatement-2026-III-RATU.xlsx,RATU,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+246,FinancialStatement-2026-III-REAL.xlsx,REAL,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+247,FinancialStatement-2026-III-RISE (1).xlsx,,,,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+248,FinancialStatement-2026-III-RISE.xlsx,RISE,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+249,FinancialStatement-2026-III-RLCO.xlsx,RLCO,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+250,FinancialStatement-2026-III-ROTI.xlsx,ROTI,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+251,FinancialStatement-2026-III-SAME.xlsx,SAME,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+252,FinancialStatement-2026-III-SAMF.xlsx,SAMF,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+253,FinancialStatement-2026-III-SAPX.xlsx,SAPX,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+254,FinancialStatement-2026-III-SCPI.xlsx,SCPI,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+255,FinancialStatement-2026-III-SIDO (1).xlsx,,,,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+256,FinancialStatement-2026-III-SIDO.xlsx,SIDO,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+257,FinancialStatement-2026-III-SIMP.xlsx,SIMP,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+258,FinancialStatement-2026-III-SMAR.xlsx,SMAR,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+259,FinancialStatement-2026-III-SMDR.xlsx,SMDR,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+260,FinancialStatement-2026-III-SMGR.xlsx,SMGR,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+261,FinancialStatement-2026-III-SMMT.xlsx,SMMT,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+262,FinancialStatement-2026-III-SMRA.xlsx,SMRA,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+263,FinancialStatement-2026-III-SMSM.xlsx,SMSM,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+264,FinancialStatement-2026-III-SOCI.xlsx,SOCI,2026,III,USD,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+265,FinancialStatement-2026-III-SOHO.xlsx,SOHO,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+266,FinancialStatement-2026-III-SOLA.xlsx,SOLA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+267,FinancialStatement-2026-III-SOSS.xlsx,SOSS,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+268,FinancialStatement-2026-III-SPMA.xlsx,SPMA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+269,FinancialStatement-2026-III-SRTG.xlsx,SRTG,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+270,FinancialStatement-2026-III-SSIA.xlsx,SSIA,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+271,FinancialStatement-2026-III-SSMS.xlsx,SSMS,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+272,FinancialStatement-2026-III-STAA.xlsx,STAA,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+273,FinancialStatement-2026-III-STTP.xlsx,STTP,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+274,FinancialStatement-2026-III-SUNI.xlsx,SUNI,2026,III,IDR,Satuan Penuh / Full Amount,1,2026-01-01,2026-09-30
+275,FinancialStatement-2026-III-TOTL.xlsx,TOTL,2026,III,IDR,Ribuan / In Thousand,1000,2026-01-01,2026-09-30
+276,FinancialStatement-2026-III-UNSP.xlsx,UNSP,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+277,FinancialStatement-2026-III-UNTR.xlsx,UNTR,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30
+278,FinancialStatement-2026-III-UNVR.xlsx,UNVR,2026,III,IDR,Jutaan / In Million,1000000,2026-01-01,2026-09-30

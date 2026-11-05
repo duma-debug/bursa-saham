@@ -1,0 +1,1 @@
+C:\Analisis_Saham_BEI\BEI_Period_Exporter\bei_period_export.py

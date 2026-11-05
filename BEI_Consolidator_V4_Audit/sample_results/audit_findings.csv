@@ -1,0 +1,63 @@
+﻿filename,source_id,level,rule,details
+FinancialStatement-2025-Tahunan-ADMR (1).xlsx,61,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2025-Tahunan-ADMR.xlsx,62,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 61; retained, omitted from selected_facts"
+FinancialStatement-2025-Tahunan-ADRO (1).xlsx,63,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2025-Tahunan-ADRO.xlsx,64,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 63; retained, omitted from selected_facts"
+FinancialStatement-2026-III-BUKA (1).xlsx,135,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2026-III-BUKA.xlsx,136,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 135; retained, omitted from selected_facts"
+FinancialStatement-2026-III-JARR (1).xlsx,184,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2026-III-JARR.xlsx,185,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 184; retained, omitted from selected_facts"
+FinancialStatement-2026-III-JECX (1).xlsx,187,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2026-III-JECX.xlsx,188,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 187; retained, omitted from selected_facts"
+FinancialStatement-2026-III-KMDS (1).xlsx,198,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2026-III-KMDS.xlsx,199,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 198; retained, omitted from selected_facts"
+FinancialStatement-2026-III-LTLS (1).xlsx,202,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2026-III-LTLS.xlsx,203,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 202; retained, omitted from selected_facts"
+FinancialStatement-2026-III-NICK (1).xlsx,220,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2026-III-NICK.xlsx,221,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 220; retained, omitted from selected_facts"
+FinancialStatement-2026-III-RISE (1).xlsx,247,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2026-III-RISE.xlsx,248,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 247; retained, omitted from selected_facts"
+FinancialStatement-2026-III-SIDO (1).xlsx,255,WARN,MISSING_METADATA,Cannot reliably identify ticker/year/period from filename
+FinancialStatement-2026-III-SIDO.xlsx,256,INFO,EXACT_DUPLICATE,"SHA-256 matches source_id 255; retained, omitted from selected_facts"
+FinancialStatement-2022-Tahunan-AALI.xlsx,1,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ABBA.xlsx,2,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ABDA.xlsx,3,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ABMM.xlsx,4,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ACES.xlsx,5,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ACST.xlsx,6,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ADCP.xlsx,7,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ADES.xlsx,8,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ADHI.xlsx,9,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ADMF.xlsx,10,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ADMG.xlsx,11,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ADMR.xlsx,12,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-ADRO.xlsx,13,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AGAR.xlsx,14,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AGII.xlsx,15,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AGRO.xlsx,16,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AGRS.xlsx,17,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AHAP.xlsx,18,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AIMS.xlsx,19,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AISA.xlsx,20,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AKKU.xlsx,21,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AKPI.xlsx,22,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AKRA.xlsx,23,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2022-Tahunan-AKSI.xlsx,24,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2025-Tahunan-ADMR (1).xlsx,61,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2025-Tahunan-ADRO (1).xlsx,63,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-III-BUKA (1).xlsx,135,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-III-JARR (1).xlsx,184,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-III-JECX (1).xlsx,187,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-III-KMDS (1).xlsx,198,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-III-LTLS (1).xlsx,202,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-III-NICK (1).xlsx,220,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-III-RISE (1).xlsx,247,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-III-SIDO (1).xlsx,255,WARN,NO_MATCHED_FACTS,No conservative concept label matched; source remains preserved in V1
+FinancialStatement-2026-II-ARTO.xlsx,94,REVIEW,BALANCE_SHEET_CHECK,CurrentYearInstant: assets - liabilities - equity = 458111.0 (raw units)
+FinancialStatement-2026-II-ARTO.xlsx,94,REVIEW,BALANCE_SHEET_CHECK,PriorEndYearInstant: assets - liabilities - equity = 301158.0 (raw units)
+FinancialStatement-2026-II-BBCA.xlsx,99,REVIEW,BALANCE_SHEET_CHECK,CurrentYearInstant: assets - liabilities - equity = 10399709 (raw units)
+FinancialStatement-2026-II-BBCA.xlsx,99,REVIEW,BALANCE_SHEET_CHECK,PriorEndYearInstant: assets - liabilities - equity = 10632695 (raw units)
+FinancialStatement-2026-II-BBTN.xlsx,105,REVIEW,BALANCE_SHEET_CHECK,CurrentYearInstant: assets - liabilities - equity = 32208577 (raw units)
+FinancialStatement-2026-II-BBTN.xlsx,105,REVIEW,BALANCE_SHEET_CHECK,PriorEndYearInstant: assets - liabilities - equity = 31882478 (raw units)
+FinancialStatement-2026-II-BMRI.xlsx,109,REVIEW,BALANCE_SHEET_CHECK,PriorEndYearInstant: assets - liabilities - equity = 289620824 (raw units)
+FinancialStatement-2026-III-BMRI.xlsx,129,REVIEW,BALANCE_SHEET_CHECK,PriorEndYearInstant: assets - liabilities - equity = 289620824 (raw units)

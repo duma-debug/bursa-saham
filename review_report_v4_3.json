@@ -1,0 +1,28 @@
+{
+  "version": "4.3-review",
+  "status": "REVIEW_NOT_VALUATION_READY",
+  "sources": 278,
+  "facts_reviewed": 13306,
+  "metadata_found": 278,
+  "context_statuses": {
+    "CONTEXT_LABEL_MATCH": 11505,
+    "REVIEW_CONTEXT_TYPE": 1801
+  },
+  "currencies_fact_rows": {
+    "IDR": 11303,
+    "USD": 2003
+  },
+  "legacy_2022_preview_rows": 1506,
+  "sources_without_mapped_facts": 34,
+  "valuation_eligible": 0,
+  "integrity_check": "ok",
+  "output_db": "C:\\Analisis_Saham_BEI\\financial_review_v4_3.db",
+  "quality_gates": {
+    "metadata": "REVIEW",
+    "context": "REVIEW",
+    "legacy_2022": "REVIEW",
+    "bank": "BLOCK",
+    "valuation": "BLOCK",
+    "deletion": "DISABLED"
+  }
+}

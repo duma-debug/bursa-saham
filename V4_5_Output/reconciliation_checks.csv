@@ -1,0 +1,3 @@
+﻿name,status,difference
+assets_equals_liabilities_plus_equity,PASS,0
+gross_profit_equals_revenue_less_cost,PASS,0

@@ -1,0 +1,25 @@
+{
+  "status": "REVIEW_NOT_VALUATION_READY",
+  "ticker": "AALI",
+  "input_files": 2,
+  "rows_all_versions": 234,
+  "rows_selected_candidate": 217,
+  "multiple_version_rows": 17,
+  "current_rows": 117,
+  "comparative_rows": 117,
+  "data_year_counts": {
+    "2022": 27,
+    "2023": 27,
+    "2024": 30,
+    "2025": 90,
+    "2026": 60
+  },
+  "must_verify": [
+    "underlying XBRL unit for each value",
+    "fiscal period actual start/end",
+    "duplicate and restated values",
+    "scope consolidated vs parent",
+    "standalone Q vs cumulative YTD"
+  ],
+  "warning": "SELECTED is convenience only; no values converted, no growth/TTM calculated, no sources deleted."
+}

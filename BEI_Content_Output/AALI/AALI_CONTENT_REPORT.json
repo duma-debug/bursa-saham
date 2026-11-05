@@ -1,0 +1,17 @@
+{
+  "ticker": "AALI",
+  "status": "REVIEW_ONLY_NO_PUBLICATION_APPROVAL",
+  "input": "C:\\Analisis_Saham_BEI\\BEI_Master_Output\\AALI_periods_SELECTED_REVIEW.csv",
+  "pairs": 39,
+  "review_comparable": 31,
+  "blocked": 8,
+  "charts_generated": false,
+  "output_directory": "C:\\Analisis_Saham_BEI\\BEI_Content_Output\\AALI",
+  "warnings": [
+    "YoY calculated only from same-filing current/prior paired amounts",
+    "No unit conversion for absolute amounts",
+    "No model/valuation approval",
+    "XBRL context mismatches remain REVIEW",
+    "No original source or SQLite DB modified or deleted"
+  ]
+}

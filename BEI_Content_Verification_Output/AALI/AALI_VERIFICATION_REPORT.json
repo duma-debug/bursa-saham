@@ -1,0 +1,22 @@
+{
+  "ticker": "AALI",
+  "status": "SOURCE_VERIFICATION_ONLY_NOT_PUBLICATION_APPROVED",
+  "facts_checked": 217,
+  "cell_matched": 217,
+  "cell_blocked": 0,
+  "comparison_pairs": 97,
+  "yoy_review": 38,
+  "yoy_blocked": 59,
+  "staging_integrity": "ok",
+  "source_db_unchanged": true,
+  "pdf_audit_reconciliation": false,
+  "publication_approved": 0,
+  "notes": [
+    "Checks stored CSV numeric value against exact stored staging cell and source file SHA",
+    "No independent verification of 2026 quarterly PDF or true XBRL concept mappings",
+    "Source presentation scale is recorded but is not applied",
+    "Comparative period remains associated with its fiscal year",
+    "No TTM or valuation computed",
+    "All original source files remain untouched"
+  ]
+}

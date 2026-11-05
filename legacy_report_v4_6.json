@@ -1,0 +1,20 @@
+{
+  "version": "4.6-legacy-recovery",
+  "status": "REVIEW_NOT_VALUATION_READY",
+  "source_files": 278,
+  "mapped_existing_facts": 13306,
+  "context_statuses": {
+    "REVIEW_CONTEXT": 5710,
+    "REVIEW_DURATION": 7108,
+    "REVIEW_INSTANT_START": 488
+  },
+  "recovered_legacy_preview_facts": 212,
+  "legacy_source_count": 19,
+  "legacy_arithmetic_checks": {
+    "ARITHMETIC_PASS": 38
+  },
+  "integrity_check": "ok",
+  "valuation_eligible": 0,
+  "input_files_untouched": true,
+  "output_db": "C:\\Analisis_Saham_BEI\\financial_legacy_v4_6.db"
+}

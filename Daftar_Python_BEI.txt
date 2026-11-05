@@ -1,0 +1,98 @@
+C:\Analisis_Saham_BEI\apply_stock_detail_pro.py
+C:\Analisis_Saham_BEI\bei_analytics.py
+C:\Analisis_Saham_BEI\bei_analytics_gui.py
+C:\Analisis_Saham_BEI\bei_analytics_gui_backup.py
+C:\Analisis_Saham_BEI\bei_analytics_gui_backup2.py
+C:\Analisis_Saham_BEI\bei_analytics_gui_backup3.py
+C:\Analisis_Saham_BEI\bei_equity_screener_v2_4.py
+C:\Analisis_Saham_BEI\bei_equity_screener_v2_4_1.py
+C:\Analisis_Saham_BEI\bei_equity_screener_v2_5.py
+C:\Analisis_Saham_BEI\bei_equity_v2.py
+C:\Analisis_Saham_BEI\bei_equity_v2_1.py
+C:\Analisis_Saham_BEI\bei_equity_v2_2.py
+C:\Analisis_Saham_BEI\bei_equity_v2_3_1.py
+C:\Analisis_Saham_BEI\bei_equity_v2_3_2.py
+C:\Analisis_Saham_BEI\bei_equity_v2_3_3.py
+C:\Analisis_Saham_BEI\bei_integrated_foreign_gui.py
+C:\Analisis_Saham_BEI\dashboard_v2.py
+C:\Analisis_Saham_BEI\dashboard_v2_1.py
+C:\Analisis_Saham_BEI\fundamental_update.py
+C:\Analisis_Saham_BEI\import_fundamental.py
+C:\Analisis_Saham_BEI\install_stock_detail_pro.py
+C:\Analisis_Saham_BEI\install_v031.py
+C:\Analisis_Saham_BEI\install_v04.py
+C:\Analisis_Saham_BEI\integrated_screener.py
+C:\Analisis_Saham_BEI\phase0_fundamental.py
+C:\Analisis_Saham_BEI\phase0_update.py
+C:\Analisis_Saham_BEI\prototipe_bei.py
+C:\Analisis_Saham_BEI\start_bei_platform.py
+C:\Analisis_Saham_BEI\treemap_dashboard_v2.py
+C:\Analisis_Saham_BEI\treemap_gui.py
+C:\Analisis_Saham_BEI\treemap_sector_ticker.py
+C:\Analisis_Saham_BEI\treemap_v2_engine.py
+C:\Analisis_Saham_BEI\Backup_Database\treemap_sector_ticker.py
+C:\Analisis_Saham_BEI\Backup_Database\bei_platform\accounting.py
+C:\Analisis_Saham_BEI\Backup_Database\bei_platform\cash.py
+C:\Analisis_Saham_BEI\Backup_Database\bei_platform\data.py
+C:\Analisis_Saham_BEI\Backup_Database\bei_platform\decisions.py
+C:\Analisis_Saham_BEI\Backup_Database\bei_platform\gui.py
+C:\Analisis_Saham_BEI\Backup_Database\bei_platform\market.py
+C:\Analisis_Saham_BEI\Backup_Database\bei_platform\official_indices.py
+C:\Analisis_Saham_BEI\Backup_Database\bei_platform\__init__.py
+C:\Analisis_Saham_BEI\BEI_Consolidator\consolidate.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V3\consolidator_v3.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V3\mapping_engine_v2.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V4_1\normalize_v4_1.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V4_2\audit_v4_2.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V4_3\consolidator_v4_3.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V4_4\verify_v4_4.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V4_5\reconcile_v4_5.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V4_6\normalize_v4_6.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V4_7\consolidate_v4_7.py
+C:\Analisis_Saham_BEI\BEI_Consolidator_V4_Audit\audit_v4.py
+C:\Analisis_Saham_BEI\BEI_Content_Dashboard_Windows\dashboard_core.py
+C:\Analisis_Saham_BEI\BEI_Content_Exporter\bei_content_export.py
+C:\Analisis_Saham_BEI\BEI_Content_Verifier\bei_content_verify.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_1_PeriodFix\dashboard_core.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_1_PeriodFix\historical_matrix.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_2\dashboard_core.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_2\historical_matrix.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_2\test_period_logic.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_3\dashboard_core.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_3\historical_matrix.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_3\test_v23.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_4\dashboard_core.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_4\historical_matrix.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_4\restore_comparatives.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_4\test_v23.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_4\test_v24.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_Historical\dashboard_core.py
+C:\Analisis_Saham_BEI\BEI_Dashboard_V2_Historical\historical_matrix.py
+C:\Analisis_Saham_BEI\BEI_Master_QuickStart\bei_master_quickstart.py
+C:\Analisis_Saham_BEI\BEI_Period_Exporter\bei_period_export.py
+C:\Analisis_Saham_BEI\bei_platform\accounting.py
+C:\Analisis_Saham_BEI\bei_platform\cash.py
+C:\Analisis_Saham_BEI\bei_platform\data.py
+C:\Analisis_Saham_BEI\bei_platform\decisions.py
+C:\Analisis_Saham_BEI\bei_platform\gui.py
+C:\Analisis_Saham_BEI\bei_platform\market - Copy.py
+C:\Analisis_Saham_BEI\bei_platform\market.py
+C:\Analisis_Saham_BEI\bei_platform\market_before_stock_pro_20261031_220823.py
+C:\Analisis_Saham_BEI\bei_platform\market_before_v031_20261031_224739.py
+C:\Analisis_Saham_BEI\bei_platform\market_before_v04_20261031_225947.py
+C:\Analisis_Saham_BEI\bei_platform\official_indices.py
+C:\Analisis_Saham_BEI\bei_platform\theme.py
+C:\Analisis_Saham_BEI\bei_platform\__init__.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\accounting.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\cash.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\data.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\decisions.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\gui.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\market - Copy.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\market.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\official_indices.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\theme.py
+C:\Analisis_Saham_BEI\bei_platform - Copy\__init__.py
+C:\Analisis_Saham_BEI\Laporan_Keuangan\PDF_Audited\consolidator_v3.py
+C:\Analisis_Saham_BEI\Laporan_Keuangan\PDF_Audited\mapping_engine_v2.py
+C:\Analisis_Saham_BEI\patch_files\market.py

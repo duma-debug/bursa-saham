@@ -1,0 +1,33 @@
+PROTOTIPE DATABASE DAN SCREENING SAHAM BEI — versi 0.1
+=====================================================
+
+ISI PAKET:
+1. prototipe_bei.py : impor file Excel harian, update database SQLite, ekspor CSV.
+2. pasar_bei_prototipe.db : database contoh dengan 963 ticker (9 Oktober 2026).
+3. Dashboard_BEI_Prototipe.xlsx : snapshot hasil analisis untuk 9 Oktober 2026.
+4. hasil_bei/market_dashboard.csv : peringkat nilai perdagangan, volume, foreign net volume.
+5. hasil_bei/foreign_accumulation.csv : akumulasi per ticker untuk tanggal yang diimpor.
+6. hasil_bei/historical_prices.csv : data untuk analisis historis lanjutan.
+
+PERSYARATAN:
+- Python 3.10+ (pustaka standar; tanpa instalasi paket tambahan).
+- Ekstrak ZIP dalam satu folder di Windows. Buka Command Prompt/PowerShell di folder itu.
+
+CARA MENAMBAHKAN DATA HARIAN:
+python prototipe_bei.py --input "Ringkasan Saham-20261009.xlsx" --db pasar_bei_prototipe.db --output hasil_bei
+
+Ganti nama file pada --input untuk tanggal perdagangan baru. Impor berulang tanggal + ticker yang sama
+akan memperbarui baris yang ada (bukan menggandakan). CSV output otomatis diperbarui.
+Dashboard Excel yang disertakan adalah SNAPSHOT hasil pengujian; belum auto-refresh. Buka CSV di Excel
+untuk melihat hasil terbaru. Penyegaran langsung Dashboard Excel merupakan pengembangan tahap berikut.
+
+CATATAN VALIDASI:
+- Data berasal dari worksheet pertama format Ringkasan Saham harian, sesuai kolom A:AB contoh.
+- Foreign buy/sell adalah volume lembar saham, bukan aliran dana rupiah.
+- Perubahan harga = (close / previous - 1) x 100, jika previous > 0.
+- Data hanya satu tanggal: belum bisa menghitung MA20, foreign accumulation multi-day, return H+1/H+5.
+- Ranking dan indikator prototipe belum divalidasi setara formula khusus workbook lama.
+- Nama vwap_proxy: nilai/volume; bukan VWAP intraday resmi.
+- Jangan menganggap ranking sebagai sinyal beli/jual.
+- SQLite dipilih untuk kemudahan menjalankan prototipe tanpa instalasi tambahan;
+  migrasi DuckDB dapat dilakukan saat implementasi penuh.

@@ -1,0 +1,12 @@
+{
+  "source_files": 278,
+  "duplicate_files": 10,
+  "facts": 13306,
+  "legacy_candidates": 212,
+  "valuation_eligible": 0,
+  "integrity_check": "ok",
+  "ticker_export": "AALI",
+  "snapshot_rows": 117,
+  "legacy_ticker_rows": 6,
+  "status": "REVIEW_ONLY"
+}
